@@ -271,205 +271,205 @@
   },
   {
     "source": "E:\\icassp\\zhaojiahao\\jobs\\v10_Y2_blind_pipeline_20261022.py",
-    "file": "archive/scientific_ancestors/v10_Y2_blind_pipeline_20261022.py",
+    "file": "archive/scientific_ancestors/dd233bc43bc2_v10_Y2_blind_pipeline_20261022.py",
     "sha256": "dd233bc43bc2b03fd93842ca869fb9643240fd79b95a782b36d946ee6cbb9449",
     "bytes": 5910
   },
   {
     "source": "E:\\icassp\\zhaojiahao\\jobs\\v10_Y2_blind_worker_20261022.py",
-    "file": "archive/scientific_ancestors/v10_Y2_blind_worker_20261022.py",
+    "file": "archive/scientific_ancestors/af00dbc3bb96_v10_Y2_blind_worker_20261022.py",
     "sha256": "af00dbc3bb961e7b54dc6045565dce7f6da0e9c4c5d0a91985af1db4e70eccfe",
     "bytes": 1863
   },
   {
     "source": "E:\\icassp\\zhaojiahao\\jobs\\v10_Y2_blind_math_20261022.py",
-    "file": "archive/scientific_ancestors/v10_Y2_blind_math_20261022.py",
+    "file": "archive/scientific_ancestors/a2be72eac54b_v10_Y2_blind_math_20261022.py",
     "sha256": "a2be72eac54bfd5fc95caeeddb712e4c5f87ccc25d8909632261552658d3b3c8",
     "bytes": 2760
   },
   {
     "source": "E:\\icassp\\zhaojiahao\\jobs\\v10_Y2_TF_pipeline_20261022.py",
-    "file": "archive/scientific_ancestors/v10_Y2_TF_pipeline_20261022.py",
+    "file": "archive/scientific_ancestors/a0efa2d5cc58_v10_Y2_TF_pipeline_20261022.py",
     "sha256": "a0efa2d5cc5870a0e5d3217ee91544a8b3c302ad362cf071c6f6e4d525f3f435",
     "bytes": 4853
   },
   {
     "source": "E:\\icassp\\zhaojiahao\\jobs\\v10_Y2_TF_worker_20261022.py",
-    "file": "archive/scientific_ancestors/v10_Y2_TF_worker_20261022.py",
+    "file": "archive/scientific_ancestors/52de40031a58_v10_Y2_TF_worker_20261022.py",
     "sha256": "52de40031a58db636fc395837a7448362c430f19b1c75392878fd7a48d32484d",
     "bytes": 4487
   },
   {
     "source": "E:\\icassp\\zhaojiahao\\jobs\\v10_Y1_Y3_cached_20261022.py",
-    "file": "archive/scientific_ancestors/v10_Y1_Y3_cached_20261022.py",
+    "file": "archive/scientific_ancestors/b9d293bdb9be_v10_Y1_Y3_cached_20261022.py",
     "sha256": "b9d293bdb9be244018d23196d84b5ce3cb246a5daa51c997183531b82c65fe84",
     "bytes": 6163
   },
   {
     "source": "E:\\icassp\\zhaojiahao\\jobs\\v10_Y4_samewave_pipeline_20261022.py",
-    "file": "archive/scientific_ancestors/v10_Y4_samewave_pipeline_20261022.py",
+    "file": "archive/scientific_ancestors/7db539f47b94_v10_Y4_samewave_pipeline_20261022.py",
     "sha256": "7db539f47b94e69f5842acc696456103e5819bcf3130fa4c251e3ada53928c10",
     "bytes": 10917
   },
   {
     "source": "E:\\icassp\\zhaojiahao\\jobs\\v10_Y4_samewave_worker_20261022.py",
-    "file": "archive/scientific_ancestors/v10_Y4_samewave_worker_20261022.py",
+    "file": "archive/scientific_ancestors/8256459c859a_v10_Y4_samewave_worker_20261022.py",
     "sha256": "8256459c859adb3290a84981c766ace57e2a29af242891992137ff4c2603281a",
     "bytes": 4445
   },
   {
     "source": "E:\\icassp\\zhaojiahao\\jobs\\v10_round3_common_20261023.py",
-    "file": "archive/scientific_ancestors/v10_round3_common_20261023.py",
+    "file": "archive/scientific_ancestors/a27f4fcae098_v10_round3_common_20261023.py",
     "sha256": "a27f4fcae0987bb6fe85c96667527dcfde574452215e0c02c166a64bdd0203f7",
     "bytes": 7766
   },
   {
     "source": "E:\\icassp\\zhaojiahao\\jobs\\v10_Z_readout_20261023.py",
-    "file": "archive/scientific_ancestors/v10_Z_readout_20261023.py",
+    "file": "archive/scientific_ancestors/ee9cba4cc695_v10_Z_readout_20261023.py",
     "sha256": "ee9cba4cc6952cd035616bd7ac05839c0f6cc3d231bb7e24f621429d9dfb3535",
     "bytes": 17563
   },
   {
     "source": "E:\\icassp\\zhaojiahao\\jobs\\v10_ER01_relation_worker_20261022.py",
-    "file": "archive/scientific_ancestors/v10_ER01_relation_worker_20261022.py",
+    "file": "archive/scientific_ancestors/1adba443aa6e_v10_ER01_relation_worker_20261022.py",
     "sha256": "1adba443aa6e25967c53f787f4786280786af6957a951452e217662aa3d4749c",
     "bytes": 3736
   },
   {
     "source": "E:\\icassp\\zhaojiahao\\jobs\\v10_ER01_relations_pipeline_20261022.py",
-    "file": "archive/scientific_ancestors/v10_ER01_relations_pipeline_20261022.py",
+    "file": "archive/scientific_ancestors/69d8dfe55b76_v10_ER01_relations_pipeline_20261022.py",
     "sha256": "69d8dfe55b76e70cb19d4a39dca3ab2d628349f7c58229869a1d72eddb272207",
     "bytes": 11660
   },
   {
     "source": "E:\\icassp\\zhaojiahao\\jobs\\v10_ER_expanded_readout_20261022.py",
-    "file": "archive/scientific_ancestors/v10_ER_expanded_readout_20261022.py",
+    "file": "archive/scientific_ancestors/4b4a28cd99f5_v10_ER_expanded_readout_20261022.py",
     "sha256": "4b4a28cd99f59623a433d9ca083e9021e15828935409a6dbeebb288f7199a59a",
     "bytes": 8623
   },
   {
     "source": "E:\\icassp\\zhaojiahao\\jobs\\v10_ER_expanded_features_20261022.py",
-    "file": "archive/scientific_ancestors/v10_ER_expanded_features_20261022.py",
+    "file": "archive/scientific_ancestors/eb82ed8d53a6_v10_ER_expanded_features_20261022.py",
     "sha256": "eb82ed8d53a6526e094fd8882ad3228c95bd6dd25dd02ce16fe579f76b7407b2",
     "bytes": 3122
   },
   {
     "source": "E:\\icassp\\zhaojiahao\\jobs\\v10_ER_expanded_pipeline_20261022.py",
-    "file": "archive/scientific_ancestors/v10_ER_expanded_pipeline_20261022.py",
+    "file": "archive/scientific_ancestors/968faf0b8ac0_v10_ER_expanded_pipeline_20261022.py",
     "sha256": "968faf0b8ac0a78fa82e4ed7d441bfecfb3bcf29256c1a67d52d1afc4c5dac12",
     "bytes": 9334
   },
   {
     "source": "E:\\icassp\\zhaojiahao\\jobs\\v10_Z13_scoring_repair_20261023.py",
-    "file": "archive/scientific_ancestors/v10_Z13_scoring_repair_20261023.py",
+    "file": "archive/scientific_ancestors/8c2b4474773f_v10_Z13_scoring_repair_20261023.py",
     "sha256": "8c2b4474773f05d6621f0189d3b672d257a7f670a71cd4c43e28404f1e640ab8",
     "bytes": 5751
   },
   {
     "source": "E:\\icassp\\zhaojiahao\\jobs\\v10_Z13_candidate_20261023.py",
-    "file": "archive/scientific_ancestors/v10_Z13_candidate_20261023.py",
+    "file": "archive/scientific_ancestors/da3b64223cfd_v10_Z13_candidate_20261023.py",
     "sha256": "da3b64223cfdf3a31f16012604b1a7ae5b8ab0d2e67175147144cb846a405ed1",
     "bytes": 8047
   },
   {
     "source": "E:\\icassp\\zhaojiahao\\jobs\\v10_Z13_attribution_20261023.py",
-    "file": "archive/scientific_ancestors/v10_Z13_attribution_20261023.py",
+    "file": "archive/scientific_ancestors/6ef10320a991_v10_Z13_attribution_20261023.py",
     "sha256": "6ef10320a991438d899b8f631d1608257bf83dcc34d61b8028994c414cfc43bf",
     "bytes": 18025
   },
   {
     "source": "E:\\icassp\\zhaojiahao\\CLIP2-new\\algorithms\\03_my_improvements\\experiments\\v10_20261016\\best_replay_20261021\\default_any_rows_r2.py",
-    "file": "archive/scientific_ancestors/default_any_rows_r2.py",
+    "file": "archive/scientific_ancestors/44b450ae31fb_default_any_rows_r2.py",
     "sha256": "44b450ae31fb4c6a698a5b2b10a4f0ef258536a16dea5c6c8cf22306fb49a5de",
     "bytes": 16910
   },
   {
     "source": "E:\\icassp\\zhaojiahao\\CLIP2-new\\algorithms\\03_my_improvements\\fusion_v2\\v6_attention_model_20260924.py",
-    "file": "archive/scientific_ancestors/v6_attention_model_20260924.py",
+    "file": "archive/scientific_ancestors/d3ff354500dc_v6_attention_model_20260924.py",
     "sha256": "d3ff354500dc86ad7befaefd713924088958a231ed0ea66562441737964c2b73",
     "bytes": 2994
   },
   {
     "source": "E:\\icassp\\zhaojiahao\\CLIP2-new\\algorithms\\03_my_improvements\\fusion_v2\\v6_m2_stem_fusion_20260924.py",
-    "file": "archive/scientific_ancestors/v6_m2_stem_fusion_20260924.py",
+    "file": "archive/scientific_ancestors/c5213f33fce8_v6_m2_stem_fusion_20260924.py",
     "sha256": "c5213f33fce88db0efc0a223008d54df564b72a65c91c94acfffe7b8f312cde3",
     "bytes": 12481
   },
   {
     "source": "E:\\icassp\\zhaojiahao\\CLIP2-new\\algorithms\\03_my_improvements\\fusion_v3\\jury_model_r2.py",
-    "file": "archive/scientific_ancestors/jury_model_r2.py",
+    "file": "archive/scientific_ancestors/3bc138967a9c_jury_model_r2.py",
     "sha256": "3bc138967a9c508e5ebe323d7cdabf97efc92e726137bdae15f13c8746aace92",
     "bytes": 4941
   },
   {
     "source": "E:\\icassp\\zhaojiahao\\CLIP2-new\\algorithms\\03_my_improvements\\experiments\\v10_20261016\\S1_CTC_second_seed_20261018\\frozen_S1_two_seed_package\\infer.py",
-    "file": "archive/scientific_ancestors/infer.py",
+    "file": "archive/scientific_ancestors/1f33c8a1f31d_infer.py",
     "sha256": "1f33c8a1f31d30358ae41619d35b66598a2f5d49fbc787cae3a80294e3c9b1a1",
     "bytes": 2703
   },
   {
     "source": "E:\\icassp\\zhaojiahao\\CLIP2-new\\algorithms\\03_my_improvements\\experiments\\v10_20261016\\best_replay_20261021\\frozen_P2_587013\\C\\infer.py",
-    "file": "archive/scientific_ancestors/infer.py",
+    "file": "archive/scientific_ancestors/43ad02fe368e_infer.py",
     "sha256": "43ad02fe368ecaf4164c4665612e355c2a49c33d75c56e3d7a65c3166a012f93",
     "bytes": 3902
   },
   {
     "source": "E:\\icassp\\zhaojiahao\\jobs\\v10_stall_P2_worker_20261021.py",
-    "file": "archive/scientific_ancestors/v10_stall_P2_worker_20261021.py",
+    "file": "archive/scientific_ancestors/255d3520aef6_v10_stall_P2_worker_20261021.py",
     "sha256": "255d3520aef68e83e35561ef2a23b098cd41a4bf3d0bd04a906aace60fb3864d",
     "bytes": 5150
   },
   {
     "source": "E:\\icassp\\zhaojiahao\\jobs\\v10_stall_frozen_fusion_20261021.py",
-    "file": "archive/scientific_ancestors/v10_stall_frozen_fusion_20261021.py",
+    "file": "archive/scientific_ancestors/3615a2d20f0d_v10_stall_frozen_fusion_20261021.py",
     "sha256": "3615a2d20f0d0dfc4f526bc2e2d5f3be88d69a5c6e7e0177277455cfff7757ef",
     "bytes": 1769
   },
   {
     "source": "E:\\icassp\\zhaojiahao\\jobs\\v10_music_witness_head_worker_20261021.py",
-    "file": "archive/scientific_ancestors/v10_music_witness_head_worker_20261021.py",
+    "file": "archive/scientific_ancestors/50846e5fadf6_v10_music_witness_head_worker_20261021.py",
     "sha256": "50846e5fadf643b0d32871ffb771518a0de9c4eec9a9c6ea20d3350709b89336",
     "bytes": 3935
   },
   {
     "source": "E:\\icassp\\zhaojiahao\\jobs\\v10_G01_MF_surface_20261022.py",
-    "file": "archive/scientific_ancestors/v10_G01_MF_surface_20261022.py",
+    "file": "archive/scientific_ancestors/48fbf1412914_v10_G01_MF_surface_20261022.py",
     "sha256": "48fbf141291422b6b52b9dffe9dbecb4481fa32b14f6e5b226da60a1c6baeaca",
     "bytes": 10192
   },
   {
     "source": "E:\\icassp\\zhaojiahao\\jobs\\v10_new_information_20261022.py",
-    "file": "archive/scientific_ancestors/v10_new_information_20261022.py",
+    "file": "archive/scientific_ancestors/b466cddacf32_v10_new_information_20261022.py",
     "sha256": "b466cddacf3211b08df00c79aa20daa10c4cc30cb940bd420ae8228da822c75f",
     "bytes": 16047
   },
   {
     "source": "E:\\icassp\\zhaojiahao\\jobs\\clip2_fb_parent_replay_20261024.py",
-    "file": "archive/scientific_ancestors/clip2_fb_parent_replay_20261024.py",
+    "file": "archive/scientific_ancestors/d2b940206929_clip2_fb_parent_replay_20261024.py",
     "sha256": "d2b940206929d4749b670cfdc0af78997060fca2152c60a39ea489a719edf4bc",
     "bytes": 11010
   },
   {
     "source": "E:\\icassp\\zhaojiahao\\jobs\\clip2_broad_original3_point5189_worker_20261026.py",
-    "file": "archive/scientific_ancestors/clip2_broad_original3_point5189_worker_20261026.py",
+    "file": "archive/scientific_ancestors/a898de96e505_clip2_broad_original3_point5189_worker_20261026.py",
     "sha256": "a898de96e50524c63a85980bc5130d7341a393b134c624145f187733f6858d45",
     "bytes": 18198
   },
   {
     "source": "E:\\icassp\\zhaojiahao\\CLIP2-new\\algorithms\\03_my_improvements\\experiments\\v10_20261016\\next_jury_20261024\\runtime\\late_readout_serialization_20261026\\fixed_jpoint_zall_readout_recovery.py",
-    "file": "archive/scientific_ancestors/fixed_jpoint_zall_readout_recovery.py",
+    "file": "archive/scientific_ancestors/f155e94450b4_fixed_jpoint_zall_readout_recovery.py",
     "sha256": "f155e94450b45661ffc9404c1b2e0f0cce97746fb64d85eaeb451001ec3cfda4",
     "bytes": 22855
   },
   {
     "source": "E:\\icassp\\zhaojiahao\\jobs\\clip2_72h_block_cv_20261024.py",
-    "file": "archive/scientific_ancestors/clip2_72h_block_cv_20261024.py",
+    "file": "archive/scientific_ancestors/facc74533014_clip2_72h_block_cv_20261024.py",
     "sha256": "facc74533014125ac3d59862fab21d9557b7ca1676de2439d84a20b5cf11522f",
     "bytes": 9436
   },
   {
     "source": "E:\\icassp\\zhaojiahao\\CLIP2-new\\algorithms\\03_my_improvements\\experiments\\v10_20261016\\final_selective_risk_20261027\\delivery_preparation\\build_asset_inventory_agent.py",
-    "file": "archive/scientific_ancestors/build_asset_inventory_agent.py",
+    "file": "archive/scientific_ancestors/f679b127f40d_build_asset_inventory_agent.py",
     "sha256": "f679b127f40d33f86c6556125592c4c8fbed70c0daf3d52f7dc8dc7c0be57c5c",
     "bytes": 10715
   },
