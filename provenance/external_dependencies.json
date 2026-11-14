@@ -1,0 +1,1289 @@
+[
+  {
+    "path": "/home/lisiyi/.cache/huggingface/hub/models--ibm-granite--granite-speech-5.0-470m-turboctc/snapshots/947f59af40db9791170a0628cf0f3f4812d720f1",
+    "bytes": 4096,
+    "directory": true,
+    "children": [
+      {
+        "name": "config.json",
+        "bytes": 926,
+        "directory": false
+      },
+      {
+        "name": "generation_config.json",
+        "bytes": 158,
+        "directory": false
+      },
+      {
+        "name": "tokenizer_config.json",
+        "bytes": 222,
+        "directory": false
+      },
+      {
+        "name": "processor_config.json",
+        "bytes": 430,
+        "directory": false
+      },
+      {
+        "name": "tokenizer.json",
+        "bytes": 1137492,
+        "directory": false
+      },
+      {
+        "name": "preprocessor_config.json",
+        "bytes": 327,
+        "directory": false
+      },
+      {
+        "name": "model.safetensors",
+        "bytes": 946180704,
+        "directory": false
+      }
+    ]
+  },
+  {
+    "path": "/home/lisiyi/.cache/huggingface/hub/models--ibm-granite--granite-speech-5.0-470m-turboctc/snapshots/947f59af40db9791170a0628cf0f3f4812d720f1/config.json",
+    "bytes": 926,
+    "directory": false
+  },
+  {
+    "path": "/home/lisiyi/.cache/huggingface/hub/models--ibm-granite--granite-speech-5.0-470m-turboctc/snapshots/947f59af40db9791170a0628cf0f3f4812d720f1/generation_config.json",
+    "bytes": 158,
+    "directory": false
+  },
+  {
+    "path": "/home/lisiyi/.cache/huggingface/hub/models--ibm-granite--granite-speech-5.0-470m-turboctc/snapshots/947f59af40db9791170a0628cf0f3f4812d720f1/model.safetensors",
+    "bytes": 946180704,
+    "directory": false
+  },
+  {
+    "path": "/home/lisiyi/.cache/huggingface/hub/models--ibm-granite--granite-speech-5.0-470m-turboctc/snapshots/947f59af40db9791170a0628cf0f3f4812d720f1/preprocessor_config.json",
+    "bytes": 327,
+    "directory": false
+  },
+  {
+    "path": "/home/lisiyi/.cache/huggingface/hub/models--ibm-granite--granite-speech-5.0-470m-turboctc/snapshots/947f59af40db9791170a0628cf0f3f4812d720f1/processor_config.json",
+    "bytes": 430,
+    "directory": false
+  },
+  {
+    "path": "/home/lisiyi/.cache/huggingface/hub/models--ibm-granite--granite-speech-5.0-470m-turboctc/snapshots/947f59af40db9791170a0628cf0f3f4812d720f1/tokenizer.json",
+    "bytes": 1137492,
+    "directory": false
+  },
+  {
+    "path": "/home/lisiyi/.cache/huggingface/hub/models--ibm-granite--granite-speech-5.0-470m-turboctc/snapshots/947f59af40db9791170a0628cf0f3f4812d720f1/tokenizer_config.json",
+    "bytes": 222,
+    "directory": false
+  },
+  {
+    "path": "/home/lisiyi/.cache/huggingface/hub/models--nvidia--parakeet-tdt-0.6b-v3/snapshots/541d1f99c6b0c3cd0b11a95167540bb8edefd82b",
+    "bytes": 4096,
+    "directory": true,
+    "children": [
+      {
+        "name": "config.json",
+        "bytes": 1153,
+        "directory": false
+      },
+      {
+        "name": "generation_config.json",
+        "bytes": 289,
+        "directory": false
+      },
+      {
+        "name": "tokenizer_config.json",
+        "bytes": 290,
+        "directory": false
+      },
+      {
+        "name": "processor_config.json",
+        "bytes": 392,
+        "directory": false
+      },
+      {
+        "name": "tokenizer.json",
+        "bytes": 1159960,
+        "directory": false
+      },
+      {
+        "name": "model.safetensors",
+        "bytes": 2508311120,
+        "directory": false
+      }
+    ]
+  },
+  {
+    "path": "/home/lisiyi/.cache/huggingface/hub/models--nvidia--parakeet-tdt-0.6b-v3/snapshots/541d1f99c6b0c3cd0b11a95167540bb8edefd82b/config.json",
+    "bytes": 1153,
+    "directory": false
+  },
+  {
+    "path": "/home/lisiyi/.cache/huggingface/hub/models--nvidia--parakeet-tdt-0.6b-v3/snapshots/541d1f99c6b0c3cd0b11a95167540bb8edefd82b/generation_config.json",
+    "bytes": 289,
+    "directory": false
+  },
+  {
+    "path": "/home/lisiyi/.cache/huggingface/hub/models--nvidia--parakeet-tdt-0.6b-v3/snapshots/541d1f99c6b0c3cd0b11a95167540bb8edefd82b/model.safetensors",
+    "bytes": 2508311120,
+    "directory": false
+  },
+  {
+    "path": "/home/lisiyi/.cache/huggingface/hub/models--nvidia--parakeet-tdt-0.6b-v3/snapshots/541d1f99c6b0c3cd0b11a95167540bb8edefd82b/processor_config.json",
+    "bytes": 392,
+    "directory": false
+  },
+  {
+    "path": "/home/lisiyi/.cache/huggingface/hub/models--nvidia--parakeet-tdt-0.6b-v3/snapshots/541d1f99c6b0c3cd0b11a95167540bb8edefd82b/tokenizer.json",
+    "bytes": 1159960,
+    "directory": false
+  },
+  {
+    "path": "/home/lisiyi/.cache/huggingface/hub/models--nvidia--parakeet-tdt-0.6b-v3/snapshots/541d1f99c6b0c3cd0b11a95167540bb8edefd82b/tokenizer_config.json",
+    "bytes": 290,
+    "directory": false
+  },
+  {
+    "path": "/home/lisiyi/.cache/torch/hub/torchaudio/models/hdemucs_high_trained.pt",
+    "bytes": 334697255,
+    "directory": false
+  },
+  {
+    "path": "/home/lisiyi/ICASSP2_2026/data/clip2",
+    "bytes": 4096,
+    "directory": true,
+    "children": [
+      {
+        "name": "train",
+        "bytes": 4096,
+        "directory": true
+      },
+      {
+        "name": "metadata",
+        "bytes": 4096,
+        "directory": true
+      },
+      {
+        "name": "manifest",
+        "bytes": 4096,
+        "directory": true
+      },
+      {
+        "name": "valid",
+        "bytes": 4096,
+        "directory": true
+      }
+    ]
+  },
+  {
+    "path": "/home/lisiyi/ICASSP2_2026/data/clip2/metadata/valid_metadata.json",
+    "bytes": 486734,
+    "directory": false
+  },
+  {
+    "path": "/home/lisiyi/ICASSP2_2026/vendor/transformers_5_16_1",
+    "bytes": 4096,
+    "directory": true,
+    "children": [
+      {
+        "name": "markdown_it_py-4.2.0.dist-info",
+        "bytes": 4096,
+        "directory": true
+      },
+      {
+        "name": "pygments",
+        "bytes": 4096,
+        "directory": true
+      },
+      {
+        "name": "shellingham",
+        "bytes": 4096,
+        "directory": true
+      },
+      {
+        "name": "filelock-4.1.0.dist-info",
+        "bytes": 4096,
+        "directory": true
+      },
+      {
+        "name": "annotated_doc",
+        "bytes": 4096,
+        "directory": true
+      },
+      {
+        "name": "tqdm-4.70.1.dist-info",
+        "bytes": 4096,
+        "directory": true
+      },
+      {
+        "name": "click",
+        "bytes": 4096,
+        "directory": true
+      },
+      {
+        "name": "tomli-2.5.0.dist-info",
+        "bytes": 4096,
+        "directory": true
+      },
+      {
+        "name": "httpcore",
+        "bytes": 4096,
+        "directory": true
+      },
+      {
+        "name": "h11",
+        "bytes": 4096,
+        "directory": true
+      },
+      {
+        "name": "regex",
+        "bytes": 4096,
+        "directory": true
+      },
+      {
+        "name": "markdown_it",
+        "bytes": 4096,
+        "directory": true
+      },
+      {
+        "name": "typing_extensions-4.16.0.dist-info",
+        "bytes": 4096,
+        "directory": true
+      },
+      {
+        "name": "packaging-26.3.dist-info",
+        "bytes": 4096,
+        "directory": true
+      },
+      {
+        "name": "typing_extensions.py",
+        "bytes": 165012,
+        "directory": false
+      },
+      {
+        "name": "idna-3.20.dist-info",
+        "bytes": 4096,
+        "directory": true
+      },
+      {
+        "name": "rich-15.0.0.dist-info",
+        "bytes": 4096,
+        "directory": true
+      },
+      {
+        "name": "hf_xet",
+        "bytes": 4096,
+        "directory": true
+      },
+      {
+        "name": "mdurl",
+        "bytes": 4096,
+        "directory": true
+      },
+      {
+        "name": "transformers",
+        "bytes": 4096,
+        "directory": true
+      },
+      {
+        "name": "tqdm",
+        "bytes": 4096,
+        "directory": true
+      },
+      {
+        "name": "__pycache__",
+        "bytes": 4096,
+        "directory": true
+      },
+      {
+        "name": "numpy.libs",
+        "bytes": 4096,
+        "directory": true
+      },
+      {
+        "name": "huggingface_hub-1.33.0.dist-info",
+        "bytes": 4096,
+        "directory": true
+      },
+      {
+        "name": "tokenizers",
+        "bytes": 4096,
+        "directory": true
+      },
+      {
+        "name": "tomli",
+        "bytes": 4096,
+        "directory": true
+      },
+      {
+        "name": "exceptiongroup-1.3.1.dist-info",
+        "bytes": 4096,
+        "directory": true
+      },
+      {
+        "name": "httpx-0.28.1.dist-info",
+        "bytes": 4096,
+        "directory": true
+      },
+      {
+        "name": "exceptiongroup",
+        "bytes": 4096,
+        "directory": true
+      },
+      {
+        "name": "click-8.5.0.dist-info",
+        "bytes": 4096,
+        "directory": true
+      },
+      {
+        "name": "typer-0.27.3.dist-info",
+        "bytes": 4096,
+        "directory": true
+      },
+      {
+        "name": "pygments-2.21.0.dist-info",
+        "bytes": 4096,
+        "directory": true
+      },
+      {
+        "name": "certifi-2026.7.22.dist-info",
+        "bytes": 4096,
+        "directory": true
+      },
+      {
+        "name": "regex-2026.9.29.dist-info",
+        "bytes": 4096,
+        "directory": true
+      },
+      {
+        "name": "safetensors-0.8.0.dist-info",
+        "bytes": 4096,
+        "directory": true
+      },
+      {
+        "name": "safetensors",
+        "bytes": 4096,
+        "directory": true
+      },
+      {
+        "name": "_yaml",
+        "bytes": 4096,
+        "directory": true
+      },
+      {
+        "name": "anyio-4.15.1.dist-info",
+        "bytes": 4096,
+        "directory": true
+      },
+      {
+        "name": "typer",
+        "bytes": 4096,
+        "directory": true
+      },
+      {
+        "name": "packaging",
+        "bytes": 4096,
+        "directory": true
+      },
+      {
+        "name": "fsspec",
+        "bytes": 4096,
+        "directory": true
+      },
+      {
+        "name": "bin",
+        "bytes": 4096,
+        "directory": true
+      },
+      {
+        "name": "numpy-2.2.6.dist-info",
+        "bytes": 4096,
+        "directory": true
+      },
+      {
+        "name": "shellingham-1.5.4.dist-info",
+        "bytes": 4096,
+        "directory": true
+      },
+      {
+        "name": "h11-0.16.0.dist-info",
+        "bytes": 4096,
+        "directory": true
+      },
+      {
+        "name": "filelock",
+        "bytes": 4096,
+        "directory": true
+      },
+      {
+        "name": "rich",
+        "bytes": 4096,
+        "directory": true
+      },
+      {
+        "name": "transformers-5.16.1.dist-info",
+        "bytes": 4096,
+        "directory": true
+      },
+      {
+        "name": "fsspec-2026.9.0.dist-info",
+        "bytes": 4096,
+        "directory": true
+      },
+      {
+        "name": "huggingface_hub",
+        "bytes": 4096,
+        "directory": true
+      },
+      {
+        "name": "idna",
+        "bytes": 4096,
+        "directory": true
+      },
+      {
+        "name": "httpx",
+        "bytes": 4096,
+        "directory": true
+      },
+      {
+        "name": "certifi",
+        "bytes": 4096,
+        "directory": true
+      },
+      {
+        "name": "pyyaml-6.0.3.dist-info",
+        "bytes": 4096,
+        "directory": true
+      },
+      {
+        "name": "yaml",
+        "bytes": 4096,
+        "directory": true
+      },
+      {
+        "name": "numpy",
+        "bytes": 4096,
+        "directory": true
+      },
+      {
+        "name": "httpcore-1.0.9.dist-info",
+        "bytes": 4096,
+        "directory": true
+      },
+      {
+        "name": "annotated_doc-0.0.5.dist-info",
+        "bytes": 4096,
+        "directory": true
+      },
+      {
+        "name": "tokenizers-0.23.3.dist-info",
+        "bytes": 4096,
+        "directory": true
+      },
+      {
+        "name": "hf_xet-1.7.0.dist-info",
+        "bytes": 4096,
+        "directory": true
+      },
+      {
+        "name": "anyio",
+        "bytes": 4096,
+        "directory": true
+      },
+      {
+        "name": "mdurl-0.1.2.dist-info",
+        "bytes": 4096,
+        "directory": true
+      }
+    ]
+  },
+  {
+    "path": "/home/lisiyi/ICASSP2_2026/vendor/transformers_5_16_1/transformers/models/parakeet/generation_parakeet.py",
+    "bytes": 13257,
+    "directory": false
+  },
+  {
+    "path": "/home/lisiyi/ICASSP2_2026/vendor/transformers_5_16_1/transformers/models/parakeet/modeling_parakeet.py",
+    "bytes": 49389,
+    "directory": false
+  },
+  {
+    "path": "/home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/autodl_inference_dependency_backup_20261028_v1/mirror/root/clip2_workspace/models/Qwen3-ASR-1.7B",
+    "bytes": 4096,
+    "directory": true,
+    "children": [
+      {
+        "name": "config.json",
+        "bytes": 6194,
+        "directory": false
+      },
+      {
+        "name": "generation_config.json",
+        "bytes": 142,
+        "directory": false
+      },
+      {
+        "name": "README.md",
+        "bytes": 57456,
+        "directory": false
+      },
+      {
+        "name": "model-00001-of-00002.safetensors",
+        "bytes": 4220320824,
+        "directory": false
+      },
+      {
+        "name": "tokenizer_config.json",
+        "bytes": 12487,
+        "directory": false
+      },
+      {
+        "name": "preprocessor_config.json",
+        "bytes": 330,
+        "directory": false
+      },
+      {
+        "name": "model.safetensors.index.json",
+        "bytes": 64821,
+        "directory": false
+      },
+      {
+        "name": "chat_template.json",
+        "bytes": 1161,
+        "directory": false
+      },
+      {
+        "name": "merges.txt",
+        "bytes": 1671853,
+        "directory": false
+      },
+      {
+        "name": "vocab.json",
+        "bytes": 2776833,
+        "directory": false
+      },
+      {
+        "name": "model-00002-of-00002.safetensors",
+        "bytes": 478200688,
+        "directory": false
+      }
+    ]
+  },
+  {
+    "path": "/home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/autodl_inference_dependency_backup_20261028_v1/mirror/root/clip2_workspace/models/Qwen3-ASR-1.7B/README.md",
+    "bytes": 57456,
+    "directory": false
+  },
+  {
+    "path": "/home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/autodl_inference_dependency_backup_20261028_v1/mirror/root/clip2_workspace/models/Qwen3-ASR-1.7B/chat_template.json",
+    "bytes": 1161,
+    "directory": false
+  },
+  {
+    "path": "/home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/autodl_inference_dependency_backup_20261028_v1/mirror/root/clip2_workspace/models/Qwen3-ASR-1.7B/config.json",
+    "bytes": 6194,
+    "directory": false
+  },
+  {
+    "path": "/home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/autodl_inference_dependency_backup_20261028_v1/mirror/root/clip2_workspace/models/Qwen3-ASR-1.7B/generation_config.json",
+    "bytes": 142,
+    "directory": false
+  },
+  {
+    "path": "/home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/autodl_inference_dependency_backup_20261028_v1/mirror/root/clip2_workspace/models/Qwen3-ASR-1.7B/merges.txt",
+    "bytes": 1671853,
+    "directory": false
+  },
+  {
+    "path": "/home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/autodl_inference_dependency_backup_20261028_v1/mirror/root/clip2_workspace/models/Qwen3-ASR-1.7B/model-00001-of-00002.safetensors",
+    "bytes": 4220320824,
+    "directory": false
+  },
+  {
+    "path": "/home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/autodl_inference_dependency_backup_20261028_v1/mirror/root/clip2_workspace/models/Qwen3-ASR-1.7B/model-00002-of-00002.safetensors",
+    "bytes": 478200688,
+    "directory": false
+  },
+  {
+    "path": "/home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/autodl_inference_dependency_backup_20261028_v1/mirror/root/clip2_workspace/models/Qwen3-ASR-1.7B/model.safetensors.index.json",
+    "bytes": 64821,
+    "directory": false
+  },
+  {
+    "path": "/home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/autodl_inference_dependency_backup_20261028_v1/mirror/root/clip2_workspace/models/Qwen3-ASR-1.7B/preprocessor_config.json",
+    "bytes": 330,
+    "directory": false
+  },
+  {
+    "path": "/home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/autodl_inference_dependency_backup_20261028_v1/mirror/root/clip2_workspace/models/Qwen3-ASR-1.7B/tokenizer_config.json",
+    "bytes": 12487,
+    "directory": false
+  },
+  {
+    "path": "/home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/autodl_inference_dependency_backup_20261028_v1/mirror/root/clip2_workspace/models/Qwen3-ASR-1.7B/vocab.json",
+    "bytes": 2776833,
+    "directory": false
+  },
+  {
+    "path": "/home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/qwen_audio_runtime_v1/tf4576_site_v1",
+    "bytes": 4096,
+    "directory": true,
+    "children": [
+      {
+        "name": "huggingface_hub-0.36.0.dist-info",
+        "bytes": 4096,
+        "directory": true
+      },
+      {
+        "name": "transformers",
+        "bytes": 4096,
+        "directory": true
+      },
+      {
+        "name": "transformers-4.57.6.dist-info",
+        "bytes": 4096,
+        "directory": true
+      },
+      {
+        "name": "huggingface_hub",
+        "bytes": 4096,
+        "directory": true
+      }
+    ]
+  },
+  {
+    "path": "/home/lisiyi/miniconda3/envs/icassp/lib/python3.10/site-packages/torchaudio/models/_hdemucs.py",
+    "bytes": 38242,
+    "directory": false
+  },
+  {
+    "path": "/home/lisiyi/models/Qwen3-ASR-0.6B",
+    "bytes": 4096,
+    "directory": true,
+    "children": [
+      {
+        "name": "config.json",
+        "bytes": 6193,
+        "directory": false
+      },
+      {
+        "name": "generation_config.json",
+        "bytes": 142,
+        "directory": false
+      },
+      {
+        "name": "README.md",
+        "bytes": 57456,
+        "directory": false
+      },
+      {
+        "name": "configuration.json",
+        "bytes": 56,
+        "directory": false
+      },
+      {
+        "name": ".gitattributes",
+        "bytes": 2176,
+        "directory": false
+      },
+      {
+        "name": "tokenizer_config.json",
+        "bytes": 12487,
+        "directory": false
+      },
+      {
+        "name": "preprocessor_config.json",
+        "bytes": 330,
+        "directory": false
+      },
+      {
+        "name": "chat_template.json",
+        "bytes": 1161,
+        "directory": false
+      },
+      {
+        "name": "merges.txt",
+        "bytes": 1671853,
+        "directory": false
+      },
+      {
+        "name": "vocab.json",
+        "bytes": 2776833,
+        "directory": false
+      },
+      {
+        "name": "model.safetensors",
+        "bytes": 1876091704,
+        "directory": false
+      }
+    ]
+  },
+  {
+    "path": "/home/lisiyi/models/Qwen3-ASR-0.6B/config.json",
+    "bytes": 6193,
+    "directory": false
+  },
+  {
+    "path": "/home/lisiyi/models/Qwen3-ASR-0.6B/model.safetensors",
+    "bytes": 1876091704,
+    "directory": false
+  },
+  {
+    "path": "/home/lisiyi/models/Qwen3-ASR-0.6B/preprocessor_config.json",
+    "bytes": 330,
+    "directory": false
+  },
+  {
+    "path": "/home/lisiyi/models/models--openai--whisper-large-v3/snapshots/06f233fe06e710322aca913c1bc4249a0d71fce1",
+    "bytes": 4096,
+    "directory": true,
+    "children": [
+      {
+        "name": "config.json",
+        "bytes": 1272,
+        "directory": false
+      },
+      {
+        "name": "added_tokens.json",
+        "bytes": 34648,
+        "directory": false
+      },
+      {
+        "name": "tokenizer_config.json",
+        "bytes": 282843,
+        "directory": false
+      },
+      {
+        "name": "tokenizer.json",
+        "bytes": 2480617,
+        "directory": false
+      },
+      {
+        "name": "special_tokens_map.json",
+        "bytes": 2072,
+        "directory": false
+      },
+      {
+        "name": "preprocessor_config.json",
+        "bytes": 340,
+        "directory": false
+      },
+      {
+        "name": "normalizer.json",
+        "bytes": 52666,
+        "directory": false
+      },
+      {
+        "name": "merges.txt",
+        "bytes": 493869,
+        "directory": false
+      },
+      {
+        "name": "vocab.json",
+        "bytes": 1036558,
+        "directory": false
+      },
+      {
+        "name": "model.safetensors",
+        "bytes": 3087130976,
+        "directory": false
+      }
+    ]
+  },
+  {
+    "path": "/home/lisiyi/models/models--openai--whisper-large-v3/snapshots/06f233fe06e710322aca913c1bc4249a0d71fce1/added_tokens.json",
+    "bytes": 34648,
+    "directory": false
+  },
+  {
+    "path": "/home/lisiyi/models/models--openai--whisper-large-v3/snapshots/06f233fe06e710322aca913c1bc4249a0d71fce1/config.json",
+    "bytes": 1272,
+    "directory": false
+  },
+  {
+    "path": "/home/lisiyi/models/models--openai--whisper-large-v3/snapshots/06f233fe06e710322aca913c1bc4249a0d71fce1/merges.txt",
+    "bytes": 493869,
+    "directory": false
+  },
+  {
+    "path": "/home/lisiyi/models/models--openai--whisper-large-v3/snapshots/06f233fe06e710322aca913c1bc4249a0d71fce1/model.safetensors",
+    "bytes": 3087130976,
+    "directory": false
+  },
+  {
+    "path": "/home/lisiyi/models/models--openai--whisper-large-v3/snapshots/06f233fe06e710322aca913c1bc4249a0d71fce1/normalizer.json",
+    "bytes": 52666,
+    "directory": false
+  },
+  {
+    "path": "/home/lisiyi/models/models--openai--whisper-large-v3/snapshots/06f233fe06e710322aca913c1bc4249a0d71fce1/preprocessor_config.json",
+    "bytes": 340,
+    "directory": false
+  },
+  {
+    "path": "/home/lisiyi/models/models--openai--whisper-large-v3/snapshots/06f233fe06e710322aca913c1bc4249a0d71fce1/special_tokens_map.json",
+    "bytes": 2072,
+    "directory": false
+  },
+  {
+    "path": "/home/lisiyi/models/models--openai--whisper-large-v3/snapshots/06f233fe06e710322aca913c1bc4249a0d71fce1/tokenizer.json",
+    "bytes": 2480617,
+    "directory": false
+  },
+  {
+    "path": "/home/lisiyi/models/models--openai--whisper-large-v3/snapshots/06f233fe06e710322aca913c1bc4249a0d71fce1/tokenizer_config.json",
+    "bytes": 282843,
+    "directory": false
+  },
+  {
+    "path": "/home/lisiyi/models/models--openai--whisper-large-v3/snapshots/06f233fe06e710322aca913c1bc4249a0d71fce1/vocab.json",
+    "bytes": 1036558,
+    "directory": false
+  },
+  {
+    "path": "/home/lisiyi/models/roberta-base",
+    "bytes": 4096,
+    "directory": true,
+    "children": [
+      {
+        "name": "config.json",
+        "bytes": 481,
+        "directory": false
+      },
+      {
+        "name": "tokenizer_config.json",
+        "bytes": 25,
+        "directory": false
+      },
+      {
+        "name": "tokenizer.json",
+        "bytes": 1355863,
+        "directory": false
+      },
+      {
+        "name": ".cache",
+        "bytes": 4096,
+        "directory": true
+      },
+      {
+        "name": "merges.txt",
+        "bytes": 456318,
+        "directory": false
+      },
+      {
+        "name": "vocab.json",
+        "bytes": 898823,
+        "directory": false
+      },
+      {
+        "name": "model.safetensors",
+        "bytes": 498818054,
+        "directory": false
+      }
+    ]
+  },
+  {
+    "path": "/home/lisiyi/models/roberta-base/config.json",
+    "bytes": 481,
+    "directory": false
+  },
+  {
+    "path": "/home/lisiyi/models/roberta-base/merges.txt",
+    "bytes": 456318,
+    "directory": false
+  },
+  {
+    "path": "/home/lisiyi/models/roberta-base/model.safetensors",
+    "bytes": 498818054,
+    "directory": false
+  },
+  {
+    "path": "/home/lisiyi/models/roberta-base/tokenizer.json",
+    "bytes": 1355863,
+    "directory": false
+  },
+  {
+    "path": "/home/lisiyi/models/roberta-base/tokenizer_config.json",
+    "bytes": 25,
+    "directory": false
+  },
+  {
+    "path": "/home/lisiyi/models/roberta-base/vocab.json",
+    "bytes": 898823,
+    "directory": false
+  },
+  {
+    "path": "/home/lisiyi/models/whisper-medium",
+    "bytes": 4096,
+    "directory": true,
+    "children": [
+      {
+        "name": "config.json",
+        "bytes": 1991,
+        "directory": false
+      },
+      {
+        "name": "added_tokens.json",
+        "bytes": 34604,
+        "directory": false
+      },
+      {
+        "name": "flax_model.msgpack",
+        "bytes": 3055465603,
+        "directory": false
+      },
+      {
+        "name": "pytorch_model.bin",
+        "bytes": 3055735323,
+        "directory": false
+      },
+      {
+        "name": "generation_config.json",
+        "bytes": 3755,
+        "directory": false
+      },
+      {
+        "name": "README.md",
+        "bytes": 19807,
+        "directory": false
+      },
+      {
+        "name": ".gitattributes",
+        "bytes": 1438,
+        "directory": false
+      },
+      {
+        "name": "tokenizer_config.json",
+        "bytes": 282683,
+        "directory": false
+      },
+      {
+        "name": "tokenizer.json",
+        "bytes": 2480466,
+        "directory": false
+      },
+      {
+        "name": "tf_model.h5",
+        "bytes": 3056433872,
+        "directory": false
+      },
+      {
+        "name": ".cache",
+        "bytes": 4096,
+        "directory": true
+      },
+      {
+        "name": "special_tokens_map.json",
+        "bytes": 2194,
+        "directory": false
+      },
+      {
+        "name": "preprocessor_config.json",
+        "bytes": 184990,
+        "directory": false
+      },
+      {
+        "name": "normalizer.json",
+        "bytes": 52666,
+        "directory": false
+      },
+      {
+        "name": "merges.txt",
+        "bytes": 493869,
+        "directory": false
+      },
+      {
+        "name": "vocab.json",
+        "bytes": 835550,
+        "directory": false
+      },
+      {
+        "name": "model.safetensors",
+        "bytes": 3055544304,
+        "directory": false
+      }
+    ]
+  },
+  {
+    "path": "/home/lisiyi/models/whisper-medium/added_tokens.json",
+    "bytes": 34604,
+    "directory": false
+  },
+  {
+    "path": "/home/lisiyi/models/whisper-medium/config.json",
+    "bytes": 1991,
+    "directory": false
+  },
+  {
+    "path": "/home/lisiyi/models/whisper-medium/generation_config.json",
+    "bytes": 3755,
+    "directory": false
+  },
+  {
+    "path": "/home/lisiyi/models/whisper-medium/merges.txt",
+    "bytes": 493869,
+    "directory": false
+  },
+  {
+    "path": "/home/lisiyi/models/whisper-medium/model.safetensors",
+    "bytes": 3055544304,
+    "directory": false
+  },
+  {
+    "path": "/home/lisiyi/models/whisper-medium/normalizer.json",
+    "bytes": 52666,
+    "directory": false
+  },
+  {
+    "path": "/home/lisiyi/models/whisper-medium/preprocessor_config.json",
+    "bytes": 184990,
+    "directory": false
+  },
+  {
+    "path": "/home/lisiyi/models/whisper-medium/special_tokens_map.json",
+    "bytes": 2194,
+    "directory": false
+  },
+  {
+    "path": "/home/lisiyi/models/whisper-medium/tokenizer.json",
+    "bytes": 2480466,
+    "directory": false
+  },
+  {
+    "path": "/home/lisiyi/models/whisper-medium/tokenizer_config.json",
+    "bytes": 282683,
+    "directory": false
+  },
+  {
+    "path": "/home/lisiyi/models/whisper-medium/vocab.json",
+    "bytes": 835550,
+    "directory": false
+  },
+  {
+    "path": "/home/lisiyi/zhaojiahao_1/models/public_priors/demucs/955717e8-8726e21a.th",
+    "bytes": 84141911,
+    "directory": false
+  },
+  {
+    "path": "/home/lisiyi/zhaojiahao_1/runtime_deps",
+    "bytes": 4096,
+    "directory": true,
+    "children": [
+      {
+        "name": "regex-2026.9.10.dist-info",
+        "bytes": 4096,
+        "directory": true
+      },
+      {
+        "name": "zipp-4.1.0.dist-info",
+        "bytes": 4096,
+        "directory": true
+      },
+      {
+        "name": "einops-0.8.1.dist-info",
+        "bytes": 4096,
+        "directory": true
+      },
+      {
+        "name": "msgpack-1.2.2.dist-info",
+        "bytes": 4096,
+        "directory": true
+      },
+      {
+        "name": "importlib_metadata-9.0.1.dist-info",
+        "bytes": 4096,
+        "directory": true
+      },
+      {
+        "name": "wordfreq",
+        "bytes": 4096,
+        "directory": true
+      },
+      {
+        "name": "langcodes",
+        "bytes": 4096,
+        "directory": true
+      },
+      {
+        "name": "importlib_resources",
+        "bytes": 4096,
+        "directory": true
+      },
+      {
+        "name": "ftfy",
+        "bytes": 4096,
+        "directory": true
+      },
+      {
+        "name": "submitit-1.5.3.dist-info",
+        "bytes": 4096,
+        "directory": true
+      },
+      {
+        "name": "demucs",
+        "bytes": 4096,
+        "directory": true
+      },
+      {
+        "name": "treetable-0.2.5.dist-info",
+        "bytes": 4096,
+        "directory": true
+      },
+      {
+        "name": "locate",
+        "bytes": 4096,
+        "directory": true
+      },
+      {
+        "name": "importlib_metadata",
+        "bytes": 4096,
+        "directory": true
+      },
+      {
+        "name": "retrying-1.3.4.dist-info",
+        "bytes": 4096,
+        "directory": true
+      },
+      {
+        "name": "openunmix",
+        "bytes": 4096,
+        "directory": true
+      },
+      {
+        "name": "zipp",
+        "bytes": 4096,
+        "directory": true
+      },
+      {
+        "name": "regex",
+        "bytes": 4096,
+        "directory": true
+      },
+      {
+        "name": "importlib_resources-7.1.0.dist-info",
+        "bytes": 4096,
+        "directory": true
+      },
+      {
+        "name": "wcwidth-0.8.3.dist-info",
+        "bytes": 4096,
+        "directory": true
+      },
+      {
+        "name": "retrying.py",
+        "bytes": 11261,
+        "directory": false
+      },
+      {
+        "name": "treetable",
+        "bytes": 4096,
+        "directory": true
+      },
+      {
+        "name": "cmudict-1.1.1.dist-info",
+        "bytes": 4096,
+        "directory": true
+      },
+      {
+        "name": "dora_search-0.1.12.dist-info",
+        "bytes": 4096,
+        "directory": true
+      },
+      {
+        "name": "__pycache__",
+        "bytes": 4096,
+        "directory": true
+      },
+      {
+        "name": "julius",
+        "bytes": 4096,
+        "directory": true
+      },
+      {
+        "name": "demucs-4.0.1.dist-info",
+        "bytes": 4096,
+        "directory": true
+      },
+      {
+        "name": "julius-0.2.7.dist-info",
+        "bytes": 4096,
+        "directory": true
+      },
+      {
+        "name": "locate-1.1.1.dist-info",
+        "bytes": 4096,
+        "directory": true
+      },
+      {
+        "name": "wordfreq-3.1.1.dist-info",
+        "bytes": 4096,
+        "directory": true
+      },
+      {
+        "name": "einops",
+        "bytes": 4096,
+        "directory": true
+      },
+      {
+        "name": "msgpack",
+        "bytes": 4096,
+        "directory": true
+      },
+      {
+        "name": "cloudpickle-3.1.1.dist-info",
+        "bytes": 4096,
+        "directory": true
+      },
+      {
+        "name": "dora",
+        "bytes": 4096,
+        "directory": true
+      },
+      {
+        "name": "wcwidth",
+        "bytes": 4096,
+        "directory": true
+      },
+      {
+        "name": "ftfy-6.3.1.dist-info",
+        "bytes": 4096,
+        "directory": true
+      },
+      {
+        "name": "bin",
+        "bytes": 4096,
+        "directory": true
+      },
+      {
+        "name": "cloudpickle",
+        "bytes": 4096,
+        "directory": true
+      },
+      {
+        "name": "cmudict",
+        "bytes": 4096,
+        "directory": true
+      },
+      {
+        "name": "openunmix-1.3.0.dist-info",
+        "bytes": 4096,
+        "directory": true
+      },
+      {
+        "name": "submitit",
+        "bytes": 4096,
+        "directory": true
+      },
+      {
+        "name": "langcodes-3.5.1.dist-info",
+        "bytes": 4096,
+        "directory": true
+      }
+    ]
+  },
+  {
+    "path": "/home/lisiyi/zhaojiahao_1/venvs/v8_infer_cpu_r1/bin/python",
+    "bytes": 17467520,
+    "directory": false
+  }
+]

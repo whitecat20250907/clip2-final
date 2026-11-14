@@ -1,0 +1,11 @@
+{
+  "audit_date": "2026-11-14",
+  "remote_final_scanned_files": 38171,
+  "remote_final_raw_bytes": 9998592047,
+  "excluded_reinstallable_runtime_bytes": 7929135693,
+  "selected_remote_dependency_bytes": 2152957674,
+  "local_asset_archive_bytes": 333639575,
+  "scope": "Final TEST/VALID execution directories and explicit referenced dependencies; not all historical server runs",
+  "repository_visibility": "private",
+  "cold_start_raw_audio_verified": false
+}

@@ -1,0 +1,1130 @@
+[
+  {
+    "source": "E:\\icassp\\zhaojiahao\\CLIP2-new\\algorithms\\03_my_improvements\\experiments\\v10_20261016\\final_selective_risk_20261027\\delivery\\current_preserved_fusion\\merge_lmy_listener.py",
+    "file": "archive/final_code/merge_lmy_listener.py",
+    "sha256": "a590e73f6d4a576e2decd0beda5d02a9c3473dd0bc06e4c4de195bd30ce3f0fa",
+    "bytes": 5482
+  },
+  {
+    "source": "E:\\icassp\\zhaojiahao\\CLIP2-new\\algorithms\\03_my_improvements\\experiments\\v10_20261016\\final_selective_risk_20261027\\delivery\\current_preserved_fusion\\replay_final.py",
+    "file": "archive/final_code/replay_final.py",
+    "sha256": "572146cf9dde14efe40db078041f39771b76d1793808b38c70b2ea281f64b51b",
+    "bytes": 4356
+  },
+  {
+    "source": "E:\\icassp\\zhaojiahao\\CLIP2-new\\algorithms\\03_my_improvements\\experiments\\v10_20261016\\final_selective_risk_20261027\\delivery\\current_preserved_fusion\\test_data_audit.py",
+    "file": "archive/final_code/test_data_audit.py",
+    "sha256": "dedb2e6965f5dbe99b41143e67d7d30aa1e5d574638d543d498545bc64d396e0",
+    "bytes": 9606
+  },
+  {
+    "source": "E:\\icassp\\zhaojiahao\\CLIP2-new\\algorithms\\03_my_improvements\\experiments\\v10_20261016\\final_selective_risk_20261027\\delivery\\current_preserved_fusion\\test_er_temporal_features.py",
+    "file": "archive/final_code/test_er_temporal_features.py",
+    "sha256": "cc2a90b79346d3d92b216095a4e0fc694e175dd051dea8ff2b4a68a2a8e06cc4",
+    "bytes": 2299
+  },
+  {
+    "source": "E:\\icassp\\zhaojiahao\\CLIP2-new\\algorithms\\03_my_improvements\\experiments\\v10_20261016\\final_selective_risk_20261027\\delivery\\current_preserved_fusion\\test_fixed_point_readout.py",
+    "file": "archive/final_code/test_fixed_point_readout.py",
+    "sha256": "f5f688c1da7bc0666c3ade44974aa22bc1dac8eb22d857f2733ef5ffcd0ba6ab",
+    "bytes": 3814
+  },
+  {
+    "source": "E:\\icassp\\zhaojiahao\\CLIP2-new\\algorithms\\03_my_improvements\\experiments\\v10_20261016\\final_selective_risk_20261027\\delivery\\current_preserved_fusion\\test_frozen_worker.py",
+    "file": "archive/final_code/test_frozen_worker.py",
+    "sha256": "0761f7b1b5bdbc1660c156df244f7b77bcea3076ac11ed9866537d4f31962565",
+    "bytes": 4697
+  },
+  {
+    "source": "E:\\icassp\\zhaojiahao\\CLIP2-new\\algorithms\\03_my_improvements\\experiments\\v10_20261016\\final_selective_risk_20261027\\delivery\\current_preserved_fusion\\test_inference.py",
+    "file": "archive/final_code/test_inference.py",
+    "sha256": "157f642e8ba20a6854778f76212fe509ccc1367198ef0267c4a3d38e998fe11c",
+    "bytes": 11589
+  },
+  {
+    "source": "E:\\icassp\\zhaojiahao\\CLIP2-new\\algorithms\\03_my_improvements\\experiments\\v10_20261016\\final_selective_risk_20261027\\delivery\\current_preserved_fusion\\test_joint_export.py",
+    "file": "archive/final_code/test_joint_export.py",
+    "sha256": "824a83711df8bde28b6e9a5d79d1873433d0f3aa6b03a6768f6142b7ccfae9dd",
+    "bytes": 7360
+  },
+  {
+    "source": "E:\\icassp\\zhaojiahao\\CLIP2-new\\algorithms\\03_my_improvements\\experiments\\v10_20261016\\final_selective_risk_20261027\\delivery\\current_preserved_fusion\\test_lmy_encoder.py",
+    "file": "archive/final_code/test_lmy_encoder.py",
+    "sha256": "3690129d7bb980950b47c4d5014c1c7f8a820d85755e2dc52389265efda13501",
+    "bytes": 5234
+  },
+  {
+    "source": "E:\\icassp\\zhaojiahao\\CLIP2-new\\algorithms\\03_my_improvements\\experiments\\v10_20261016\\final_selective_risk_20261027\\delivery\\current_preserved_fusion\\test_lmy_final_readout.py",
+    "file": "archive/final_code/test_lmy_final_readout.py",
+    "sha256": "a783e32422c5a8f6fdf68b3c2e09633455a13d9f3834e6870fb5295c2655e9af",
+    "bytes": 12217
+  },
+  {
+    "source": "E:\\icassp\\zhaojiahao\\CLIP2-new\\algorithms\\03_my_improvements\\experiments\\v10_20261016\\final_selective_risk_20261027\\delivery\\current_preserved_fusion\\test_lmy_free_asr.py",
+    "file": "archive/final_code/test_lmy_free_asr.py",
+    "sha256": "9493e7685af987a4ae337591a81e4171cd128a8b041aa34a9a1a7670e92462d4",
+    "bytes": 5778
+  },
+  {
+    "source": "E:\\icassp\\zhaojiahao\\CLIP2-new\\algorithms\\03_my_improvements\\experiments\\v10_20261016\\final_selective_risk_20261027\\delivery\\current_preserved_fusion\\test_lmy_listener.py",
+    "file": "archive/final_code/test_lmy_listener.py",
+    "sha256": "baf96d9230abe3273b1f3761343a2ed469975f1f4d59ebe6e980c46437d98eb9",
+    "bytes": 4954
+  },
+  {
+    "source": "E:\\icassp\\zhaojiahao\\CLIP2-new\\algorithms\\03_my_improvements\\experiments\\v10_20261016\\final_selective_risk_20261027\\delivery\\current_preserved_fusion\\test_lmy_listener_partition.py",
+    "file": "archive/final_code/test_lmy_listener_partition.py",
+    "sha256": "337c1a81ace1bcbc01c6d585395c41884d6483b4ddd2469bd9879431d992d6fe",
+    "bytes": 5040
+  },
+  {
+    "source": "E:\\icassp\\zhaojiahao\\CLIP2-new\\algorithms\\03_my_improvements\\experiments\\v10_20261016\\final_selective_risk_20261027\\delivery\\current_preserved_fusion\\test_lmy_lm4.py",
+    "file": "archive/final_code/test_lmy_lm4.py",
+    "sha256": "f32f34eec977f30b2a3ff30972d5835b1b60601876050cbc8cdb3ec3cb801242",
+    "bytes": 5226
+  },
+  {
+    "source": "E:\\icassp\\zhaojiahao\\CLIP2-new\\algorithms\\03_my_improvements\\experiments\\v10_20261016\\final_selective_risk_20261027\\delivery\\current_preserved_fusion\\test_lmy_mvdr.py",
+    "file": "archive/final_code/test_lmy_mvdr.py",
+    "sha256": "8dad9627c0384c0ca6efb1ab80a9710fdf15f4635e21bac11c9895221bdef7a8",
+    "bytes": 8379
+  },
+  {
+    "source": "E:\\icassp\\zhaojiahao\\CLIP2-new\\algorithms\\03_my_improvements\\experiments\\v10_20261016\\final_selective_risk_20261027\\delivery\\current_preserved_fusion\\test_lmy_native.py",
+    "file": "archive/final_code/test_lmy_native.py",
+    "sha256": "d735c3c7b6ac99da14234f14c1b39b7f3a79c6e2f288c2bdd5d0235b41d1a2cd",
+    "bytes": 8903
+  },
+  {
+    "source": "E:\\icassp\\zhaojiahao\\CLIP2-new\\algorithms\\03_my_improvements\\experiments\\v10_20261016\\final_selective_risk_20261027\\delivery\\current_preserved_fusion\\test_lmy_prefix_band.py",
+    "file": "archive/final_code/test_lmy_prefix_band.py",
+    "sha256": "d58c5c2edd070e166493fbec50f0f7a95e06c57b48c8839e7a6d332ba313a733",
+    "bytes": 6477
+  },
+  {
+    "source": "E:\\icassp\\zhaojiahao\\CLIP2-new\\algorithms\\03_my_improvements\\experiments\\v10_20261016\\final_selective_risk_20261027\\delivery\\current_preserved_fusion\\test_lmy_qwen.py",
+    "file": "archive/final_code/test_lmy_qwen.py",
+    "sha256": "bc5807df456bf5831836197ba05796869356258dd93f5c5e8b2ff34aef7f3836",
+    "bytes": 9649
+  },
+  {
+    "source": "E:\\icassp\\zhaojiahao\\CLIP2-new\\algorithms\\03_my_improvements\\experiments\\v10_20261016\\final_selective_risk_20261027\\delivery\\current_preserved_fusion\\test_lmy_qwen17.py",
+    "file": "archive/final_code/test_lmy_qwen17.py",
+    "sha256": "98973cce25b5c609a8d132cd5e2e84efc42f6675a5a49284d1c54a4070785ef0",
+    "bytes": 7072
+  },
+  {
+    "source": "E:\\icassp\\zhaojiahao\\CLIP2-new\\algorithms\\03_my_improvements\\experiments\\v10_20261016\\final_selective_risk_20261027\\delivery\\current_preserved_fusion\\test_lmy_qwen17_control_diagnostic.py",
+    "file": "archive/final_code/test_lmy_qwen17_control_diagnostic.py",
+    "sha256": "7313c8e62017f1b8795b0c2034fe7117874ccad3671549e662e12e7670fddd5d",
+    "bytes": 7455
+  },
+  {
+    "source": "E:\\icassp\\zhaojiahao\\CLIP2-new\\algorithms\\03_my_improvements\\experiments\\v10_20261016\\final_selective_risk_20261027\\delivery\\current_preserved_fusion\\test_lmy_qwen17_cross_device.py",
+    "file": "archive/final_code/test_lmy_qwen17_cross_device.py",
+    "sha256": "7d5a06522fa83b851d415e6a973c26e6e77bd1b16995af6bc62c715a2103ad26",
+    "bytes": 7434
+  },
+  {
+    "source": "E:\\icassp\\zhaojiahao\\CLIP2-new\\algorithms\\03_my_improvements\\experiments\\v10_20261016\\final_selective_risk_20261027\\delivery\\current_preserved_fusion\\test_lmy_side_raw.py",
+    "file": "archive/final_code/test_lmy_side_raw.py",
+    "sha256": "3daada6e45594ddefec9cd915920eddae66d3cfc9cccf2ec426b99090a3b3e70",
+    "bytes": 6328
+  },
+  {
+    "source": "E:\\icassp\\zhaojiahao\\CLIP2-new\\algorithms\\03_my_improvements\\experiments\\v10_20261016\\final_selective_risk_20261027\\delivery\\current_preserved_fusion\\test_lmy_static_parent.py",
+    "file": "archive/final_code/test_lmy_static_parent.py",
+    "sha256": "8d23c85e123a169b1c9e77ed61fdb21d35246ac6ebdb33546152aeb216dabab0",
+    "bytes": 15239
+  },
+  {
+    "source": "E:\\icassp\\zhaojiahao\\CLIP2-new\\algorithms\\03_my_improvements\\experiments\\v10_20261016\\final_selective_risk_20261027\\delivery\\current_preserved_fusion\\test_lmy_tdt.py",
+    "file": "archive/final_code/test_lmy_tdt.py",
+    "sha256": "fd88f42baf5346f0ea564de3072a6bb8fe54c469e3d3cf4c94c8dec4ad74e7ea",
+    "bytes": 6035
+  },
+  {
+    "source": "E:\\icassp\\zhaojiahao\\CLIP2-new\\algorithms\\03_my_improvements\\experiments\\v10_20261016\\final_selective_risk_20261027\\delivery\\current_preserved_fusion\\test_lmy_text.py",
+    "file": "archive/final_code/test_lmy_text.py",
+    "sha256": "40559aab57ba68a3a34ceafc6d15a665279c1cd28ae04f6a078f8a9cec9e3ee7",
+    "bytes": 5390
+  },
+  {
+    "source": "E:\\icassp\\zhaojiahao\\CLIP2-new\\algorithms\\03_my_improvements\\experiments\\v10_20261016\\final_selective_risk_20261027\\delivery\\current_preserved_fusion\\test_lmy_word261.py",
+    "file": "archive/final_code/test_lmy_word261.py",
+    "sha256": "1f0ad923bdf6ffce61a36ef58e1cc1403a90e6b0e00a18b9edb3aef86cd61e85",
+    "bytes": 8218
+  },
+  {
+    "source": "E:\\icassp\\zhaojiahao\\CLIP2-new\\algorithms\\03_my_improvements\\experiments\\v10_20261016\\final_selective_risk_20261027\\delivery\\current_preserved_fusion\\test_own_export.py",
+    "file": "archive/final_code/test_own_export.py",
+    "sha256": "22876a5cb5a0d2261b3d798ec5bb7d2b1d6612036a7c4198d95c874810cc3d7b",
+    "bytes": 2507
+  },
+  {
+    "source": "E:\\icassp\\zhaojiahao\\CLIP2-new\\algorithms\\03_my_improvements\\experiments\\v10_20261016\\final_selective_risk_20261027\\delivery\\current_preserved_fusion\\test_pf_readout.py",
+    "file": "archive/final_code/test_pf_readout.py",
+    "sha256": "00886749498afd8ec91a1663bc3a948332f82650c6919202612a8f8914150b63",
+    "bytes": 8613
+  },
+  {
+    "source": "E:\\icassp\\zhaojiahao\\CLIP2-new\\algorithms\\03_my_improvements\\experiments\\v10_20261016\\final_selective_risk_20261027\\delivery\\current_preserved_fusion\\test_pf_static_features.py",
+    "file": "archive/final_code/test_pf_static_features.py",
+    "sha256": "f1ba0924abe51ec0ddc017a9e2f9bf8ef810877c10bfde4b63f9d46964d3e4dc",
+    "bytes": 5924
+  },
+  {
+    "source": "E:\\icassp\\zhaojiahao\\CLIP2-new\\algorithms\\03_my_improvements\\experiments\\v10_20261016\\final_selective_risk_20261027\\delivery\\current_preserved_fusion\\test_qwen17_runtime.py",
+    "file": "archive/final_code/test_qwen17_runtime.py",
+    "sha256": "3213f80e4756bb2e1cbe0d716f092028ddef3967671b0b9d78aae0a7f84ebfd4",
+    "bytes": 4253
+  },
+  {
+    "source": "E:\\icassp\\zhaojiahao\\CLIP2-new\\algorithms\\03_my_improvements\\experiments\\v10_20261016\\final_selective_risk_20261027\\delivery\\current_preserved_fusion\\test_qwen_original_frontend.py",
+    "file": "archive/final_code/test_qwen_original_frontend.py",
+    "sha256": "5c26b9416c87e1d16663dba219eb41ccf07b0edb26f1cb7260955054b44e8aa9",
+    "bytes": 2860
+  },
+  {
+    "source": "E:\\icassp\\zhaojiahao\\CLIP2-new\\algorithms\\03_my_improvements\\experiments\\v10_20261016\\final_selective_risk_20261027\\delivery\\current_preserved_fusion\\test_reduce_point.py",
+    "file": "archive/final_code/test_reduce_point.py",
+    "sha256": "96d9910b3bf9155401aa4e9f79bbf8f7d862e62c9d3d2ac83719850cb8fa1940",
+    "bytes": 2463
+  },
+  {
+    "source": "E:\\icassp\\zhaojiahao\\CLIP2-new\\algorithms\\03_my_improvements\\experiments\\v10_20261016\\final_selective_risk_20261027\\delivery\\current_preserved_fusion\\test_witness.py",
+    "file": "archive/final_code/test_witness.py",
+    "sha256": "784e0b66caa34990b1a10f690c869a9a039cf14625c6d2a5c5a3169a2d6023a1",
+    "bytes": 3714
+  },
+  {
+    "source": "E:\\icassp\\zhaojiahao\\CLIP2-new\\algorithms\\03_my_improvements\\experiments\\v10_20261016\\final_selective_risk_20261027\\delivery\\current_preserved_fusion\\test_word_features.py",
+    "file": "archive/final_code/test_word_features.py",
+    "sha256": "23a18d26e962f2f385847f51b313a16669eb9374faeb50a8485886748f68ce1a",
+    "bytes": 6682
+  },
+  {
+    "source": "E:\\icassp\\zhaojiahao\\CLIP2-new\\algorithms\\03_my_improvements\\experiments\\v10_20261016\\final_selective_risk_20261027\\delivery\\current_preserved_fusion\\test_word_proxy.py",
+    "file": "archive/final_code/test_word_proxy.py",
+    "sha256": "55c3f58becaba1d4edbe123b2edc02c6478996b69f8be36a73a3c0ec61e24090",
+    "bytes": 3664
+  },
+  {
+    "source": "E:\\icassp\\zhaojiahao\\CLIP2-new\\algorithms\\03_my_improvements\\experiments\\v10_20261016\\final_selective_risk_20261027\\delivery\\current_preserved_fusion\\test_y2_blind.py",
+    "file": "archive/final_code/test_y2_blind.py",
+    "sha256": "f93adb78e7e63173d8effb7510558d8fc2d0fdc624de4cb40a661153e6affb9b",
+    "bytes": 2317
+  },
+  {
+    "source": "E:\\icassp\\zhaojiahao\\CLIP2-new\\algorithms\\03_my_improvements\\experiments\\v10_20261016\\final_selective_risk_20261027\\delivery\\current_preserved_fusion\\test_y2_tf.py",
+    "file": "archive/final_code/test_y2_tf.py",
+    "sha256": "a028da80adcafb5a2d881717d0acb911a9457ec99aafae3d91c452eff974dde1",
+    "bytes": 2923
+  },
+  {
+    "source": "E:\\icassp\\zhaojiahao\\CLIP2-new\\algorithms\\03_my_improvements\\experiments\\v10_20261016\\final_selective_risk_20261027\\delivery\\current_preserved_fusion\\test_y4.py",
+    "file": "archive/final_code/test_y4.py",
+    "sha256": "fbedd0c654037754e24e0ca4e3a3b376fd1f57883711d3ce0ade2a92b561e025",
+    "bytes": 5451
+  },
+  {
+    "source": "E:\\icassp\\zhaojiahao\\CLIP2-new\\algorithms\\03_my_improvements\\experiments\\v10_20261016\\final_selective_risk_20261027\\delivery\\current_preserved_fusion\\test_z_features.py",
+    "file": "archive/final_code/test_z_features.py",
+    "sha256": "fe8d41eef1e1ec4b5064c947039e9fe74eff2cc516abef3b6d154528d56db01b",
+    "bytes": 3547
+  },
+  {
+    "source": "E:\\icassp\\zhaojiahao\\CLIP2-new\\algorithms\\03_my_improvements\\experiments\\v10_20261016\\final_selective_risk_20261027\\delivery\\current_preserved_fusion\\valid_joint_compare.py",
+    "file": "archive/final_code/valid_joint_compare.py",
+    "sha256": "b1b68077b6cb7365bd4e57b04bf0b69aea5035afd3af7c81b541b21f2bfa8347",
+    "bytes": 7048
+  },
+  {
+    "source": "E:\\icassp\\zhaojiahao\\CLIP2-new\\algorithms\\03_my_improvements\\experiments\\v10_20261016\\final_selective_risk_20261027\\delivery\\current_preserved_fusion\\valid_lmy_parent.py",
+    "file": "archive/final_code/valid_lmy_parent.py",
+    "sha256": "b517b08e0eec42a629c305b7f2fb0a17db237983753482e275f49b491d133df6",
+    "bytes": 10632
+  },
+  {
+    "source": "E:\\icassp\\zhaojiahao\\CLIP2-new\\algorithms\\03_my_improvements\\experiments\\v10_20261016\\final_selective_risk_20261027\\delivery\\current_preserved_fusion\\valid_lmy_qwen17.py",
+    "file": "archive/final_code/valid_lmy_qwen17.py",
+    "sha256": "3b641db8f76bb786ee84fbfff7480d88cbed6843cc053cb957cb63354c6e75af",
+    "bytes": 7291
+  },
+  {
+    "source": "E:\\icassp\\zhaojiahao\\CLIP2-new\\algorithms\\03_my_improvements\\experiments\\v10_20261016\\final_selective_risk_20261027\\delivery\\current_preserved_fusion\\valid_lmy_readout.py",
+    "file": "archive/final_code/valid_lmy_readout.py",
+    "sha256": "81b4ee8a4b87ad5a3d139a2e4653d8565b0f2f485fc60babde871038ab14880b",
+    "bytes": 8700
+  },
+  {
+    "source": "E:\\icassp\\zhaojiahao\\CLIP2-new\\algorithms\\03_my_improvements\\experiments\\v10_20261016\\final_selective_risk_20261027\\delivery\\current_preserved_fusion\\scientific_sources\\joint13_train.py",
+    "file": "archive/final_code/scientific_sources/joint13_train.py",
+    "sha256": "c77d1cf21e4e0f38adc19f5d45c913c45d59b32aee95692986cd609ea756e494",
+    "bytes": 25086
+  },
+  {
+    "source": "E:\\icassp\\zhaojiahao\\CLIP2-new\\algorithms\\03_my_improvements\\experiments\\v10_20261016\\final_selective_risk_20261027\\delivery\\current_preserved_fusion\\scientific_sources\\LMY_fixed_predict.py",
+    "file": "archive/final_code/scientific_sources/LMY_fixed_predict.py",
+    "sha256": "06c06f00e881d73ed9aa9b2582d2691893dca092e92d1a1ebc990e3cb1213865",
+    "bytes": 17510
+  },
+  {
+    "source": "E:\\icassp\\zhaojiahao\\jobs\\v10_Y2_blind_pipeline_20261022.py",
+    "file": "archive/scientific_ancestors/v10_Y2_blind_pipeline_20261022.py",
+    "sha256": "dd233bc43bc2b03fd93842ca869fb9643240fd79b95a782b36d946ee6cbb9449",
+    "bytes": 5910
+  },
+  {
+    "source": "E:\\icassp\\zhaojiahao\\jobs\\v10_Y2_blind_worker_20261022.py",
+    "file": "archive/scientific_ancestors/v10_Y2_blind_worker_20261022.py",
+    "sha256": "af00dbc3bb961e7b54dc6045565dce7f6da0e9c4c5d0a91985af1db4e70eccfe",
+    "bytes": 1863
+  },
+  {
+    "source": "E:\\icassp\\zhaojiahao\\jobs\\v10_Y2_blind_math_20261022.py",
+    "file": "archive/scientific_ancestors/v10_Y2_blind_math_20261022.py",
+    "sha256": "a2be72eac54bfd5fc95caeeddb712e4c5f87ccc25d8909632261552658d3b3c8",
+    "bytes": 2760
+  },
+  {
+    "source": "E:\\icassp\\zhaojiahao\\jobs\\v10_Y2_TF_pipeline_20261022.py",
+    "file": "archive/scientific_ancestors/v10_Y2_TF_pipeline_20261022.py",
+    "sha256": "a0efa2d5cc5870a0e5d3217ee91544a8b3c302ad362cf071c6f6e4d525f3f435",
+    "bytes": 4853
+  },
+  {
+    "source": "E:\\icassp\\zhaojiahao\\jobs\\v10_Y2_TF_worker_20261022.py",
+    "file": "archive/scientific_ancestors/v10_Y2_TF_worker_20261022.py",
+    "sha256": "52de40031a58db636fc395837a7448362c430f19b1c75392878fd7a48d32484d",
+    "bytes": 4487
+  },
+  {
+    "source": "E:\\icassp\\zhaojiahao\\jobs\\v10_Y1_Y3_cached_20261022.py",
+    "file": "archive/scientific_ancestors/v10_Y1_Y3_cached_20261022.py",
+    "sha256": "b9d293bdb9be244018d23196d84b5ce3cb246a5daa51c997183531b82c65fe84",
+    "bytes": 6163
+  },
+  {
+    "source": "E:\\icassp\\zhaojiahao\\jobs\\v10_Y4_samewave_pipeline_20261022.py",
+    "file": "archive/scientific_ancestors/v10_Y4_samewave_pipeline_20261022.py",
+    "sha256": "7db539f47b94e69f5842acc696456103e5819bcf3130fa4c251e3ada53928c10",
+    "bytes": 10917
+  },
+  {
+    "source": "E:\\icassp\\zhaojiahao\\jobs\\v10_Y4_samewave_worker_20261022.py",
+    "file": "archive/scientific_ancestors/v10_Y4_samewave_worker_20261022.py",
+    "sha256": "8256459c859adb3290a84981c766ace57e2a29af242891992137ff4c2603281a",
+    "bytes": 4445
+  },
+  {
+    "source": "E:\\icassp\\zhaojiahao\\jobs\\v10_round3_common_20261023.py",
+    "file": "archive/scientific_ancestors/v10_round3_common_20261023.py",
+    "sha256": "a27f4fcae0987bb6fe85c96667527dcfde574452215e0c02c166a64bdd0203f7",
+    "bytes": 7766
+  },
+  {
+    "source": "E:\\icassp\\zhaojiahao\\jobs\\v10_Z_readout_20261023.py",
+    "file": "archive/scientific_ancestors/v10_Z_readout_20261023.py",
+    "sha256": "ee9cba4cc6952cd035616bd7ac05839c0f6cc3d231bb7e24f621429d9dfb3535",
+    "bytes": 17563
+  },
+  {
+    "source": "E:\\icassp\\zhaojiahao\\jobs\\v10_ER01_relation_worker_20261022.py",
+    "file": "archive/scientific_ancestors/v10_ER01_relation_worker_20261022.py",
+    "sha256": "1adba443aa6e25967c53f787f4786280786af6957a951452e217662aa3d4749c",
+    "bytes": 3736
+  },
+  {
+    "source": "E:\\icassp\\zhaojiahao\\jobs\\v10_ER01_relations_pipeline_20261022.py",
+    "file": "archive/scientific_ancestors/v10_ER01_relations_pipeline_20261022.py",
+    "sha256": "69d8dfe55b76e70cb19d4a39dca3ab2d628349f7c58229869a1d72eddb272207",
+    "bytes": 11660
+  },
+  {
+    "source": "E:\\icassp\\zhaojiahao\\jobs\\v10_ER_expanded_readout_20261022.py",
+    "file": "archive/scientific_ancestors/v10_ER_expanded_readout_20261022.py",
+    "sha256": "4b4a28cd99f59623a433d9ca083e9021e15828935409a6dbeebb288f7199a59a",
+    "bytes": 8623
+  },
+  {
+    "source": "E:\\icassp\\zhaojiahao\\jobs\\v10_ER_expanded_features_20261022.py",
+    "file": "archive/scientific_ancestors/v10_ER_expanded_features_20261022.py",
+    "sha256": "eb82ed8d53a6526e094fd8882ad3228c95bd6dd25dd02ce16fe579f76b7407b2",
+    "bytes": 3122
+  },
+  {
+    "source": "E:\\icassp\\zhaojiahao\\jobs\\v10_ER_expanded_pipeline_20261022.py",
+    "file": "archive/scientific_ancestors/v10_ER_expanded_pipeline_20261022.py",
+    "sha256": "968faf0b8ac0a78fa82e4ed7d441bfecfb3bcf29256c1a67d52d1afc4c5dac12",
+    "bytes": 9334
+  },
+  {
+    "source": "E:\\icassp\\zhaojiahao\\jobs\\v10_Z13_scoring_repair_20261023.py",
+    "file": "archive/scientific_ancestors/v10_Z13_scoring_repair_20261023.py",
+    "sha256": "8c2b4474773f05d6621f0189d3b672d257a7f670a71cd4c43e28404f1e640ab8",
+    "bytes": 5751
+  },
+  {
+    "source": "E:\\icassp\\zhaojiahao\\jobs\\v10_Z13_candidate_20261023.py",
+    "file": "archive/scientific_ancestors/v10_Z13_candidate_20261023.py",
+    "sha256": "da3b64223cfdf3a31f16012604b1a7ae5b8ab0d2e67175147144cb846a405ed1",
+    "bytes": 8047
+  },
+  {
+    "source": "E:\\icassp\\zhaojiahao\\jobs\\v10_Z13_attribution_20261023.py",
+    "file": "archive/scientific_ancestors/v10_Z13_attribution_20261023.py",
+    "sha256": "6ef10320a991438d899b8f631d1608257bf83dcc34d61b8028994c414cfc43bf",
+    "bytes": 18025
+  },
+  {
+    "source": "E:\\icassp\\zhaojiahao\\CLIP2-new\\algorithms\\03_my_improvements\\experiments\\v10_20261016\\best_replay_20261021\\default_any_rows_r2.py",
+    "file": "archive/scientific_ancestors/default_any_rows_r2.py",
+    "sha256": "44b450ae31fb4c6a698a5b2b10a4f0ef258536a16dea5c6c8cf22306fb49a5de",
+    "bytes": 16910
+  },
+  {
+    "source": "E:\\icassp\\zhaojiahao\\CLIP2-new\\algorithms\\03_my_improvements\\fusion_v2\\v6_attention_model_20260924.py",
+    "file": "archive/scientific_ancestors/v6_attention_model_20260924.py",
+    "sha256": "d3ff354500dc86ad7befaefd713924088958a231ed0ea66562441737964c2b73",
+    "bytes": 2994
+  },
+  {
+    "source": "E:\\icassp\\zhaojiahao\\CLIP2-new\\algorithms\\03_my_improvements\\fusion_v2\\v6_m2_stem_fusion_20260924.py",
+    "file": "archive/scientific_ancestors/v6_m2_stem_fusion_20260924.py",
+    "sha256": "c5213f33fce88db0efc0a223008d54df564b72a65c91c94acfffe7b8f312cde3",
+    "bytes": 12481
+  },
+  {
+    "source": "E:\\icassp\\zhaojiahao\\CLIP2-new\\algorithms\\03_my_improvements\\fusion_v3\\jury_model_r2.py",
+    "file": "archive/scientific_ancestors/jury_model_r2.py",
+    "sha256": "3bc138967a9c508e5ebe323d7cdabf97efc92e726137bdae15f13c8746aace92",
+    "bytes": 4941
+  },
+  {
+    "source": "E:\\icassp\\zhaojiahao\\CLIP2-new\\algorithms\\03_my_improvements\\experiments\\v10_20261016\\S1_CTC_second_seed_20261018\\frozen_S1_two_seed_package\\infer.py",
+    "file": "archive/scientific_ancestors/infer.py",
+    "sha256": "1f33c8a1f31d30358ae41619d35b66598a2f5d49fbc787cae3a80294e3c9b1a1",
+    "bytes": 2703
+  },
+  {
+    "source": "E:\\icassp\\zhaojiahao\\CLIP2-new\\algorithms\\03_my_improvements\\experiments\\v10_20261016\\best_replay_20261021\\frozen_P2_587013\\C\\infer.py",
+    "file": "archive/scientific_ancestors/infer.py",
+    "sha256": "43ad02fe368ecaf4164c4665612e355c2a49c33d75c56e3d7a65c3166a012f93",
+    "bytes": 3902
+  },
+  {
+    "source": "E:\\icassp\\zhaojiahao\\jobs\\v10_stall_P2_worker_20261021.py",
+    "file": "archive/scientific_ancestors/v10_stall_P2_worker_20261021.py",
+    "sha256": "255d3520aef68e83e35561ef2a23b098cd41a4bf3d0bd04a906aace60fb3864d",
+    "bytes": 5150
+  },
+  {
+    "source": "E:\\icassp\\zhaojiahao\\jobs\\v10_stall_frozen_fusion_20261021.py",
+    "file": "archive/scientific_ancestors/v10_stall_frozen_fusion_20261021.py",
+    "sha256": "3615a2d20f0d0dfc4f526bc2e2d5f3be88d69a5c6e7e0177277455cfff7757ef",
+    "bytes": 1769
+  },
+  {
+    "source": "E:\\icassp\\zhaojiahao\\jobs\\v10_music_witness_head_worker_20261021.py",
+    "file": "archive/scientific_ancestors/v10_music_witness_head_worker_20261021.py",
+    "sha256": "50846e5fadf643b0d32871ffb771518a0de9c4eec9a9c6ea20d3350709b89336",
+    "bytes": 3935
+  },
+  {
+    "source": "E:\\icassp\\zhaojiahao\\jobs\\v10_G01_MF_surface_20261022.py",
+    "file": "archive/scientific_ancestors/v10_G01_MF_surface_20261022.py",
+    "sha256": "48fbf141291422b6b52b9dffe9dbecb4481fa32b14f6e5b226da60a1c6baeaca",
+    "bytes": 10192
+  },
+  {
+    "source": "E:\\icassp\\zhaojiahao\\jobs\\v10_new_information_20261022.py",
+    "file": "archive/scientific_ancestors/v10_new_information_20261022.py",
+    "sha256": "b466cddacf3211b08df00c79aa20daa10c4cc30cb940bd420ae8228da822c75f",
+    "bytes": 16047
+  },
+  {
+    "source": "E:\\icassp\\zhaojiahao\\jobs\\clip2_fb_parent_replay_20261024.py",
+    "file": "archive/scientific_ancestors/clip2_fb_parent_replay_20261024.py",
+    "sha256": "d2b940206929d4749b670cfdc0af78997060fca2152c60a39ea489a719edf4bc",
+    "bytes": 11010
+  },
+  {
+    "source": "E:\\icassp\\zhaojiahao\\jobs\\clip2_broad_original3_point5189_worker_20261026.py",
+    "file": "archive/scientific_ancestors/clip2_broad_original3_point5189_worker_20261026.py",
+    "sha256": "a898de96e50524c63a85980bc5130d7341a393b134c624145f187733f6858d45",
+    "bytes": 18198
+  },
+  {
+    "source": "E:\\icassp\\zhaojiahao\\CLIP2-new\\algorithms\\03_my_improvements\\experiments\\v10_20261016\\next_jury_20261024\\runtime\\late_readout_serialization_20261026\\fixed_jpoint_zall_readout_recovery.py",
+    "file": "archive/scientific_ancestors/fixed_jpoint_zall_readout_recovery.py",
+    "sha256": "f155e94450b45661ffc9404c1b2e0f0cce97746fb64d85eaeb451001ec3cfda4",
+    "bytes": 22855
+  },
+  {
+    "source": "E:\\icassp\\zhaojiahao\\jobs\\clip2_72h_block_cv_20261024.py",
+    "file": "archive/scientific_ancestors/clip2_72h_block_cv_20261024.py",
+    "sha256": "facc74533014125ac3d59862fab21d9557b7ca1676de2439d84a20b5cf11522f",
+    "bytes": 9436
+  },
+  {
+    "source": "E:\\icassp\\zhaojiahao\\CLIP2-new\\algorithms\\03_my_improvements\\experiments\\v10_20261016\\final_selective_risk_20261027\\delivery_preparation\\build_asset_inventory_agent.py",
+    "file": "archive/scientific_ancestors/build_asset_inventory_agent.py",
+    "sha256": "f679b127f40d33f86c6556125592c4c8fbed70c0daf3d52f7dc8dc7c0be57c5c",
+    "bytes": 10715
+  },
+  {
+    "source": "E:\\icassp\\github_delivery_work\\remote_sources\\home\\lisiyi\\zhaojiahao_1\\runs\\clip2_final_TEST2189_20261028\\merge_lmy_listener.py",
+    "file": "archive/4090/home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/merge_lmy_listener.py",
+    "sha256": "a590e73f6d4a576e2decd0beda5d02a9c3473dd0bc06e4c4de195bd30ce3f0fa",
+    "bytes": 5482
+  },
+  {
+    "source": "E:\\icassp\\github_delivery_work\\remote_sources\\home\\lisiyi\\zhaojiahao_1\\runs\\clip2_latest_LMY_TRAIN_fixed_20261027\\clip2_latest_LMY_fixed_TRAIN_predict_20261027.py",
+    "file": "archive/4090/home/lisiyi/zhaojiahao_1/runs/clip2_latest_LMY_TRAIN_fixed_20261027/clip2_latest_LMY_fixed_TRAIN_predict_20261027.py",
+    "sha256": "06c06f00e881d73ed9aa9b2582d2691893dca092e92d1a1ebc990e3cb1213865",
+    "bytes": 17510
+  },
+  {
+    "source": "E:\\icassp\\github_delivery_work\\remote_sources\\home\\lisiyi\\zhaojiahao_1\\runs\\clip2_final_TEST2189_20261028\\data_audit\\asr_bank.py",
+    "file": "archive/4090/home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/data_audit/asr_bank.py",
+    "sha256": "e656814808f69b9987eb6aa92783966f9728980df50a022904a34d118958958d",
+    "bytes": 9982
+  },
+  {
+    "source": "E:\\icassp\\github_delivery_work\\remote_sources\\home\\lisiyi\\zhaojiahao_1\\runs\\clip2_final_TEST2189_20261028\\data_audit\\test_data_audit.py",
+    "file": "archive/4090/home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/data_audit/test_data_audit.py",
+    "sha256": "dedb2e6965f5dbe99b41143e67d7d30aa1e5d574638d543d498545bc64d396e0",
+    "bytes": 9606
+  },
+  {
+    "source": "E:\\icassp\\github_delivery_work\\remote_sources\\home\\lisiyi\\zhaojiahao_1\\runs\\clip2_final_TEST2189_20261028\\LMY_adapter_search\\search.py",
+    "file": "archive/4090/home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_adapter_search/search.py",
+    "sha256": "3b954b89a281942f9ed594a0e43f9dd1909cd9361b1cd7301def653875c2788d",
+    "bytes": 1137
+  },
+  {
+    "source": "E:\\icassp\\github_delivery_work\\remote_sources\\home\\lisiyi\\zhaojiahao_1\\runs\\clip2_final_TEST2189_20261028\\LMY_FINAL_READOUT\\original_fixed_predict.py",
+    "file": "archive/4090/home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_FINAL_READOUT/original_fixed_predict.py",
+    "sha256": "06c06f00e881d73ed9aa9b2582d2691893dca092e92d1a1ebc990e3cb1213865",
+    "bytes": 17510
+  },
+  {
+    "source": "E:\\icassp\\github_delivery_work\\remote_sources\\home\\lisiyi\\zhaojiahao_1\\runs\\clip2_final_TEST2189_20261028\\LMY_FINAL_READOUT\\qualified_worker.py",
+    "file": "archive/4090/home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_FINAL_READOUT/qualified_worker.py",
+    "sha256": "439598251e23c9a9ce8008edcb44af31451d7ad0a549eb29b636101da1c885f0",
+    "bytes": 9697
+  },
+  {
+    "source": "E:\\icassp\\github_delivery_work\\remote_sources\\home\\lisiyi\\zhaojiahao_1\\runs\\clip2_final_TEST2189_20261028\\LMY_FINAL_READOUT\\worker.py",
+    "file": "archive/4090/home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_FINAL_READOUT/worker.py",
+    "sha256": "a783e32422c5a8f6fdf68b3c2e09633455a13d9f3834e6870fb5295c2655e9af",
+    "bytes": 12217
+  },
+  {
+    "source": "E:\\icassp\\github_delivery_work\\remote_sources\\home\\lisiyi\\zhaojiahao_1\\runs\\clip2_final_TEST2189_20261028\\LMY_FREE_ASR\\worker.py",
+    "file": "archive/4090/home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_FREE_ASR/worker.py",
+    "sha256": "9493e7685af987a4ae337591a81e4171cd128a8b041aa34a9a1a7670e92462d4",
+    "bytes": 5778
+  },
+  {
+    "source": "E:\\icassp\\github_delivery_work\\remote_sources\\home\\lisiyi\\zhaojiahao_1\\runs\\clip2_final_TEST2189_20261028\\LMY_FREE_ASR\\wrapper.py",
+    "file": "archive/4090/home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_FREE_ASR/wrapper.py",
+    "sha256": "0761f7b1b5bdbc1660c156df244f7b77bcea3076ac11ed9866537d4f31962565",
+    "bytes": 4697
+  },
+  {
+    "source": "E:\\icassp\\github_delivery_work\\remote_sources\\home\\lisiyi\\zhaojiahao_1\\runs\\clip2_final_TEST2189_20261028\\LMY_LISTENER\\worker.py",
+    "file": "archive/4090/home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_LISTENER/worker.py",
+    "sha256": "c34b69e160c2772721f450ad221dfca3d8cc3b52ef7e8daff047092f79ddd679",
+    "bytes": 4721
+  },
+  {
+    "source": "E:\\icassp\\github_delivery_work\\remote_sources\\home\\lisiyi\\zhaojiahao_1\\runs\\clip2_final_TEST2189_20261028\\LMY_LISTENER\\wrapper.py",
+    "file": "archive/4090/home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_LISTENER/wrapper.py",
+    "sha256": "0761f7b1b5bdbc1660c156df244f7b77bcea3076ac11ed9866537d4f31962565",
+    "bytes": 4697
+  },
+  {
+    "source": "E:\\icassp\\github_delivery_work\\remote_sources\\home\\lisiyi\\zhaojiahao_1\\runs\\clip2_final_TEST2189_20261028\\LMY_LISTENER_TORCH26\\worker.py",
+    "file": "archive/4090/home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_LISTENER_TORCH26/worker.py",
+    "sha256": "baf96d9230abe3273b1f3761343a2ed469975f1f4d59ebe6e980c46437d98eb9",
+    "bytes": 4954
+  },
+  {
+    "source": "E:\\icassp\\github_delivery_work\\remote_sources\\home\\lisiyi\\zhaojiahao_1\\runs\\clip2_final_TEST2189_20261028\\LMY_LISTENER_TORCH26\\wrapper.py",
+    "file": "archive/4090/home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_LISTENER_TORCH26/wrapper.py",
+    "sha256": "0761f7b1b5bdbc1660c156df244f7b77bcea3076ac11ed9866537d4f31962565",
+    "bytes": 4697
+  },
+  {
+    "source": "E:\\icassp\\github_delivery_work\\remote_sources\\home\\lisiyi\\zhaojiahao_1\\runs\\clip2_final_TEST2189_20261028\\LMY_LISTENER_TORCH26_PART1\\worker.py",
+    "file": "archive/4090/home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_LISTENER_TORCH26_PART1/worker.py",
+    "sha256": "337c1a81ace1bcbc01c6d585395c41884d6483b4ddd2469bd9879431d992d6fe",
+    "bytes": 5040
+  },
+  {
+    "source": "E:\\icassp\\github_delivery_work\\remote_sources\\home\\lisiyi\\zhaojiahao_1\\runs\\clip2_final_TEST2189_20261028\\LMY_LISTENER_TORCH26_PART1\\wrapper.py",
+    "file": "archive/4090/home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_LISTENER_TORCH26_PART1/wrapper.py",
+    "sha256": "0761f7b1b5bdbc1660c156df244f7b77bcea3076ac11ed9866537d4f31962565",
+    "bytes": 4697
+  },
+  {
+    "source": "E:\\icassp\\github_delivery_work\\remote_sources\\home\\lisiyi\\zhaojiahao_1\\runs\\clip2_final_TEST2189_20261028\\LMY_LM4\\core.py",
+    "file": "archive/4090/home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_LM4/core.py",
+    "sha256": "d76b7a442f5044d40f5f2d1cdbdb5498149bccfe8c74def240216fd485d67c5e",
+    "bytes": 1354
+  },
+  {
+    "source": "E:\\icassp\\github_delivery_work\\remote_sources\\home\\lisiyi\\zhaojiahao_1\\runs\\clip2_final_TEST2189_20261028\\LMY_LM4\\worker.py",
+    "file": "archive/4090/home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_LM4/worker.py",
+    "sha256": "f32f34eec977f30b2a3ff30972d5835b1b60601876050cbc8cdb3ec3cb801242",
+    "bytes": 5226
+  },
+  {
+    "source": "E:\\icassp\\github_delivery_work\\remote_sources\\home\\lisiyi\\zhaojiahao_1\\runs\\clip2_final_TEST2189_20261028\\LMY_LM4\\wrapper.py",
+    "file": "archive/4090/home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_LM4/wrapper.py",
+    "sha256": "0761f7b1b5bdbc1660c156df244f7b77bcea3076ac11ed9866537d4f31962565",
+    "bytes": 4697
+  },
+  {
+    "source": "E:\\icassp\\github_delivery_work\\remote_sources\\home\\lisiyi\\zhaojiahao_1\\runs\\clip2_final_TEST2189_20261028\\LMY_MVDR\\worker.py",
+    "file": "archive/4090/home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_MVDR/worker.py",
+    "sha256": "8dad9627c0384c0ca6efb1ab80a9710fdf15f4635e21bac11c9895221bdef7a8",
+    "bytes": 8379
+  },
+  {
+    "source": "E:\\icassp\\github_delivery_work\\remote_sources\\home\\lisiyi\\zhaojiahao_1\\runs\\clip2_final_TEST2189_20261028\\LMY_MVDR\\wrapper.py",
+    "file": "archive/4090/home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_MVDR/wrapper.py",
+    "sha256": "0761f7b1b5bdbc1660c156df244f7b77bcea3076ac11ed9866537d4f31962565",
+    "bytes": 4697
+  },
+  {
+    "source": "E:\\icassp\\github_delivery_work\\remote_sources\\home\\lisiyi\\zhaojiahao_1\\runs\\clip2_final_TEST2189_20261028\\LMY_NATIVE\\test_frozen_worker.py",
+    "file": "archive/4090/home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_NATIVE/test_frozen_worker.py",
+    "sha256": "0761f7b1b5bdbc1660c156df244f7b77bcea3076ac11ed9866537d4f31962565",
+    "bytes": 4697
+  },
+  {
+    "source": "E:\\icassp\\github_delivery_work\\remote_sources\\home\\lisiyi\\zhaojiahao_1\\runs\\clip2_final_TEST2189_20261028\\LMY_NATIVE\\worker.py",
+    "file": "archive/4090/home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_NATIVE/worker.py",
+    "sha256": "d735c3c7b6ac99da14234f14c1b39b7f3a79c6e2f288c2bdd5d0235b41d1a2cd",
+    "bytes": 8903
+  },
+  {
+    "source": "E:\\icassp\\github_delivery_work\\remote_sources\\home\\lisiyi\\zhaojiahao_1\\runs\\clip2_final_TEST2189_20261028\\LMY_PARENT_MAIN\\stage.py",
+    "file": "archive/4090/home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_PARENT_MAIN/stage.py",
+    "sha256": "4153aaabe07fa54e1ff764f6b77c57bceb5d99dd3934c2fbb5922742e5dee9bf",
+    "bytes": 5072
+  },
+  {
+    "source": "E:\\icassp\\github_delivery_work\\remote_sources\\home\\lisiyi\\zhaojiahao_1\\runs\\clip2_final_TEST2189_20261028\\LMY_PARENT_MAIN\\worker.py",
+    "file": "archive/4090/home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_PARENT_MAIN/worker.py",
+    "sha256": "8d23c85e123a169b1c9e77ed61fdb21d35246ac6ebdb33546152aeb216dabab0",
+    "bytes": 15239
+  },
+  {
+    "source": "E:\\icassp\\github_delivery_work\\remote_sources\\home\\lisiyi\\zhaojiahao_1\\runs\\clip2_final_TEST2189_20261028\\LMY_PARENT_MAIN\\worker_static.py",
+    "file": "archive/4090/home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_PARENT_MAIN/worker_static.py",
+    "sha256": "4189a34153a04932cd007e91912474dffbe43c7a55a611329aa13030e76db0a3",
+    "bytes": 12510
+  },
+  {
+    "source": "E:\\icassp\\github_delivery_work\\remote_sources\\home\\lisiyi\\zhaojiahao_1\\runs\\clip2_final_TEST2189_20261028\\LMY_PREFIX_BAND\\test_frozen_worker.py",
+    "file": "archive/4090/home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_PREFIX_BAND/test_frozen_worker.py",
+    "sha256": "0761f7b1b5bdbc1660c156df244f7b77bcea3076ac11ed9866537d4f31962565",
+    "bytes": 4697
+  },
+  {
+    "source": "E:\\icassp\\github_delivery_work\\remote_sources\\home\\lisiyi\\zhaojiahao_1\\runs\\clip2_final_TEST2189_20261028\\LMY_PREFIX_BAND\\worker.py",
+    "file": "archive/4090/home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_PREFIX_BAND/worker.py",
+    "sha256": "d58c5c2edd070e166493fbec50f0f7a95e06c57b48c8839e7a6d332ba313a733",
+    "bytes": 6477
+  },
+  {
+    "source": "E:\\icassp\\github_delivery_work\\remote_sources\\home\\lisiyi\\zhaojiahao_1\\runs\\clip2_final_TEST2189_20261028\\LMY_QWEN\\test_frozen_worker.py",
+    "file": "archive/4090/home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_QWEN/test_frozen_worker.py",
+    "sha256": "3043df4b5adc4b4ecc3bca37ba4941cbaf099b7e07ffa97a07177d71efbc582a",
+    "bytes": 4231
+  },
+  {
+    "source": "E:\\icassp\\github_delivery_work\\remote_sources\\home\\lisiyi\\zhaojiahao_1\\runs\\clip2_final_TEST2189_20261028\\LMY_QWEN\\worker.py",
+    "file": "archive/4090/home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_QWEN/worker.py",
+    "sha256": "bc5807df456bf5831836197ba05796869356258dd93f5c5e8b2ff34aef7f3836",
+    "bytes": 9649
+  },
+  {
+    "source": "E:\\icassp\\github_delivery_work\\remote_sources\\home\\lisiyi\\zhaojiahao_1\\runs\\clip2_final_TEST2189_20261028\\LMY_QWEN17\\worker.py",
+    "file": "archive/4090/home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_QWEN17/worker.py",
+    "sha256": "98973cce25b5c609a8d132cd5e2e84efc42f6675a5a49284d1c54a4070785ef0",
+    "bytes": 7072
+  },
+  {
+    "source": "E:\\icassp\\github_delivery_work\\remote_sources\\home\\lisiyi\\zhaojiahao_1\\runs\\clip2_final_TEST2189_20261028\\LMY_QWEN17\\wrapper.py",
+    "file": "archive/4090/home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_QWEN17/wrapper.py",
+    "sha256": "0761f7b1b5bdbc1660c156df244f7b77bcea3076ac11ed9866537d4f31962565",
+    "bytes": 4697
+  },
+  {
+    "source": "E:\\icassp\\github_delivery_work\\remote_sources\\home\\lisiyi\\zhaojiahao_1\\runs\\clip2_final_TEST2189_20261028\\LMY_QWEN17_DIAGNOSTIC\\worker.py",
+    "file": "archive/4090/home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_QWEN17_DIAGNOSTIC/worker.py",
+    "sha256": "7313c8e62017f1b8795b0c2034fe7117874ccad3671549e662e12e7670fddd5d",
+    "bytes": 7455
+  },
+  {
+    "source": "E:\\icassp\\github_delivery_work\\remote_sources\\home\\lisiyi\\zhaojiahao_1\\runs\\clip2_final_TEST2189_20261028\\LMY_QWEN17_DIAGNOSTIC\\wrapper.py",
+    "file": "archive/4090/home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_QWEN17_DIAGNOSTIC/wrapper.py",
+    "sha256": "0761f7b1b5bdbc1660c156df244f7b77bcea3076ac11ed9866537d4f31962565",
+    "bytes": 4697
+  },
+  {
+    "source": "E:\\icassp\\github_delivery_work\\remote_sources\\home\\lisiyi\\zhaojiahao_1\\runs\\clip2_final_TEST2189_20261028\\LMY_QWEN17_FIXED4090\\worker.py",
+    "file": "archive/4090/home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_QWEN17_FIXED4090/worker.py",
+    "sha256": "7d5a06522fa83b851d415e6a973c26e6e77bd1b16995af6bc62c715a2103ad26",
+    "bytes": 7434
+  },
+  {
+    "source": "E:\\icassp\\github_delivery_work\\remote_sources\\home\\lisiyi\\zhaojiahao_1\\runs\\clip2_final_TEST2189_20261028\\LMY_QWEN17_FIXED4090\\wrapper.py",
+    "file": "archive/4090/home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_QWEN17_FIXED4090/wrapper.py",
+    "sha256": "0761f7b1b5bdbc1660c156df244f7b77bcea3076ac11ed9866537d4f31962565",
+    "bytes": 4697
+  },
+  {
+    "source": "E:\\icassp\\github_delivery_work\\remote_sources\\home\\lisiyi\\zhaojiahao_1\\runs\\clip2_final_TEST2189_20261028\\LMY_QWEN17_RUNTIME\\build.py",
+    "file": "archive/4090/home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_QWEN17_RUNTIME/build.py",
+    "sha256": "3213f80e4756bb2e1cbe0d716f092028ddef3967671b0b9d78aae0a7f84ebfd4",
+    "bytes": 4253
+  },
+  {
+    "source": "E:\\icassp\\github_delivery_work\\remote_sources\\home\\lisiyi\\zhaojiahao_1\\runs\\clip2_final_TEST2189_20261028\\LMY_SIDE_RAW\\worker.py",
+    "file": "archive/4090/home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_SIDE_RAW/worker.py",
+    "sha256": "3daada6e45594ddefec9cd915920eddae66d3cfc9cccf2ec426b99090a3b3e70",
+    "bytes": 6328
+  },
+  {
+    "source": "E:\\icassp\\github_delivery_work\\remote_sources\\home\\lisiyi\\zhaojiahao_1\\runs\\clip2_final_TEST2189_20261028\\LMY_TDT\\worker.py",
+    "file": "archive/4090/home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_TDT/worker.py",
+    "sha256": "fd88f42baf5346f0ea564de3072a6bb8fe54c469e3d3cf4c94c8dec4ad74e7ea",
+    "bytes": 6035
+  },
+  {
+    "source": "E:\\icassp\\github_delivery_work\\remote_sources\\home\\lisiyi\\zhaojiahao_1\\runs\\clip2_final_TEST2189_20261028\\LMY_TDT\\wrapper.py",
+    "file": "archive/4090/home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_TDT/wrapper.py",
+    "sha256": "0761f7b1b5bdbc1660c156df244f7b77bcea3076ac11ed9866537d4f31962565",
+    "bytes": 4697
+  },
+  {
+    "source": "E:\\icassp\\github_delivery_work\\remote_sources\\home\\lisiyi\\zhaojiahao_1\\runs\\clip2_final_TEST2189_20261028\\LMY_TEXT\\stage.py",
+    "file": "archive/4090/home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_TEXT/stage.py",
+    "sha256": "94fa2ec7374a6faf9160187174634d8162d8511bcc7e9cd3494114dbd2fae929",
+    "bytes": 2108
+  },
+  {
+    "source": "E:\\icassp\\github_delivery_work\\remote_sources\\home\\lisiyi\\zhaojiahao_1\\runs\\clip2_final_TEST2189_20261028\\LMY_TEXT\\worker.py",
+    "file": "archive/4090/home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_TEXT/worker.py",
+    "sha256": "40559aab57ba68a3a34ceafc6d15a665279c1cd28ae04f6a078f8a9cec9e3ee7",
+    "bytes": 5390
+  },
+  {
+    "source": "E:\\icassp\\github_delivery_work\\remote_sources\\home\\lisiyi\\zhaojiahao_1\\runs\\clip2_final_TEST2189_20261028\\LMY_TEXT\\wrapper.py",
+    "file": "archive/4090/home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_TEXT/wrapper.py",
+    "sha256": "0761f7b1b5bdbc1660c156df244f7b77bcea3076ac11ed9866537d4f31962565",
+    "bytes": 4697
+  },
+  {
+    "source": "E:\\icassp\\github_delivery_work\\remote_sources\\home\\lisiyi\\zhaojiahao_1\\runs\\clip2_final_TEST2189_20261028\\LMY_WORD261_TORCH26\\worker.py",
+    "file": "archive/4090/home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_WORD261_TORCH26/worker.py",
+    "sha256": "1f0ad923bdf6ffce61a36ef58e1cc1403a90e6b0e00a18b9edb3aef86cd61e85",
+    "bytes": 8218
+  },
+  {
+    "source": "E:\\icassp\\github_delivery_work\\remote_sources\\home\\lisiyi\\zhaojiahao_1\\runs\\clip2_final_TEST2189_20261028\\LMY_WORD261_TORCH26\\wrapper.py",
+    "file": "archive/4090/home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_WORD261_TORCH26/wrapper.py",
+    "sha256": "0761f7b1b5bdbc1660c156df244f7b77bcea3076ac11ed9866537d4f31962565",
+    "bytes": 4697
+  },
+  {
+    "source": "E:\\icassp\\github_delivery_work\\remote_sources\\home\\lisiyi\\zhaojiahao_1\\runs\\clip2_final_TEST2189_20261028\\QWEN17_BACKEND_DIAG\\worker.py",
+    "file": "archive/4090/home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/QWEN17_BACKEND_DIAG/worker.py",
+    "sha256": "746b52ce02d0931dd3ece5b9d2520318e642c929029fb1cf6cbae5e86d5240a2",
+    "bytes": 7449
+  },
+  {
+    "source": "E:\\icassp\\github_delivery_work\\remote_sources\\home\\lisiyi\\zhaojiahao_1\\runs\\clip2_final_TEST2189_20261028\\QWEN17_BACKEND_DIAG\\wrapper.py",
+    "file": "archive/4090/home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/QWEN17_BACKEND_DIAG/wrapper.py",
+    "sha256": "0761f7b1b5bdbc1660c156df244f7b77bcea3076ac11ed9866537d4f31962565",
+    "bytes": 4697
+  },
+  {
+    "source": "E:\\icassp\\github_delivery_work\\remote_sources\\home\\lisiyi\\zhaojiahao_1\\runs\\clip2_final_TEST2189_20261028\\VALID2117_REPLAY\\parent_worker.py",
+    "file": "archive/4090/home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/VALID2117_REPLAY/parent_worker.py",
+    "sha256": "b517b08e0eec42a629c305b7f2fb0a17db237983753482e275f49b491d133df6",
+    "bytes": 10632
+  },
+  {
+    "source": "E:\\icassp\\github_delivery_work\\remote_sources\\home\\lisiyi\\zhaojiahao_1\\runs\\clip2_final_TEST2189_20261028\\VALID2117_REPLAY\\readout_worker.py",
+    "file": "archive/4090/home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/VALID2117_REPLAY/readout_worker.py",
+    "sha256": "d217a100ac0b0b9e6c9a7b66f3694cf0044180cb28aa9f7d3270ec48c620324c",
+    "bytes": 8693
+  },
+  {
+    "source": "E:\\icassp\\github_delivery_work\\remote_sources\\home\\lisiyi\\zhaojiahao_1\\runs\\clip2_final_TEST2189_20261028\\VALID2117_REPLAY\\stage_reference_raw13.py",
+    "file": "archive/4090/home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/VALID2117_REPLAY/stage_reference_raw13.py",
+    "sha256": "5520f6598e4c27fa831de74398f247411f15e605e25bfbac509f5885868373ad",
+    "bytes": 1952
+  },
+  {
+    "source": "E:\\icassp\\github_delivery_work\\remote_sources\\home\\lisiyi\\zhaojiahao_1\\runs\\clip2_final_TEST2189_20261028\\VALID2117_REPLAY\\worker.py",
+    "file": "archive/4090/home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/VALID2117_REPLAY/worker.py",
+    "sha256": "3b641db8f76bb786ee84fbfff7480d88cbed6843cc053cb957cb63354c6e75af",
+    "bytes": 7291
+  },
+  {
+    "source": "E:\\icassp\\github_delivery_work\\remote_sources\\home\\lisiyi\\zhaojiahao_1\\runs\\clip2_final_TEST2189_20261028\\VALID2117_REPLAY\\wrapper.py",
+    "file": "archive/4090/home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/VALID2117_REPLAY/wrapper.py",
+    "sha256": "0761f7b1b5bdbc1660c156df244f7b77bcea3076ac11ed9866537d4f31962565",
+    "bytes": 4697
+  },
+  {
+    "source": "E:\\icassp\\github_delivery_work\\remote_sources\\home\\lisiyi\\zhaojiahao_1\\runs\\clip2_final_TEST2189_20261028\\Y2_BLIND\\original_worker.py",
+    "file": "archive/4090/home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/Y2_BLIND/original_worker.py",
+    "sha256": "af00dbc3bb961e7b54dc6045565dce7f6da0e9c4c5d0a91985af1db4e70eccfe",
+    "bytes": 1863
+  },
+  {
+    "source": "E:\\icassp\\github_delivery_work\\remote_sources\\home\\lisiyi\\zhaojiahao_1\\runs\\clip2_final_TEST2189_20261028\\Y2_BLIND\\test_frozen_worker.py",
+    "file": "archive/4090/home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/Y2_BLIND/test_frozen_worker.py",
+    "sha256": "0761f7b1b5bdbc1660c156df244f7b77bcea3076ac11ed9866537d4f31962565",
+    "bytes": 4697
+  },
+  {
+    "source": "E:\\icassp\\github_delivery_work\\remote_sources\\home\\lisiyi\\zhaojiahao_1\\runs\\clip2_final_TEST2189_20261028\\Y2_BLIND\\v10_Y2_blind_math_20261022.py",
+    "file": "archive/4090/home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/Y2_BLIND/v10_Y2_blind_math_20261022.py",
+    "sha256": "a2be72eac54bfd5fc95caeeddb712e4c5f87ccc25d8909632261552658d3b3c8",
+    "bytes": 2760
+  },
+  {
+    "source": "E:\\icassp\\github_delivery_work\\remote_sources\\home\\lisiyi\\zhaojiahao_1\\runs\\clip2_final_TEST2189_20261028\\Y2_BLIND\\worker.py",
+    "file": "archive/4090/home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/Y2_BLIND/worker.py",
+    "sha256": "f93adb78e7e63173d8effb7510558d8fc2d0fdc624de4cb40a661153e6affb9b",
+    "bytes": 2317
+  },
+  {
+    "source": "E:\\icassp\\github_delivery_work\\remote_sources\\home\\lisiyi\\zhaojiahao_1\\runs\\clip2_final_TEST2189_20261028\\Y2_TF\\original_worker.py",
+    "file": "archive/4090/home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/Y2_TF/original_worker.py",
+    "sha256": "52de40031a58db636fc395837a7448362c430f19b1c75392878fd7a48d32484d",
+    "bytes": 4487
+  },
+  {
+    "source": "E:\\icassp\\github_delivery_work\\remote_sources\\home\\lisiyi\\zhaojiahao_1\\runs\\clip2_final_TEST2189_20261028\\Y2_TF\\test_frozen_worker.py",
+    "file": "archive/4090/home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/Y2_TF/test_frozen_worker.py",
+    "sha256": "0761f7b1b5bdbc1660c156df244f7b77bcea3076ac11ed9866537d4f31962565",
+    "bytes": 4697
+  },
+  {
+    "source": "E:\\icassp\\github_delivery_work\\remote_sources\\home\\lisiyi\\zhaojiahao_1\\runs\\clip2_final_TEST2189_20261028\\Y2_TF\\worker.py",
+    "file": "archive/4090/home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/Y2_TF/worker.py",
+    "sha256": "a028da80adcafb5a2d881717d0acb911a9457ec99aafae3d91c452eff974dde1",
+    "bytes": 2923
+  },
+  {
+    "source": "E:\\icassp\\github_delivery_work\\remote_sources\\home\\lisiyi\\zhaojiahao_1\\runs\\clip2_final_TEST2189_20261028\\Y4\\original_D1_pitch_worker.py",
+    "file": "archive/4090/home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/Y4/original_D1_pitch_worker.py",
+    "sha256": "b42cf0395f5cc2687444e536d80f232008b2ccbd9a7e76a994b2c9ad3e09090e",
+    "bytes": 2239
+  },
+  {
+    "source": "E:\\icassp\\github_delivery_work\\remote_sources\\home\\lisiyi\\zhaojiahao_1\\runs\\clip2_final_TEST2189_20261028\\Y4\\original_D1_worker.py",
+    "file": "archive/4090/home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/Y4/original_D1_worker.py",
+    "sha256": "a1faad76d1095d4dce9b967cb4d823944f899bc9353e705949ac87ae1cd78875",
+    "bytes": 2514
+  },
+  {
+    "source": "E:\\icassp\\github_delivery_work\\remote_sources\\home\\lisiyi\\zhaojiahao_1\\runs\\clip2_final_TEST2189_20261028\\Y4\\original_y4_worker.py",
+    "file": "archive/4090/home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/Y4/original_y4_worker.py",
+    "sha256": "8256459c859adb3290a84981c766ace57e2a29af242891992137ff4c2603281a",
+    "bytes": 4445
+  },
+  {
+    "source": "E:\\icassp\\github_delivery_work\\remote_sources\\home\\lisiyi\\zhaojiahao_1\\runs\\clip2_final_TEST2189_20261028\\Y4\\rmvpe_vendor.py",
+    "file": "archive/4090/home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/Y4/rmvpe_vendor.py",
+    "sha256": "9b4c6c97613254ae1c23f236f2260b528692900a6fde87c6966fe0ddc3433963",
+    "bytes": 23540
+  },
+  {
+    "source": "E:\\icassp\\github_delivery_work\\remote_sources\\home\\lisiyi\\zhaojiahao_1\\runs\\clip2_final_TEST2189_20261028\\Y4\\test_frozen_worker.py",
+    "file": "archive/4090/home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/Y4/test_frozen_worker.py",
+    "sha256": "0761f7b1b5bdbc1660c156df244f7b77bcea3076ac11ed9866537d4f31962565",
+    "bytes": 4697
+  },
+  {
+    "source": "E:\\icassp\\github_delivery_work\\remote_sources\\home\\lisiyi\\zhaojiahao_1\\runs\\clip2_final_TEST2189_20261028\\Y4\\worker.py",
+    "file": "archive/4090/home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/Y4/worker.py",
+    "sha256": "fbedd0c654037754e24e0ca4e3a3b376fd1f57883711d3ce0ade2a92b561e025",
+    "bytes": 5451
+  },
+  {
+    "source": "E:\\icassp\\github_delivery_work\\remote_sources\\home\\lisiyi\\zhaojiahao_1\\runs\\clip2_final_TEST2189_20261028\\Z9\\original_worker.py",
+    "file": "archive/4090/home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/Z9/original_worker.py",
+    "sha256": "f6a31e99673cfdc7e10ebc505d443898b13a00280d593c71450b01216e2b745a",
+    "bytes": 4895
+  },
+  {
+    "source": "E:\\icassp\\github_delivery_work\\remote_sources\\home\\lisiyi\\zhaojiahao_1\\runs\\clip2_final_TEST2189_20261028\\Z9\\test_frozen_worker.py",
+    "file": "archive/4090/home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/Z9/test_frozen_worker.py",
+    "sha256": "0761f7b1b5bdbc1660c156df244f7b77bcea3076ac11ed9866537d4f31962565",
+    "bytes": 4697
+  },
+  {
+    "source": "E:\\icassp\\github_delivery_work\\remote_sources\\home\\lisiyi\\zhaojiahao_1\\runs\\clip2_final_TEST2189_20261028\\Z9\\worker.py",
+    "file": "archive/4090/home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/Z9/worker.py",
+    "sha256": "7179223a901eb3ec30bc1ca40093765fc7a0da593fe3f63576ad754e7ea76d19",
+    "bytes": 2786
+  },
+  {
+    "source": "E:\\icassp\\github_delivery_work\\remote_sources\\home\\lisiyi\\zhaojiahao_1\\runs\\clip2_final_TEST2189_20261028\\VALID2117_REPLAY\\READOUT\\worker.py",
+    "file": "archive/4090/home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/VALID2117_REPLAY/READOUT/worker.py",
+    "sha256": "81b4ee8a4b87ad5a3d139a2e4653d8565b0f2f485fc60babde871038ab14880b",
+    "bytes": 8700
+  },
+  {
+    "source": "E:\\icassp\\github_delivery_work\\remote_sources\\home\\lisiyi\\zhaojiahao_1\\runs\\clip2_final_TEST2189_20261028\\native_qualification\\Granite\\test_frozen_worker.py",
+    "file": "archive/4090/home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/native_qualification/Granite/test_frozen_worker.py",
+    "sha256": "13c040379fbb12bde808989795b6b902cb399b849a93e2317880b5a037203b47",
+    "bytes": 4184
+  },
+  {
+    "source": "E:\\icassp\\github_delivery_work\\remote_sources\\home\\lisiyi\\zhaojiahao_1\\runs\\clip2_final_TEST2189_20261028\\native_qualification\\Granite\\v10_ER_temporal_math_20261022.py",
+    "file": "archive/4090/home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/native_qualification/Granite/v10_ER_temporal_math_20261022.py",
+    "sha256": "9401c1051b05f0f381b7ed242cbbde9168bc1aaec9d9c6069fb9a0f97eb24aeb",
+    "bytes": 4841
+  },
+  {
+    "source": "E:\\icassp\\github_delivery_work\\remote_sources\\home\\lisiyi\\zhaojiahao_1\\runs\\clip2_final_TEST2189_20261028\\native_qualification\\Granite\\worker.py",
+    "file": "archive/4090/home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/native_qualification/Granite/worker.py",
+    "sha256": "c741f509b30625e6543e178aeb7be44c72d0324f31f872885a569df2966f90d6",
+    "bytes": 10604
+  },
+  {
+    "source": "E:\\icassp\\github_delivery_work\\remote_sources\\home\\lisiyi\\zhaojiahao_1\\runs\\clip2_final_TEST2189_20261028\\native_qualification\\Parakeet\\test_frozen_worker.py",
+    "file": "archive/4090/home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/native_qualification/Parakeet/test_frozen_worker.py",
+    "sha256": "13c040379fbb12bde808989795b6b902cb399b849a93e2317880b5a037203b47",
+    "bytes": 4184
+  },
+  {
+    "source": "E:\\icassp\\github_delivery_work\\remote_sources\\home\\lisiyi\\zhaojiahao_1\\runs\\clip2_final_TEST2189_20261028\\native_qualification\\Parakeet\\v10_ER_temporal_math_20261022.py",
+    "file": "archive/4090/home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/native_qualification/Parakeet/v10_ER_temporal_math_20261022.py",
+    "sha256": "9401c1051b05f0f381b7ed242cbbde9168bc1aaec9d9c6069fb9a0f97eb24aeb",
+    "bytes": 4841
+  },
+  {
+    "source": "E:\\icassp\\github_delivery_work\\remote_sources\\home\\lisiyi\\zhaojiahao_1\\runs\\clip2_final_TEST2189_20261028\\native_qualification\\Parakeet\\worker.py",
+    "file": "archive/4090/home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/native_qualification/Parakeet/worker.py",
+    "sha256": "c741f509b30625e6543e178aeb7be44c72d0324f31f872885a569df2966f90d6",
+    "bytes": 10604
+  },
+  {
+    "source": "E:\\icassp\\github_delivery_work\\remote_sources\\home\\lisiyi\\zhaojiahao_1\\runs\\clip2_final_TEST2189_20261028\\native_EVAL\\Granite\\pack_export.py",
+    "file": "archive/4090/home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/native_EVAL/Granite/pack_export.py",
+    "sha256": "66476996ab5b52d14d2cc39640da40071718bc6516e5be6ca748a3d3b7c4da1f",
+    "bytes": 916
+  },
+  {
+    "source": "E:\\icassp\\github_delivery_work\\remote_sources\\home\\lisiyi\\zhaojiahao_1\\runs\\clip2_final_TEST2189_20261028\\native_EVAL\\Granite\\test_frozen_worker.py",
+    "file": "archive/4090/home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/native_EVAL/Granite/test_frozen_worker.py",
+    "sha256": "3043df4b5adc4b4ecc3bca37ba4941cbaf099b7e07ffa97a07177d71efbc582a",
+    "bytes": 4231
+  },
+  {
+    "source": "E:\\icassp\\github_delivery_work\\remote_sources\\home\\lisiyi\\zhaojiahao_1\\runs\\clip2_final_TEST2189_20261028\\native_EVAL\\Granite\\v10_ER_temporal_math_20261022.py",
+    "file": "archive/4090/home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/native_EVAL/Granite/v10_ER_temporal_math_20261022.py",
+    "sha256": "9401c1051b05f0f381b7ed242cbbde9168bc1aaec9d9c6069fb9a0f97eb24aeb",
+    "bytes": 4841
+  },
+  {
+    "source": "E:\\icassp\\github_delivery_work\\remote_sources\\home\\lisiyi\\zhaojiahao_1\\runs\\clip2_final_TEST2189_20261028\\native_EVAL\\Granite\\worker.py",
+    "file": "archive/4090/home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/native_EVAL/Granite/worker.py",
+    "sha256": "c741f509b30625e6543e178aeb7be44c72d0324f31f872885a569df2966f90d6",
+    "bytes": 10604
+  },
+  {
+    "source": "E:\\icassp\\github_delivery_work\\remote_sources\\home\\lisiyi\\zhaojiahao_1\\runs\\clip2_final_TEST2189_20261028\\LMY_WORD261_TORCH26\\sources\\fast_path.py",
+    "file": "archive/4090/home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_WORD261_TORCH26/sources/fast_path.py",
+    "sha256": "6f70f2151c85f89b3e5e69abb8ac95b79eb51dfe8b745be73cf6e7684ba6f32c",
+    "bytes": 1846
+  },
+  {
+    "source": "E:\\icassp\\github_delivery_work\\remote_sources\\home\\lisiyi\\zhaojiahao_1\\runs\\clip2_final_TEST2189_20261028\\LMY_WORD261_TORCH26\\sources\\grounding.py",
+    "file": "archive/4090/home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_WORD261_TORCH26/sources/grounding.py",
+    "sha256": "e7f3080d217b4c4462ad2372972b52b4134ff34e6d2db5ffef8d1e771ac09586",
+    "bytes": 6000
+  },
+  {
+    "source": "E:\\icassp\\github_delivery_work\\remote_sources\\home\\lisiyi\\zhaojiahao_1\\runs\\clip2_final_TEST2189_20261028\\LMY_WORD261_TORCH26\\sources\\labels.py",
+    "file": "archive/4090/home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_WORD261_TORCH26/sources/labels.py",
+    "sha256": "8df86298628615021a769b01fceb700507f4a159baacff12512848174042ab0f",
+    "bytes": 4945
+  },
+  {
+    "source": "E:\\icassp\\github_delivery_work\\remote_sources\\home\\lisiyi\\zhaojiahao_1\\runs\\clip2_final_TEST2189_20261028\\LMY_WORD261_TORCH26\\sources\\probe_inputs.py",
+    "file": "archive/4090/home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_WORD261_TORCH26/sources/probe_inputs.py",
+    "sha256": "59ad9a41749346098480bce1ede4a42d13cb9481d085ab288e81bc89fe904e46",
+    "bytes": 11227
+  },
+  {
+    "source": "E:\\icassp\\github_delivery_work\\remote_sources\\home\\lisiyi\\zhaojiahao_1\\runs\\clip2_final_TEST2189_20261028\\LMY_WORD261_TORCH26\\sources\\stream_inputs.py",
+    "file": "archive/4090/home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_WORD261_TORCH26/sources/stream_inputs.py",
+    "sha256": "2faf766ef15f1726a3c65fcef0d7a1ec9da4caee66ad337488c37614f966a78c",
+    "bytes": 17244
+  },
+  {
+    "source": "E:\\icassp\\github_delivery_work\\remote_sources\\home\\lisiyi\\zhaojiahao_1\\runs\\clip2_final_TEST2189_20261028\\LMY_WORD261_TORCH26\\sources\\transfer_core.py",
+    "file": "archive/4090/home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_WORD261_TORCH26/sources/transfer_core.py",
+    "sha256": "f897aa0e6b454ad17631b2b0a2019d2ea65125f0ea5ee0cf772bc0b770c92709",
+    "bytes": 9157
+  },
+  {
+    "source": "E:\\icassp\\github_delivery_work\\remote_sources\\home\\lisiyi\\zhaojiahao_1\\runs\\clip2_final_TEST2189_20261028\\LMY_WORD261_TORCH26\\sources\\word_features.py",
+    "file": "archive/4090/home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_WORD261_TORCH26/sources/word_features.py",
+    "sha256": "fd0e43455cfe26b9d0747cea1900dd4df3bbad10682f1651918421f62759ef16",
+    "bytes": 12692
+  },
+  {
+    "source": "E:\\icassp\\github_delivery_work\\remote_sources\\home\\lisiyi\\zhaojiahao_1\\runs\\clip2_final_TEST2189_20261028\\LMY_QWEN17\\frontend_current\\worker.py",
+    "file": "archive/4090/home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_QWEN17/frontend_current/worker.py",
+    "sha256": "5c26b9416c87e1d16663dba219eb41ccf07b0edb26f1cb7260955054b44e8aa9",
+    "bytes": 2860
+  },
+  {
+    "source": "E:\\icassp\\github_delivery_work\\remote_sources\\home\\lisiyi\\zhaojiahao_1\\runs\\clip2_final_TEST2189_20261028\\LMY_ENCODERS\\Granite\\test_frozen_worker.py",
+    "file": "archive/4090/home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_ENCODERS/Granite/test_frozen_worker.py",
+    "sha256": "0761f7b1b5bdbc1660c156df244f7b77bcea3076ac11ed9866537d4f31962565",
+    "bytes": 4697
+  },
+  {
+    "source": "E:\\icassp\\github_delivery_work\\remote_sources\\home\\lisiyi\\zhaojiahao_1\\runs\\clip2_final_TEST2189_20261028\\LMY_ENCODERS\\Granite\\worker.py",
+    "file": "archive/4090/home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_ENCODERS/Granite/worker.py",
+    "sha256": "3690129d7bb980950b47c4d5014c1c7f8a820d85755e2dc52389265efda13501",
+    "bytes": 5234
+  },
+  {
+    "source": "E:\\icassp\\github_delivery_work\\remote_sources\\home\\lisiyi\\zhaojiahao_1\\runs\\clip2_final_TEST2189_20261028\\LMY_ENCODERS\\Parakeet\\test_frozen_worker.py",
+    "file": "archive/4090/home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_ENCODERS/Parakeet/test_frozen_worker.py",
+    "sha256": "0761f7b1b5bdbc1660c156df244f7b77bcea3076ac11ed9866537d4f31962565",
+    "bytes": 4697
+  },
+  {
+    "source": "E:\\icassp\\github_delivery_work\\remote_sources\\home\\lisiyi\\zhaojiahao_1\\runs\\clip2_final_TEST2189_20261028\\LMY_ENCODERS\\Parakeet\\worker.py",
+    "file": "archive/4090/home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_ENCODERS/Parakeet/worker.py",
+    "sha256": "3690129d7bb980950b47c4d5014c1c7f8a820d85755e2dc52389265efda13501",
+    "bytes": 5234
+  },
+  {
+    "source": "E:\\icassp\\github_delivery_work\\remote_sources\\home\\lisiyi\\zhaojiahao_1\\runs\\clip2_final_TEST2189_20261028\\LMY_QWEN17_RUNTIME\\resolved_packages.json",
+    "file": "environments/resolved_packages.json",
+    "sha256": "183bbbfecc20b2e08c6e065101011ec839496a80bdc3eb94afc34f5bf2b3ae61",
+    "bytes": 7155
+  },
+  {
+    "source": "E:\\icassp\\zhaojiahao\\CLIP2-new\\algorithms\\03_my_improvements\\experiments\\v10_20261016\\final_selective_risk_20261027\\delivery\\current_preserved_fusion\\replay_final.py",
+    "file": "replay/replay_final.py",
+    "sha256": "572146cf9dde14efe40db078041f39771b76d1793808b38c70b2ea281f64b51b",
+    "bytes": 4356
+  },
+  {
+    "source": "E:\\icassp\\zhaojiahao\\CLIP2-new\\algorithms\\03_my_improvements\\experiments\\v10_20261016\\final_selective_risk_20261027\\delivery\\current_preserved_fusion\\replay_contract.json",
+    "file": "replay/replay_contract.json",
+    "sha256": "f70cb0f2bf0bdc2ca83ed7297e2b047b3131d81fbdf94d69d59097c4cf5a8b5a",
+    "bytes": 5127
+  },
+  {
+    "source": "E:\\icassp\\zhaojiahao\\CLIP2-new\\algorithms\\03_my_improvements\\experiments\\v10_20261016\\final_selective_risk_20261027\\delivery\\current_preserved_fusion\\replay_inputs\\ADAPTER_MODEL.pt",
+    "file": "replay/replay_inputs/ADAPTER_MODEL.pt",
+    "sha256": "444a577b1fd987867e1eda464c2053ca2045f1a9b670595f1de57a553686db89",
+    "bytes": 4693
+  },
+  {
+    "source": "E:\\icassp\\zhaojiahao\\CLIP2-new\\algorithms\\03_my_improvements\\experiments\\v10_20261016\\final_selective_risk_20261027\\delivery\\current_preserved_fusion\\replay_inputs\\FINAL_JOINT_VALID.csv",
+    "file": "replay/replay_inputs/FINAL_JOINT_VALID.csv",
+    "sha256": "a061c982965dae202bb749121c67c085c7953df32d4305057e64dbc7f187d883",
+    "bytes": 84369
+  },
+  {
+    "source": "E:\\icassp\\zhaojiahao\\CLIP2-new\\algorithms\\03_my_improvements\\experiments\\v10_20261016\\final_selective_risk_20261027\\delivery\\current_preserved_fusion\\replay_inputs\\LMY_VALID.csv",
+    "file": "replay/replay_inputs/LMY_VALID.csv",
+    "sha256": "3e663e599420842d5199a95d1e56ad3c5a1089748d1b18bed4cad4968c3c3edb",
+    "bytes": 86475
+  },
+  {
+    "source": "E:\\icassp\\zhaojiahao\\CLIP2-new\\algorithms\\03_my_improvements\\experiments\\v10_20261016\\final_selective_risk_20261027\\delivery\\current_preserved_fusion\\replay_inputs\\MF_VALID.csv",
+    "file": "replay/replay_inputs/MF_VALID.csv",
+    "sha256": "1cf0813ae5a06ee9bf109aff03fef7f323f2c23ab8a1de8fb27f6f4d6db26195",
+    "bytes": 82273
+  },
+  {
+    "source": "E:\\icassp\\zhaojiahao\\CLIP2-new\\algorithms\\03_my_improvements\\experiments\\v10_20261016\\final_selective_risk_20261027\\delivery\\current_preserved_fusion\\replay_inputs\\MOSS_VALID.csv",
+    "file": "replay/replay_inputs/MOSS_VALID.csv",
+    "sha256": "21b03b1c0c5ee249633196b4f71ca4c3cbc24ca5f9b83ed1cd667064356dfc6c",
+    "bytes": 82262
+  },
+  {
+    "source": "E:\\icassp\\zhaojiahao\\CLIP2-new\\algorithms\\03_my_improvements\\experiments\\v10_20261016\\final_selective_risk_20261027\\delivery\\current_preserved_fusion\\replay_inputs\\Omni_VALID.csv",
+    "file": "replay/replay_inputs/Omni_VALID.csv",
+    "sha256": "2c08a09c31abebfc4fa27d9ffa59c6f77f5e3b0485fce8022163c3e35c72600a",
+    "bytes": 82272
+  },
+  {
+    "source": "E:\\icassp\\zhaojiahao\\CLIP2-new\\algorithms\\03_my_improvements\\experiments\\v10_20261016\\final_selective_risk_20261027\\delivery\\current_preserved_fusion\\replay_inputs\\OWN_VALID.csv",
+    "file": "replay/replay_inputs/OWN_VALID.csv",
+    "sha256": "8dc3ae25938e39c2cd9c0de0a2127a88c365c60f4b48897964f0d64f8069e76b",
+    "bytes": 84385
+  },
+  {
+    "source": "E:\\icassp\\zhaojiahao\\CLIP2-new\\algorithms\\03_my_improvements\\experiments\\v10_20261016\\final_selective_risk_20261027\\delivery\\current_preserved_fusion\\replay_inputs\\Phi_VALID.csv",
+    "file": "replay/replay_inputs/Phi_VALID.csv",
+    "sha256": "8a0829b84aa9fa91c6d6773db4cc2411ad90bf215e5ce2b534132c7f44c10790",
+    "bytes": 82268
+  },
+  {
+    "source": "E:\\icassp\\zhaojiahao\\CLIP2-new\\algorithms\\03_my_improvements\\experiments\\v10_20261016\\final_selective_risk_20261027\\delivery\\current_preserved_fusion\\replay_inputs\\VALID_DATA.npz",
+    "file": "replay/replay_inputs/VALID_DATA.npz",
+    "sha256": "53d151b13fd686bac94d1439daa560ff47f2f1f0f9c0ecbef2413113adfff977",
+    "bytes": 136403
+  },
+  {
+    "source": "E:\\icassp\\zhaojiahao\\CLIP2-new\\algorithms\\03_my_improvements\\experiments\\v10_20261016\\final_selective_risk_20261027\\delivery\\current_preserved_fusion\\replay_inputs\\ZERO_JOINT_VALID.csv",
+    "file": "replay/replay_inputs/ZERO_JOINT_VALID.csv",
+    "sha256": "79c37e2b4763217320f4ca9aead778050ebf544a6b5d97d48adfab3acabcdee3",
+    "bytes": 84370
+  },
+  {
+    "source": "C:\\Users\\zjh13\\Desktop\\CLIP2_T019_CLIP1_ablation_20261105\\reproduce\\adapter.pt",
+    "file": "replay/interfaces/adapter.pt",
+    "sha256": "444a577b1fd987867e1eda464c2053ca2045f1a9b670595f1de57a553686db89",
+    "bytes": 4693
+  },
+  {
+    "source": "C:\\Users\\zjh13\\Desktop\\CLIP2_T019_CLIP1_ablation_20261105\\reproduce\\eval_inputs.npz",
+    "file": "replay/interfaces/eval_inputs.npz",
+    "sha256": "603394cabf6bc13090d274bf2d35a5da90efe3eff1ac8d3cadb506ec921495e1",
+    "bytes": 258653
+  },
+  {
+    "source": "C:\\Users\\zjh13\\Desktop\\CLIP2_T019_CLIP1_ablation_20261105\\reproduce\\valid_inputs.npz",
+    "file": "replay/interfaces/valid_inputs.npz",
+    "sha256": "a2b7c06105eedab8173126da0f4d218d92db4ccc03567418bcfd08d3e9d967a1",
+    "bytes": 250069
+  },
+  {
+    "source": "E:\\icassp\\zhaojiahao\\CLIP2-new\\algorithms\\03_my_improvements\\experiments\\v10_20261016\\final_selective_risk_20261027\\delivery\\current_preserved_fusion\\replay_inputs\\FINAL_JOINT_VALID.csv",
+    "file": "predictions/JOINT_VALID2117.csv",
+    "sha256": "a061c982965dae202bb749121c67c085c7953df32d4305057e64dbc7f187d883",
+    "bytes": 84369
+  },
+  {
+    "source": "E:\\icassp\\zhaojiahao\\CLIP2-new\\algorithms\\03_my_improvements\\experiments\\v10_20261016\\final_selective_risk_20261027\\delivery\\current_preserved_fusion\\outputs\\test_final.csv",
+    "file": "predictions/JOINT_EVAL2189.csv",
+    "sha256": "0be40f574d231540f7efcf0802c2b9c464301d9518beec063caf9c96a42dd5da",
+    "bytes": 87279
+  }
+]

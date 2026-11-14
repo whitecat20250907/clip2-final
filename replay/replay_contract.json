@@ -1,0 +1,97 @@
+{
+  "schema": "CLIP2.preserved_final.cached_replay.v1",
+  "four_route_SIDs": [
+    587835,
+    587836,
+    587634,
+    587632
+  ],
+  "original_own_weight": 0.5609719773532506,
+  "absolute_radius": 0.05,
+  "files": {
+    "MF_VALID": {
+      "relative_path": "replay_inputs/MF_VALID.csv",
+      "SHA": "1cf0813ae5a06ee9bf109aff03fef7f323f2c23ab8a1de8fb27f6f4d6db26195",
+      "original_source": {
+        "path": "E:\\icassp\\zhaojiahao\\CLIP2-new\\algorithms\\03_my_improvements\\experiments\\v10_20261016\\next_jury_20261024\\broad_official_trials_20261026\\readouts\\MF\\valid_predictions.csv",
+        "SHA": "1cf0813ae5a06ee9bf109aff03fef7f323f2c23ab8a1de8fb27f6f4d6db26195"
+      }
+    },
+    "Phi_VALID": {
+      "relative_path": "replay_inputs/Phi_VALID.csv",
+      "SHA": "8a0829b84aa9fa91c6d6773db4cc2411ad90bf215e5ce2b534132c7f44c10790",
+      "original_source": {
+        "path": "E:\\icassp\\zhaojiahao\\CLIP2-new\\algorithms\\03_my_improvements\\experiments\\v10_20261016\\next_jury_20261024\\broad_official_trials_20261026\\readouts\\Phi4MM\\valid_predictions.csv",
+        "SHA": "8a0829b84aa9fa91c6d6773db4cc2411ad90bf215e5ce2b534132c7f44c10790"
+      }
+    },
+    "MOSS_VALID": {
+      "relative_path": "replay_inputs/MOSS_VALID.csv",
+      "SHA": "21b03b1c0c5ee249633196b4f71ca4c3cbc24ca5f9b83ed1cd667064356dfc6c",
+      "original_source": {
+        "path": "E:\\icassp\\zhaojiahao\\CLIP2-new\\algorithms\\03_my_improvements\\experiments\\v10_20261016\\next_jury_20261024\\per_model_diagnostics_20261026\\MOSS\\valid_predictions.csv",
+        "SHA": "21b03b1c0c5ee249633196b4f71ca4c3cbc24ca5f9b83ed1cd667064356dfc6c"
+      }
+    },
+    "Omni_VALID": {
+      "relative_path": "replay_inputs/Omni_VALID.csv",
+      "SHA": "2c08a09c31abebfc4fa27d9ffa59c6f77f5e3b0485fce8022163c3e35c72600a",
+      "original_source": {
+        "path": "E:\\icassp\\zhaojiahao\\CLIP2-new\\algorithms\\03_my_improvements\\experiments\\v10_20261016\\next_jury_20261024\\per_model_diagnostics_20261026\\Qwen25Omni7B\\valid_predictions.csv",
+        "SHA": "2c08a09c31abebfc4fa27d9ffa59c6f77f5e3b0485fce8022163c3e35c72600a"
+      }
+    },
+    "OWN_VALID": {
+      "relative_path": "replay_inputs/OWN_VALID.csv",
+      "SHA": "8dc3ae25938e39c2cd9c0de0a2127a88c365c60f4b48897964f0d64f8069e76b",
+      "original_source": {
+        "path": "E:\\icassp\\zhaojiahao\\CLIP2-new\\algorithms\\03_my_improvements\\experiments\\v10_20261016\\final_selective_risk_20261027\\mean4\\valid_predictions.csv",
+        "SHA": "8dc3ae25938e39c2cd9c0de0a2127a88c365c60f4b48897964f0d64f8069e76b"
+      }
+    },
+    "LMY_VALID": {
+      "relative_path": "replay_inputs/LMY_VALID.csv",
+      "SHA": "3e663e599420842d5199a95d1e56ad3c5a1089748d1b18bed4cad4968c3c3edb",
+      "original_source": {
+        "path": "E:\\icassp\\zhaojiahao\\CLIP2-new\\algorithms\\03_my_improvements\\experiments\\v10_20261016\\final_selective_risk_20261027\\LMY_fixed_TRAIN_replay\\collected\\VALID_original.csv",
+        "SHA": "3e663e599420842d5199a95d1e56ad3c5a1089748d1b18bed4cad4968c3c3edb"
+      }
+    },
+    "ZERO_JOINT_VALID": {
+      "relative_path": "replay_inputs/ZERO_JOINT_VALID.csv",
+      "SHA": "79c37e2b4763217320f4ca9aead778050ebf544a6b5d97d48adfab3acabcdee3",
+      "original_source": {
+        "path": "E:\\icassp\\zhaojiahao\\CLIP2-new\\algorithms\\03_my_improvements\\experiments\\v10_20261016\\final_selective_risk_20261027\\joint_adapter_data\\joint_zero_reference.csv",
+        "SHA": "79c37e2b4763217320f4ca9aead778050ebf544a6b5d97d48adfab3acabcdee3"
+      }
+    },
+    "FINAL_JOINT_VALID": {
+      "relative_path": "replay_inputs/FINAL_JOINT_VALID.csv",
+      "SHA": "a061c982965dae202bb749121c67c085c7953df32d4305057e64dbc7f187d883",
+      "original_source": {
+        "path": "E:\\icassp\\zhaojiahao\\CLIP2-new\\algorithms\\03_my_improvements\\experiments\\v10_20261016\\final_selective_risk_20261027\\joint_adapter_runs\\JOINT13_TRAIN3057_SEED142\\candidate\\valid_predictions.csv",
+        "SHA": "a061c982965dae202bb749121c67c085c7953df32d4305057e64dbc7f187d883"
+      }
+    },
+    "VALID_DATA": {
+      "relative_path": "replay_inputs/VALID_DATA.npz",
+      "SHA": "53d151b13fd686bac94d1439daa560ff47f2f1f0f9c0ecbef2413113adfff977",
+      "original_source": {
+        "path": "E:\\icassp\\zhaojiahao\\CLIP2-new\\algorithms\\03_my_improvements\\experiments\\v10_20261016\\final_selective_risk_20261027\\joint_adapter_data\\valid.npz",
+        "SHA": "53d151b13fd686bac94d1439daa560ff47f2f1f0f9c0ecbef2413113adfff977"
+      }
+    },
+    "ADAPTER_MODEL": {
+      "relative_path": "replay_inputs/ADAPTER_MODEL.pt",
+      "SHA": "444a577b1fd987867e1eda464c2053ca2045f1a9b670595f1de57a553686db89",
+      "original_source": {
+        "path": "E:\\icassp\\zhaojiahao\\CLIP2-new\\algorithms\\03_my_improvements\\experiments\\v10_20261016\\final_selective_risk_20261027\\joint_adapter_runs\\JOINT13_TRAIN3057_SEED142\\fits\\full\\model.pt",
+        "SHA": "444a577b1fd987867e1eda464c2053ca2045f1a9b670595f1de57a553686db89"
+      }
+    }
+  },
+  "whole_system_OOF": false,
+  "arbitrary_raw_audio_inference": false,
+  "TRAIN_rows": 3057,
+  "VALID_rows": 2117
+}

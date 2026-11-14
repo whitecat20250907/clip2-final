@@ -1,0 +1,9 @@
+__pycache__/
+generated/
+assets/
+downloads/
+*.tar.gz
+*.zip
+.env
+*.pem
+*.key

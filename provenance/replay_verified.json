@@ -1,0 +1,14 @@
+{
+  "valid": {
+    "rows": 2117,
+    "byte_identical": true,
+    "sha256": "a061c982965dae202bb749121c67c085c7953df32d4305057e64dbc7f187d883"
+  },
+  "eval": {
+    "rows": 2189,
+    "byte_identical": true,
+    "sha256": "0be40f574d231540f7efcf0802c2b9c464301d9518beec063caf9c96a42dd5da"
+  },
+  "scope": "frozen interface replay; raw audio frontend is not executed",
+  "fits": 0
+}
