@@ -1,0 +1,213 @@
+{
+  "assets_verified": 34,
+  "total_uploaded_bytes": 2281728278,
+  "all_GitHub_SHA256_match": true,
+  "release_id": 445203014,
+  "scope": "Server-returned SHA256 compared with local SHA256 for every asset",
+  "assets": [
+    {
+      "name": "trained-weights.tar.gz",
+      "id": 747088182,
+      "bytes": 81031222,
+      "digest": "sha256:99899087272386aac14a3cfd1b1cd588e917fdb18d223e69325c2fd5c5c8b274"
+    },
+    {
+      "name": "frozen-local-assets.tar.gz.part002",
+      "id": 747133289,
+      "bytes": 67108864,
+      "digest": "sha256:1abbdfd770f48429a6301d1935579bd48f862a09d8ef7483e8b0249bfda37ad9"
+    },
+    {
+      "name": "frozen-local-assets.tar.gz.part000",
+      "id": 747133290,
+      "bytes": 67108864,
+      "digest": "sha256:920967ffff841662e8f10d2c1da478d7ddf17cbe2325ace6580dd584dea57aab"
+    },
+    {
+      "name": "frozen-local-assets.tar.gz.part001",
+      "id": 747133319,
+      "bytes": 67108864,
+      "digest": "sha256:8102b88df3f1a698e378220125e10ade5e511b26b83084c764b96c3ed35c14f1"
+    },
+    {
+      "name": "frozen-local-assets.tar.gz.part003",
+      "id": 747134711,
+      "bytes": 67108864,
+      "digest": "sha256:63a5fd77a0bce0dccb5d31dee5e954151444f1e94f0312011f2a28719bdc9084"
+    },
+    {
+      "name": "frozen-local-assets.tar.gz.part004",
+      "id": 747135241,
+      "bytes": 63684571,
+      "digest": "sha256:0e9461e5df6e10ec238526a5b4f2f6b8346881b9f8b31f97ee1abc733cc10d34"
+    },
+    {
+      "name": "frozen-4090-dependencies.tar.gz.part000",
+      "id": 747135538,
+      "bytes": 67108864,
+      "digest": "sha256:7a029802fed6288534846f41f04215dc0f47b4fca47425919007a86e19c8062a"
+    },
+    {
+      "name": "frozen-4090-dependencies.tar.gz.part001",
+      "id": 747136985,
+      "bytes": 67108864,
+      "digest": "sha256:3163c8e56a7191996e8f6286b0c2962ddb78f2f0422116c490424161a7bb1e59"
+    },
+    {
+      "name": "frozen-4090-dependencies.tar.gz.part002",
+      "id": 747136996,
+      "bytes": 67108864,
+      "digest": "sha256:4a1d952189ac76a5f98585351bcc1176cd67f7ad4856e482d24630d327a93e7d"
+    },
+    {
+      "name": "frozen-4090-dependencies.tar.gz.part003",
+      "id": 747137002,
+      "bytes": 67108864,
+      "digest": "sha256:1c981a3e87eb3ad6cef33309afe64ffd122c4f7c7b008ec601b4be59ca6d5b8d"
+    },
+    {
+      "name": "frozen-4090-dependencies.tar.gz.part004",
+      "id": 747138388,
+      "bytes": 67108864,
+      "digest": "sha256:1505b68c1af2aa8fb960467b291ef290ff2a54970a22af40edc299c3e93e1e0d"
+    },
+    {
+      "name": "frozen-4090-dependencies.tar.gz.part005",
+      "id": 747138879,
+      "bytes": 67108864,
+      "digest": "sha256:fb72f565f3ac695a68b58e010fef91c7f9ea013d710b4a5276204483ad36a9bb"
+    },
+    {
+      "name": "frozen-4090-dependencies.tar.gz.part006",
+      "id": 747139610,
+      "bytes": 67108864,
+      "digest": "sha256:90e2ce96ef236c7aa401172ab283c77fb86bf96cb925eb64ef89c7d2ea65c216"
+    },
+    {
+      "name": "frozen-4090-dependencies.tar.gz.part007",
+      "id": 747140416,
+      "bytes": 67108864,
+      "digest": "sha256:990e97211952339bc7661139cfd7dc26817bfd805e768b506290c07e31fcfc0a"
+    },
+    {
+      "name": "frozen-4090-dependencies.tar.gz.part008",
+      "id": 747140842,
+      "bytes": 67108864,
+      "digest": "sha256:36a1d4b711556577393240d33976b841f3bed75cdf02baa5df8bb4bbe19bab75"
+    },
+    {
+      "name": "frozen-4090-dependencies.tar.gz.part009",
+      "id": 747141106,
+      "bytes": 67108864,
+      "digest": "sha256:c8e6953ce0a2b19e0b77e69b1d81bc83ba529e2cd7b58a84a5f05c09f7929cef"
+    },
+    {
+      "name": "frozen-4090-dependencies.tar.gz.part010",
+      "id": 747141676,
+      "bytes": 67108864,
+      "digest": "sha256:04f15e19852056ae5dee244f87e44f901587bab2be73232d19a477aa0f90b230"
+    },
+    {
+      "name": "frozen-4090-dependencies.tar.gz.part011",
+      "id": 747142729,
+      "bytes": 67108864,
+      "digest": "sha256:d81037908cd69763a4b11d9ab75c905ccba625bfc370ca519c179e9acc764eb3"
+    },
+    {
+      "name": "frozen-4090-dependencies.tar.gz.part012",
+      "id": 747142898,
+      "bytes": 67108864,
+      "digest": "sha256:a37b39d1b924fdf7a4ccd0c3e2cf660cb09ffd1b4ac17aca9052efb5da23e479"
+    },
+    {
+      "name": "frozen-4090-dependencies.tar.gz.part013",
+      "id": 747143716,
+      "bytes": 67108864,
+      "digest": "sha256:e47dbfbc309e429c99787e21d163792b2cdd5d55db97694ad8ff55104ec0cf8f"
+    },
+    {
+      "name": "frozen-4090-dependencies.tar.gz.part014",
+      "id": 747144727,
+      "bytes": 67108864,
+      "digest": "sha256:cfb3af274736e7222bade8d8a2add1799873d23a8a902331a0a5d04962b91a20"
+    },
+    {
+      "name": "frozen-4090-dependencies.tar.gz.part015",
+      "id": 747145120,
+      "bytes": 67108864,
+      "digest": "sha256:f4ab82eae150e17e7084a9ac715469a64b6ccaae214f29f0a0efa5b26c5c49da"
+    },
+    {
+      "name": "frozen-4090-dependencies.tar.gz.part016",
+      "id": 747145272,
+      "bytes": 67108864,
+      "digest": "sha256:ddc231885ea739fbcd2e9d5816908703f70a089de256c8a7f325f0b1f9c7f134"
+    },
+    {
+      "name": "frozen-4090-dependencies.tar.gz.part017",
+      "id": 747146323,
+      "bytes": 67108864,
+      "digest": "sha256:cf3e5673f7cf581b676e22829f834930cdf0d01334e783cb5c0adc3300197282"
+    },
+    {
+      "name": "frozen-4090-dependencies.tar.gz.part018",
+      "id": 747146569,
+      "bytes": 67108864,
+      "digest": "sha256:218380d77bab4f609741985120b77f493637d65212e4e88cf3f698264a333108"
+    },
+    {
+      "name": "frozen-4090-dependencies.tar.gz.part019",
+      "id": 747147247,
+      "bytes": 67108864,
+      "digest": "sha256:74b933aa9b3d8f130e303a17da02a17ea9ad94100f28cdecb527bfe6716eeeae"
+    },
+    {
+      "name": "frozen-4090-dependencies.tar.gz.part020",
+      "id": 747147437,
+      "bytes": 67108864,
+      "digest": "sha256:e3dde777d06f5d47b211e5b84e6e5e75d6d46e39bcb9cd09e534b7fc309b302a"
+    },
+    {
+      "name": "frozen-4090-dependencies.tar.gz.part021",
+      "id": 747148294,
+      "bytes": 67108864,
+      "digest": "sha256:327115680e318859c8add28890c86bda427eea7c4a1ad2be828ed1f44983c575"
+    },
+    {
+      "name": "frozen-4090-dependencies.tar.gz.part022",
+      "id": 747148530,
+      "bytes": 67108864,
+      "digest": "sha256:6f87beda3019145b0f67f840724535ffa34ee8e695daaaf8d2ee48b89bb4cedc"
+    },
+    {
+      "name": "frozen-4090-dependencies.tar.gz.part023",
+      "id": 747149021,
+      "bytes": 67108864,
+      "digest": "sha256:64667e70346e8eb6f06d16f888a741821aecc4dd32581c9e28b93b2166d32441"
+    },
+    {
+      "name": "frozen-4090-dependencies.tar.gz.part024",
+      "id": 747149525,
+      "bytes": 67108864,
+      "digest": "sha256:fe58ead22b453a45b7eeaa3d580c0fb5f35f695206f067dca310ffaab10c988c"
+    },
+    {
+      "name": "frozen-4090-dependencies.tar.gz.part025",
+      "id": 747150084,
+      "bytes": 67108864,
+      "digest": "sha256:bb82e0d4b6a3e55fe281ef1181dde0c9bb40bb94e1fe10c40712784fd21f262f"
+    },
+    {
+      "name": "frozen-4090-dependencies.tar.gz.part026",
+      "id": 747150672,
+      "bytes": 67108864,
+      "digest": "sha256:4262eace5c1c02f83c65e33b4c6545f6fa51345266189958c619fb1ed6192eb3"
+    },
+    {
+      "name": "frozen-4090-dependencies.tar.gz.part027",
+      "id": 747150735,
+      "bytes": 56637701,
+      "digest": "sha256:fcae1cacb59ffc75918a7e0b178509e3d0d63281265adf704bfb2727c9f2aaa6"
+    }
+  ]
+}

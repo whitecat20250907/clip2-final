@@ -33,7 +33,15 @@ gh release download frozen-20261114 --repo whitecat20250907/clip2-final --dir as
 python verify_assets.py
 ```
 
-Release 中保留冻结本机资产与 4090 原始依赖。压缩包内保留原路径映射，避免同名 `model.pt` 混淆。必要祖先模型不属于可以删除的旧最终版本。第三方数据与模型不新增授权许可。
+Release 中保留冻结本机资产与 4090 原始依赖。大附件拆成 64 MiB 分片以支持稳定下载；`verify_assets.py` 会按清单自动合并并核对每个分片及整个压缩包的 SHA256。分片保留，便于重试；不要手工改名。压缩包内保留原路径映射，避免同名 `model.pt` 混淆。必要祖先模型不属于可以删除的旧最终版本。第三方数据与模型不新增授权许可。
+
+| 附件 | 合并后的大小 | 内容 |
+|---|---:|---|
+| frozen-local-assets.tar.gz | 316.73 MiB | 本人冻结模型、配置、特征及原始交付证据 |
+| frozen-4090-dependencies.tar.gz | 1.740 GiB | 4090 明确引用的源码、训练权重和必要特征 |
+| trained-weights.tar.gz | 77.28 MiB | 上一包中训练权重的便利子集 |
+
+三个附件共 2.125 GiB；权重小包与大包内容有重叠，不需要重复解压。Release 不占本仓库的 Git LFS 配额。可运行 `python verify_sources.py` 检查源码身份。
 
 ## 原始音频推理与复现边界
 
