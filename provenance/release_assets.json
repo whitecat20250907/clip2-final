@@ -1,0 +1,17 @@
+[
+  {
+    "name": "frozen-local-assets.tar.gz",
+    "bytes": 333639575,
+    "sha256": "647c407313873b02125acb7470722089a52c970b99e03fc7b7a066bb264a8056"
+  },
+  {
+    "name": "frozen-4090-dependencies.tar.gz",
+    "bytes": 1868577029,
+    "sha256": "a1262861c331070401a6089fe62007af199a268a583a9ca921ac767eb4748504"
+  },
+  {
+    "name": "trained-weights.tar.gz",
+    "bytes": 81031222,
+    "sha256": "99899087272386aac14a3cfd1b1cd588e917fdb18d223e69325c2fd5c5c8b274"
+  }
+]

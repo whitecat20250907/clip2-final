@@ -1,0 +1,26 @@
+[
+  {
+    "file": "home/lisiyi/icassp2data/clip2/metadata/train_metadata.json",
+    "reason": "dataset item; obtain official dataset"
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_WORD261_TORCH26/controls/15816b64c1e78664a75a360a.flac",
+    "reason": "dataset item; obtain official dataset"
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_WORD261_TORCH26/controls/15816b64c1e78664a75a360a_unproc.flac",
+    "reason": "dataset item; obtain official dataset"
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_WORD261_TORCH26/controls/4c1305298289cc31081a508c.flac",
+    "reason": "dataset item; obtain official dataset"
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_WORD261_TORCH26/controls/4c1305298289cc31081a508c_unproc.flac",
+    "reason": "dataset item; obtain official dataset"
+  },
+  {
+    "file": "home/yangjing/workplace/clip2/clip2_eval/cadenza_data/clip2/metadata/eval_metadata.json",
+    "reason": "dataset item; obtain official dataset"
+  }
+]

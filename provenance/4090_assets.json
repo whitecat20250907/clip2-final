@@ -1,0 +1,2762 @@
+[
+  {
+    "file": "home/lisiyi/ICASSP2_2026/clarity/recipes/clip2/baseline/confidence_valid.jsonl",
+    "bytes": 3470798,
+    "sha256": "c81493e779be5037e13504207edeb580514124ab9b58b8d745b07adae935265f",
+    "pin_checked": false
+  },
+  {
+    "file": "home/lisiyi/ICASSP2_2026/clarity/recipes/clip2/baseline/confidence_valid_whisper_medium/confidence.jsonl",
+    "bytes": 3624423,
+    "sha256": "e513c3a9a3c1158d9b27c76ac602446a9a9a721d02917124106f358f8578196d",
+    "pin_checked": false
+  },
+  {
+    "file": "home/lisiyi/ICASSP2_2026/clarity/recipes/clip2/baseline/confidence_valid_wlv2.jsonl",
+    "bytes": 3649443,
+    "sha256": "b84689d7246ebbde90e7b1f006a7d2aae35af5ca231f034fb728babc0121915e",
+    "pin_checked": false
+  },
+  {
+    "file": "home/lisiyi/ICASSP2_2026/embeddings/granite_speech5_470m_turboctc/valid/features.f16",
+    "bytes": 238204928,
+    "sha256": "9bbd63ac755caf9a5520d780b109b0dd482491b3e04592d9f7229c1ff03e22f1",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/ICASSP2_2026/embeddings/granite_speech5_470m_turboctc/valid/index.json",
+    "bytes": 108499,
+    "sha256": "d5447768d260b0c969289a327b8bbfed46246f33f26b0f0cb93036d806254d7c",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/ICASSP2_2026/embeddings/parakeet_tdt_0_6b_v3/valid/features.f16",
+    "bytes": 241319936,
+    "sha256": "785275a5ecbbf19644ccc7b4c253497467b8ba824c10693c7a25fba8c8425292",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/ICASSP2_2026/embeddings/parakeet_tdt_0_6b_v3/valid/index.json",
+    "bytes": 108426,
+    "sha256": "dde8f4f16fca13ab712f440e67fe687a9a6c0f333312045f33d99ad516308250",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/ICASSP2_2026/scripts/extract_granite_speech5_features.py",
+    "bytes": 9785,
+    "sha256": "01f60dd65a477f10685292159bcd90058fc00f8af180053de4ebd24badb20d6d",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/ICASSP2_2026/scripts/extract_parakeet_tdt_v3_features.py",
+    "bytes": 8934,
+    "sha256": "3af441160f6d3ae7fb4103131ac5f8e51f0fab337722b5494d4f9937f0742889",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/autodl_inference_dependency_backup_20261028_v1/mirror/root/autodl-tmp/clip2_runs/qwen3_listener_no_x_20261015/full_epoch1_v1/checkpoint_step3322/README.md",
+    "bytes": 5210,
+    "sha256": "202b729743257655c308d2afc3b5f81d9a62dda2f0dc50d21572a92667558b48",
+    "pin_checked": false
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/autodl_inference_dependency_backup_20261028_v1/mirror/root/autodl-tmp/clip2_runs/qwen3_listener_no_x_20261015/full_epoch1_v1/checkpoint_step3322/adapter_config.json",
+    "bytes": 1128,
+    "sha256": "0cae28418d8e7015681fd5860f92988c1205c7575eca18a3c3c3cb1ba5d26f6f",
+    "pin_checked": false
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/autodl_inference_dependency_backup_20261028_v1/mirror/root/autodl-tmp/clip2_runs/qwen3_listener_no_x_20261015/full_epoch1_v1/checkpoint_step3322/adapter_model.safetensors",
+    "bytes": 9597840,
+    "sha256": "a4748cb37ed726a7673f651102836bc2e37ba0fa86aded15947cdb8d4219aac8",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/autodl_inference_dependency_backup_20261028_v1/mirror/root/autodl-tmp/clip2_runs/qwen3_listener_no_x_content_oof_20261015/fold0_epoch1_v1/checkpoint_step1659/README.md",
+    "bytes": 5210,
+    "sha256": "202b729743257655c308d2afc3b5f81d9a62dda2f0dc50d21572a92667558b48",
+    "pin_checked": false
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/autodl_inference_dependency_backup_20261028_v1/mirror/root/autodl-tmp/clip2_runs/qwen3_listener_no_x_content_oof_20261015/fold0_epoch1_v1/checkpoint_step1659/adapter_config.json",
+    "bytes": 1128,
+    "sha256": "5c9ed9ef7f5f7ead81cd20ba76b3509602617d3227ca3f2c1ab81c4e8151e595",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/autodl_inference_dependency_backup_20261028_v1/mirror/root/autodl-tmp/clip2_runs/qwen3_listener_no_x_content_oof_20261015/fold0_epoch1_v1/checkpoint_step1659/adapter_model.safetensors",
+    "bytes": 9597840,
+    "sha256": "c077c712f74c19429021a6db4dfa84d03a207e7936497b95ee6d2c9e369ba072",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/autodl_inference_dependency_backup_20261028_v1/mirror/root/autodl-tmp/clip2_runs/qwen3_listener_no_x_content_oof_20261015/fold1_epoch1_v1/checkpoint_step1664/README.md",
+    "bytes": 5210,
+    "sha256": "202b729743257655c308d2afc3b5f81d9a62dda2f0dc50d21572a92667558b48",
+    "pin_checked": false
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/autodl_inference_dependency_backup_20261028_v1/mirror/root/autodl-tmp/clip2_runs/qwen3_listener_no_x_content_oof_20261015/fold1_epoch1_v1/checkpoint_step1664/adapter_config.json",
+    "bytes": 1128,
+    "sha256": "5c9ed9ef7f5f7ead81cd20ba76b3509602617d3227ca3f2c1ab81c4e8151e595",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/autodl_inference_dependency_backup_20261028_v1/mirror/root/autodl-tmp/clip2_runs/qwen3_listener_no_x_content_oof_20261015/fold1_epoch1_v1/checkpoint_step1664/adapter_model.safetensors",
+    "bytes": 9597840,
+    "sha256": "c23a6fc808496a4c7c3a5e2cb4401623f9fb4713f590190b234768e19a6e521c",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/autodl_inference_dependency_backup_20261028_v1/mirror/root/autodl-tmp/clip2_runs/qwen_rms_strict24_exclusion_20261015_v1/native_decoder_evidence_20261016_v1/decoder_task_internal_goal16_24451192_20261016_v1/actual_parent_full22380_v1.py",
+    "bytes": 19843,
+    "sha256": "2b3658fb5cdd37f257aa52085d8be1ee9bc35d9d2735bb354dc11518c1551d1b",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/autodl_inference_dependency_backup_20261028_v1/mirror/root/autodl-tmp/clip2_runs/qwen_rms_strict24_exclusion_20261015_v1/native_decoder_evidence_20261016_v1/decoder_task_internal_goal16_24451192_20261016_v1/asr_literal_target_policy_v1/native_helpers_v2.py",
+    "bytes": 7731,
+    "sha256": "f24496cd0a6c1611c5af9757687056dcbc7f5fbdd8e50968c16c5aae04bcffaa",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/autodl_inference_dependency_backup_20261028_v1/mirror/root/autodl-tmp/clip2_runs/qwen_rms_strict24_exclusion_20261015_v1/training_pair_direct_v4/inputs/initial_model.pt",
+    "bytes": 5623055,
+    "sha256": "16f734ecc2d3b413d83d24735cde18aad2b59290f294f09f2bf721d20ebebe7e",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/autodl_inference_dependency_backup_20261028_v1/mirror/root/autodl-tmp/clip2_runs/qwen_rms_strict24_exclusion_20261015_v1/training_pair_direct_v4/inputs/module_sources.json",
+    "bytes": 7166,
+    "sha256": "801c63447ac816be3cac2bb87e9125f31f30183b0ad67fd81411caedf6c134ca",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/autodl_inference_dependency_backup_20261028_v1/mirror/root/autodl-tmp/clip2_runs/qwen_rms_strict24_exclusion_20261015_v1/training_pair_direct_v4/side_research_v1/human_adapted_encoder_seed44_v1/adapted_encoder_16180/beta_final.pt",
+    "bytes": 59061,
+    "sha256": "454d03b2d565c92a42869e58b7a8a1031dc4d78a07fa3a60c0f771bca12f96e6",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/autodl_inference_dependency_backup_20261028_v1/mirror/root/autodl-tmp/clip2_runs/qwen_rms_strict24_exclusion_20261015_v1/training_pair_direct_v4/side_research_v1/human_adapted_encoder_seed44_v1/adapted_encoder_16180/normalization.json",
+    "bytes": 14978,
+    "sha256": "61a8aa340056e2d099a5b00a5be78c69d3e6b089b3db53b7e5159be1a4fce412",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/autodl_inference_dependency_backup_20261028_v1/mirror/root/autodl-tmp/clip2_runs/qwen_rms_strict24_exclusion_20261015_v1/training_pair_direct_v4/side_research_v1/human_adapted_encoder_seed44_v1/adapted_encoder_16180/stage1_final.pt",
+    "bytes": 5613083,
+    "sha256": "fbbb690704fdcd50cf495d0e3833e50ff51edae509fe138f1e2de8e6193c2e18",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/autodl_inference_dependency_backup_20261028_v1/mirror/root/autodl-tmp/clip2_runs/qwen_rms_strict24_exclusion_20261015_v1/training_pair_direct_v4/side_research_v1/human_adapted_encoder_seed45_v1/adapted_encoder_16180/beta_final.pt",
+    "bytes": 59061,
+    "sha256": "4a8eb6cd88cd823cec8d048e7fa3bbedc51e0a6cafb4fd970a3ec4554fbc694c",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/autodl_inference_dependency_backup_20261028_v1/mirror/root/autodl-tmp/clip2_runs/qwen_rms_strict24_exclusion_20261015_v1/training_pair_direct_v4/side_research_v1/human_adapted_encoder_seed45_v1/adapted_encoder_16180/normalization.json",
+    "bytes": 14978,
+    "sha256": "61a8aa340056e2d099a5b00a5be78c69d3e6b089b3db53b7e5159be1a4fce412",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/autodl_inference_dependency_backup_20261028_v1/mirror/root/autodl-tmp/clip2_runs/qwen_rms_strict24_exclusion_20261015_v1/training_pair_direct_v4/side_research_v1/human_adapted_encoder_seed45_v1/adapted_encoder_16180/stage1_final.pt",
+    "bytes": 5613083,
+    "sha256": "ae0143db5104ffc4ddf002772cf5c59d71cbaaa59ac4685ccef4f85a931c15d6",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/autodl_inference_dependency_backup_20261028_v1/mirror/root/autodl-tmp/clip2_runs/qwen_rms_strict24_exclusion_20261015_v1/training_pair_direct_v4/side_research_v1/noise_followup_20261016_v1/x9_seed44_final.pt",
+    "bytes": 98564,
+    "sha256": "51e18a38cb83d39f4b0fb0a298703784b8601f2f4ff95549cd58969a0c3115ce",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/autodl_inference_dependency_backup_20261028_v1/mirror/root/autodl-tmp/clip2_runs/qwen_rms_strict24_exclusion_20261015_v1/training_pair_direct_v4/side_research_v1/noise_followup_20261016_v1/x9_seed45_final.pt",
+    "bytes": 98564,
+    "sha256": "6032eab4ed422159514af7a162c0d4d776364c92b9dbfe100b32a0d14a2bdb18",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/autodl_inference_dependency_backup_20261028_v1/mirror/root/autodl-tmp/clip2_runs/qwen_rms_strict24_exclusion_20261015_v1/training_pair_direct_v4/strict24_head.py",
+    "bytes": 10787,
+    "sha256": "a14792b9882f52a89c8f66bcf7f1da11aa230dc848a754676b766effecf394d6",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/autodl_inference_dependency_backup_20261028_v1/qwen_asr_0_0_6_original_python_source.tar.gz",
+    "bytes": 51792,
+    "sha256": "380636df5fcee162a6ff5820d9759025fff9afdef869b969b7e5509547426a4b",
+    "pin_checked": false
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_evalai_frozen_v1/export_core.py",
+    "bytes": 4725,
+    "sha256": "3d84fc9aee771917b37f88a7ebbbe897ef5f514c3b6907e93d0cd6ea96914b2b",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_grounded_word_score_v1/fast_path.py",
+    "bytes": 1846,
+    "sha256": "6f70f2151c85f89b3e5e69abb8ac95b79eb51dfe8b745be73cf6e7684ba6f32c",
+    "pin_checked": false
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_grounded_word_transfer_v1/grounding.py",
+    "bytes": 6000,
+    "sha256": "e7f3080d217b4c4462ad2372972b52b4134ff34e6d2db5ffef8d1e771ac09586",
+    "pin_checked": false
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_grounded_word_transfer_v1/stream_inputs.py",
+    "bytes": 17244,
+    "sha256": "2faf766ef15f1726a3c65fcef0d7a1ec9da4caee66ad337488c37614f966a78c",
+    "pin_checked": false
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_grounded_word_transfer_v1/transfer_core.py",
+    "bytes": 9157,
+    "sha256": "f897aa0e6b454ad17631b2b0a2019d2ea65125f0ea5ee0cf772bc0b770c92709",
+    "pin_checked": false
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_gts_phone_density_v1/cmudict.dict",
+    "bytes": 3618488,
+    "sha256": "81917843c7f44ce2b094ac63873c2c7a4cf802040792c455ba3ca406891c3d22",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_human_word_supervision_v1/labels.py",
+    "bytes": 4945,
+    "sha256": "8df86298628615021a769b01fceb700507f4a159baacff12512848174042ab0f",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_listener_joint_seed44_valid_export_v1/results/valid_listener_bank_v1/000000.npz",
+    "bytes": 1130,
+    "sha256": "aef372fd0a8312e91f1f2337a3b3a2bc871468eb7bca236ace9f2810a476d6d0",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_listener_normalized_k8_v1/features_v4.py",
+    "bytes": 3951,
+    "sha256": "4d74d4393bfcbb7126f12be10b3f07900d6e6b5e9d346ebf9b99c7653e6a5795",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_listener_oof_preparation_v1/extract_k8.py",
+    "bytes": 16237,
+    "sha256": "c2a3385042828c9a798909d7d9b0d18a72ea8c17ebb87c58c8df60fc6bd3f536",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_listener_oof_preparation_v1/public_features.py",
+    "bytes": 4267,
+    "sha256": "0bc055dfd20da5ed06f5fa8353eaca519b06eb98d3cacf7e22c22af7de5075cc",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_listener_oof_preparation_v1/results/adapter_training_v1/full_newFIT_final.pt",
+    "bytes": 12647334,
+    "sha256": "90aa4efa6003958a3c3fe85bc251d124be8570dbfce0097cbab15f57a5d685ee",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_multitrack_word_experts_v1/results/assets_v1/protocol.json",
+    "bytes": 1246916,
+    "sha256": "d162f62d8805dad2121824a1f36507961eecf92f26a097b126093b6427457a26",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_paired_reference_v1/extract_paired_degradation.py",
+    "bytes": 6825,
+    "sha256": "cace9cd610731f4d79d016c9f86ff6d67ce5a616eaf6712a09e9e55bfab42c53",
+    "pin_checked": false
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_paired_reference_v1/train_d6e_paired.py",
+    "bytes": 43625,
+    "sha256": "8279d298371a030364a4869dedee1a46d17afaf85fa7c9b8fc754ed682e82ecd",
+    "pin_checked": false
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_phone_class_errors_v1/run_phone_errors.py",
+    "bytes": 95693,
+    "sha256": "4ee1414072703a83bdc5259708f3da939b3f19a21b67f0a4186fc8753e23256e",
+    "pin_checked": false
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_phone_class_errors_v1/valid_cache/candidate_max_overall_valid.jsonl",
+    "bytes": 152052,
+    "sha256": "4b27f151e87176bee6b90e982f59e61e30c9fb544a9928a1f983e9607697754f",
+    "pin_checked": false
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_phone_class_errors_v1/valid_cache/paired_valid.jsonl",
+    "bytes": 804642,
+    "sha256": "39e9f369b1b5a12bb0f701f6c1f1027c9a45039c95c7f50ddaa43d56d355c4bc",
+    "pin_checked": false
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_phone_class_errors_v1/valid_cache/strict_burden_demand_valid.jsonl",
+    "bytes": 480964,
+    "sha256": "e892789c5423fd8825316ec15a0f2ea2ed69077d7bd8fa35c17d2ad7cc6b87b0",
+    "pin_checked": false
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_phone_class_errors_v1/valid_cache/word_ipa_cache_valid.json",
+    "bytes": 87351,
+    "sha256": "f3073c26c348fc69e3d4d91cb2c8a6e2e288a14da0b9d5203dc7d8f580f795b1",
+    "pin_checked": false
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_phonetic_grounding_v1/probe_inputs.py",
+    "bytes": 11227,
+    "sha256": "59ad9a41749346098480bce1ede4a42d13cb9481d085ab288e81bc89fe904e46",
+    "pin_checked": false
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_pooled_candidate_export_v1/infer.py",
+    "bytes": 7534,
+    "sha256": "82e70fc671c9eadabc6eada72650b3263863521c5d75f29406f10ea16a37e84e",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_pooled_candidate_export_v1/results/export_v1/bundle/normalization.json",
+    "bytes": 6620,
+    "sha256": "3a7b87b3a34b63c1ec9d008a5e15a86ce0a423e40a49410d5e521bcc47f85039",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_pooled_seed43_valid_export_v1/word_features.py",
+    "bytes": 12692,
+    "sha256": "fd0e43455cfe26b9d0747cea1900dd4df3bbad10682f1651918421f62759ef16",
+    "pin_checked": false
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_pooled_word_interaction_v1/word_inputs.py",
+    "bytes": 15219,
+    "sha256": "884108d0b92d09b598d16314c3222f3b60b9c6e095aa8e823b8fdd3830a70b78",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/DEV25_82593_official_valid_export_20261023_side_v1/VALID_MVDR_PUBLIC_FEATURES_V1.npz",
+    "bytes": 3489554,
+    "sha256": "87f3290742a99c9bc185670ef929bf2ca633326cbd45e4cfe1b47a5a188cc02f",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/DEV25_82593_official_valid_export_20261023_side_v1/mvdr_native_core_v1.py",
+    "bytes": 2838,
+    "sha256": "11beece89dfe82a75041a858cc0598e2956d4a23dd1ab743df16aab3bc3a0d27",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/DEV25_82593_official_valid_export_20261023_side_v1/mvdr_operator_v1.py",
+    "bytes": 2794,
+    "sha256": "2e5c207e1196041018bf989f752771ec7316567f7c36f4e7857c480560814471",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/DEV25_82593_official_valid_export_20261023_side_v1/sufficiency_native_v1.py",
+    "bytes": 7309,
+    "sha256": "2684e798d8d098c870bc1775c78ad4e3da4eb52b6780841205b89f7f6678bba2",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/DEV25_82593_official_valid_export_20261023_side_v1/valid_DEV25_82593_word_gated_MVDR_seed44_45_20261023.csv",
+    "bytes": 86475,
+    "sha256": "3e663e599420842d5199a95d1e56ad3c5a1089748d1b18bed4cad4968c3c3edb",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/DEV25_82593_official_valid_export_20261023_side_v1/word_event_core_v3.py",
+    "bytes": 6239,
+    "sha256": "22a46de5a03966761b974fd7f3bf3711fec9edf333005ac3f4ac2c517ea9744f",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/DEV25_82593_official_valid_export_20261023_side_v1/word_gated_MVDR_native_v1.py",
+    "bytes": 1880,
+    "sha256": "a258325970ab88957941772555ba5b81e7d3898b3a0da74d79b5814f616b895b",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/DEV25_82593_official_valid_export_20261023_side_v1/word_gated_MVDR_operator_v1.py",
+    "bytes": 3283,
+    "sha256": "ce18c82f3aebdb3a34ec0d29aff7cd9e1af42dae8ab246413f98a2b392985a07",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/DEV25_84655_official_valid_export_20261020_v1/VALID_NEW_FEATURES_V1.npz",
+    "bytes": 1678683,
+    "sha256": "5a6a3276332ec10995a81092a14ebf44c11b9a408d43fe4cdde7d0de549116d5",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/DEV25_92103_official_valid_export_20261020_v1/VALID_FROZEN_STAGED_PREDICTIONS_V1.npz",
+    "bytes": 346479,
+    "sha256": "08f80604fd6404a343a74ec608f16b51e2f69c55128f3f9afd3083f1bd865fc8",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/DEV25_92103_official_valid_export_20261020_v1/VALID_FROZEN_TDT_FEATURES_V1.npz",
+    "bytes": 5682521,
+    "sha256": "e2bbb3dbc11a4121fc2c28fcbbc3fb80eb2319412dd391400064420260c0f165",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/DEV26_01230_official_valid_export_20261020_side_v1/VALID_GRANITE_FEATURES35_SEED44_V1.npz",
+    "bytes": 265279,
+    "sha256": "5880d68656f71aa6cc409df23455558c2630c9661cc52b8e15e83e4f14fed1cd",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/DEV26_01230_official_valid_export_20261020_side_v1/VALID_GRANITE_FEATURES35_SEED45_V1.npz",
+    "bytes": 264977,
+    "sha256": "2ed031e1a960c99931400eb0f70e319abcaa76b907793d4484f5ceb8d443f1f9",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/DEV26_01230_official_valid_export_20261020_side_v1/VALID_NATIVE48_WORD81_V1.npz",
+    "bytes": 3575461,
+    "sha256": "71b9edef38968da2a20679b9fd9a57a26f62b05b5d7c955439b941bdea872158",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/DEV26_01230_official_valid_export_20261020_side_v1/VALID_PARAKEET_FEATURES35_SEED44_V1.npz",
+    "bytes": 265243,
+    "sha256": "71f377aa58a0358bf2bd29d5bc0431321b09eec48dc6b5cd06da2000aa8d3969",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/DEV26_01230_official_valid_export_20261020_side_v1/VALID_PARAKEET_FEATURES35_SEED45_V1.npz",
+    "bytes": 264346,
+    "sha256": "13b85acb4b03aba93de687d5eddca9db5155f2976e1e6f1749bf7e0b04a6ab31",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/DEV26_01230_official_valid_export_20261020_side_v1/VALID_STEREO_FEATURES78_SEED44_V1.npz",
+    "bytes": 581514,
+    "sha256": "27175627eefd9ff1c196fd63272a54fb1dfddf5e7b38c51a564237c32c04e8fb",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/DEV26_01230_official_valid_export_20261020_side_v1/VALID_STEREO_FEATURES78_SEED45_V1.npz",
+    "bytes": 577930,
+    "sha256": "c2a12e30c9d1bf0d816e69654a3f62b3dd64949b086d39a2dcd47db0ac104a18",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/baseline_16_34531218_v1/native_word_score_core.py",
+    "bytes": 2966,
+    "sha256": "e8011fed0f26ec961c436a50322e39e6a1ee47a8054feeb6842b8aef11fbc386",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/baseline_16_34531218_v1/normalization.json",
+    "bytes": 19050,
+    "sha256": "9c126f47e5d83a845ca39898e2fb65849a59a4fe581c22ad3b72be0e726f1bc8",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/continuous_perceptual_generalization_research_20261022_v1/local_word_acoustic_dependence_micro_v1/aggregate_local_dependence_v1.py",
+    "bytes": 1807,
+    "sha256": "d06f03ab70623cc489f22ddbe0201acb5b854f9ba7a47f39d760eb8863ad45cd",
+    "pin_checked": false
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/continuous_perceptual_generalization_research_20261022_v1/local_word_acoustic_dependence_micro_v1/audit_existing_public_confirmation_sources_v1.py",
+    "bytes": 3408,
+    "sha256": "10fed17d9be77e187709b7007345dfcf8b9340a37c0bc088056bdf46f73f43cc",
+    "pin_checked": false
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/continuous_perceptual_generalization_research_20261022_v1/local_word_acoustic_dependence_micro_v1/audit_fit_public_dynamic_range_v1.py",
+    "bytes": 1678,
+    "sha256": "b8f8ae76178e51d96a2f915809b1d998bc18811958263aaeba70f3bbd509bc2e",
+    "pin_checked": false
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/continuous_perceptual_generalization_research_20261022_v1/local_word_acoustic_dependence_micro_v1/cache_audit_driver_v1.py",
+    "bytes": 580,
+    "sha256": "9578e642635c058d0458f77231c9211aaba454761c16d649a513fbac96500a2b",
+    "pin_checked": false
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/continuous_perceptual_generalization_research_20261022_v1/local_word_acoustic_dependence_micro_v1/common_v1.py",
+    "bytes": 4157,
+    "sha256": "6db28b26f7889b640671d6e3269df4eaaa3f5321d785e26a38c949ca94f12ee9",
+    "pin_checked": false
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/continuous_perceptual_generalization_research_20261022_v1/local_word_acoustic_dependence_micro_v1/dependent_readout_driver_v1.py",
+    "bytes": 1581,
+    "sha256": "be96ccac69c9fcd4e4b7d73e4cb861ab0496fe05f1063dd88b64adf63d636ece",
+    "pin_checked": false
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/continuous_perceptual_generalization_research_20261022_v1/local_word_acoustic_dependence_micro_v1/extract_local_dependence_shard_v1.py",
+    "bytes": 2426,
+    "sha256": "da265416da2c80c7faee6df8d7122c974a072d8d84ac2a68fa5bcc2f1326af17",
+    "pin_checked": false
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/continuous_perceptual_generalization_research_20261022_v1/local_word_acoustic_dependence_micro_v1/feature_driver_v1.py",
+    "bytes": 1321,
+    "sha256": "fb933818446d9f3a1e70e0381d5bcdfd28eb7d842311d7cb5b6238a3e04b956e",
+    "pin_checked": false
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/continuous_perceptual_generalization_research_20261022_v1/local_word_acoustic_dependence_micro_v1/fit_local_dependence_readouts_v1.py",
+    "bytes": 10627,
+    "sha256": "e43283402f8f7ff5e4d6cc3706ece71a51281824e7db4280dcebff98e2b14264",
+    "pin_checked": false
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/continuous_perceptual_generalization_research_20261022_v1/local_word_acoustic_dependence_micro_v1/local_dependence_asr_core_v1.py",
+    "bytes": 7656,
+    "sha256": "1cd699d91fd559f184137e56b719940ec1d7e79877e2419f69d29448f4427e45",
+    "pin_checked": false
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/continuous_perceptual_generalization_research_20261022_v1/local_word_acoustic_dependence_micro_v1/local_intervention_core_v1.py",
+    "bytes": 904,
+    "sha256": "3d06585c741b32fe816aa1586b8a7c54df62dc8057a4aa2f0f58e1e54ccca666",
+    "pin_checked": false
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/continuous_perceptual_generalization_research_20261022_v1/local_word_acoustic_dependence_micro_v1/perceptual_tail_runtime_v1.py",
+    "bytes": 3429,
+    "sha256": "db32a41063a5252c5c46eb66a2877ed06f117e023f9151d8c3970e72ad66ff79",
+    "pin_checked": false
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/continuous_perceptual_generalization_research_20261022_v1/local_word_acoustic_dependence_micro_v1/prepare_prospective_confirmation_roles_v1.py",
+    "bytes": 2769,
+    "sha256": "1aa6141900df1f7101241ddab0a037cdf425cad89547002efa450294850867a2",
+    "pin_checked": false
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/continuous_perceptual_generalization_research_20261022_v1/local_word_acoustic_dependence_micro_v1/prospective_roles_driver_v1.py",
+    "bytes": 594,
+    "sha256": "c4a4541f6812ce942d7c7e65134b635eaedb36bf509a2f86c88d7574eb71503d",
+    "pin_checked": false
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/continuous_perceptual_generalization_research_20261022_v1/local_word_acoustic_dependence_micro_v1/word_event_core_v3.py",
+    "bytes": 6239,
+    "sha256": "22a46de5a03966761b974fd7f3bf3711fec9edf333005ac3f4ac2c517ea9744f",
+    "pin_checked": false
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/dual_phone_joint_FIT13340_submission_20261019_side_v1/common_v1.py",
+    "bytes": 6312,
+    "sha256": "e2e44485f946bef54693cc8f7a3efd58ccca90571518b77ac1b0724b938b6c1e",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/dual_phone_joint_FIT13340_submission_20261019_side_v1/prefix_common_v1.py",
+    "bytes": 1481,
+    "sha256": "91644bb2e74ae111e086ce812a24537e2cb39d8e8ca743e4b4801843f05785c1",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/dual_phone_joint_FIT13340_submission_20261019_side_v1/score_math_v1.py",
+    "bytes": 1497,
+    "sha256": "36dd0b6d53dfdcbf307b602e6c9360c7f1fa82a67d30b6129fbadc36db88d063",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/dual_phone_joint_FIT13340_submission_20261019_side_v1/seed44_VALID_EVIDENCE_AND_PREDICTIONS_V1.npz",
+    "bytes": 117457002,
+    "sha256": "9f1621d5bbf345d4c28cc9c0b81162566aafdf944490dc6d9056d0a8b276d921",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/dual_phone_joint_FIT13340_submission_20261019_side_v1/seed45_VALID_EVIDENCE_AND_PREDICTIONS_V1.npz",
+    "bytes": 117082366,
+    "sha256": "fecc8a88a7b5b108f334395ac4fd5ec3cf161c3745a372ce00d4def6d4d89052",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/dual_phone_joint_FIT13340_submission_20261019_side_v1/study_common_v1.py",
+    "bytes": 7000,
+    "sha256": "4dd9c4099aa9cdf6f0cc5a0ec95c856bc487f8ef76d414ebfdf8dbcaf52b8957",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/dual_phone_shared_encoder_20261019_v1/fits/dual_reference_human_seed44/FINAL_CHECKPOINT_V1.pt",
+    "bytes": 2411026,
+    "sha256": "f0d092e8d47a963397655268b56305673a6a76a32ced90d8fa07d7b02b7fe872",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/dual_phone_shared_encoder_20261019_v1/fits/dual_reference_human_seed44/READOUT_AND_FEATURES_V1.npz",
+    "bytes": 2464231,
+    "sha256": "2758bfe2b27aa764d1cfc45483e64f38498c17e0176f42284fba0179c8c41c16",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/dual_phone_shared_encoder_20261019_v1/fits/dual_reference_human_seed45/FINAL_CHECKPOINT_V1.pt",
+    "bytes": 2411026,
+    "sha256": "1f4df4152ff554f19f5257bc18372523c46a41c3b0177be1c29f1cc2a4e2d8e5",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/dual_phone_shared_encoder_20261019_v1/fits/dual_reference_human_seed45/READOUT_AND_FEATURES_V1.npz",
+    "bytes": 2446896,
+    "sha256": "85ecef5d8633ed7f930c7f68666f2551e7800666808302b71f12417a6a4509ae",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/goal_DEV_25_70_human_lexical_confusion_20261020_v1/counterfactual_masking_sensitivity_full_v1/components_full_v1.py",
+    "bytes": 7398,
+    "sha256": "ccc85b9dbdc1509779fc1582d28ea74e16d5a0fe6226b5e0b285a7c2886d1a0f",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/goal_DEV_25_70_human_lexical_confusion_20261020_v1/cross_ASR_word_time_synchrony_v1/synchrony_worker_v2.py",
+    "bytes": 12198,
+    "sha256": "12c97b8dfda85a7b519b30f48c03bcf1876bc2dea023a5f6e079f44c3ff60770",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/goal_DEV_le25_75_fresh_evidence_20261022_v1/binaural_mask_guided_MVDR_native_information_FIT2048_held1024_v1/full_strict16180_original4059_v1/FULL_ALL20239_PRIMARY_MVDR_PUBLIC_BEFORE_TARGETS_V1.npz",
+    "bytes": 72132798,
+    "sha256": "250c754a96f4a162a4d6985cb76767cf695d56fc83e4ce08a97c4a32fff8fce3",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/goal_DEV_le25_75_fresh_evidence_20261022_v1/binaural_mask_guided_MVDR_native_information_FIT2048_held1024_v1/full_strict16180_original4059_v1/PUBLIC_ALL20239_FORMAL_COUNT920_CONTEXT_BEFORE_NEW_FITS_V1.npz",
+    "bytes": 156595010,
+    "sha256": "94cb0fe0d01ff87767d9e6cb6e33a34e8a69a27224ad0b9d58e2bcf68da7b0db",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/goal_DEV_le25_75_fresh_evidence_20261022_v1/word_conditioned_binaural_MVDR_FIT4096_held1024_v1/full_strict16180_original4059_exploratory_v1/FULL_NEW_INFO_COUNT_SEED44_V1.npz",
+    "bytes": 42460,
+    "sha256": "ec537b1aa5fde7a61c96a97f922209f09709a11ff06bf0314b357ea26e4914b9",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/goal_DEV_le25_75_fresh_evidence_20261022_v1/word_conditioned_binaural_MVDR_FIT4096_held1024_v1/full_strict16180_original4059_exploratory_v1/FULL_NEW_INFO_COUNT_SEED45_V1.npz",
+    "bytes": 42460,
+    "sha256": "cdbaef117965f7f6cf97de905a8344f2df8c2c63345e22d353055cba95c60a7f",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/goal_DEV_le25_75_fresh_evidence_20261022_v1/word_conditioned_binaural_MVDR_FIT4096_held1024_v1/full_strict16180_original4059_exploratory_v1/FULL_PUBLIC_NEW_EVIDENCE_BEFORE_TARGETS_V1.npz",
+    "bytes": 48817226,
+    "sha256": "d9f1ef354e0101042c4c33d4341c4c8f439e085a374c7c6b3cec352f3c799ecc",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/goal_DEV_under25_75_word_local_temporal_20261021_v1/native_word_temporal_current_baseline_full_v1/ALL20239_PUBLIC_WORD_FRAME_ALIGNMENT_V1.npz",
+    "bytes": 101116030,
+    "sha256": "0f732a81ab354fd22daff116ec3fae464cb43fc1df3931326dca7571830bdbe2",
+    "pin_checked": false
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/goal_DEV_under25_85_jointLink_stability_temporal_20261020_v1/band6_resume_v1/part0/band_features_v1.py",
+    "bytes": 6611,
+    "sha256": "4ea39b3e68a25642959d3ac6a941355945e93ebb70baa9916a59897bca2f7612",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/goal_DEV_under25_85_jointLink_stability_temporal_20261020_v1/joint_sameword_audio2_band_v1/joint2_band_audio2_152_FULL_SEED44_V1.npz",
+    "bytes": 23332,
+    "sha256": "17aef837259fb9c4e95b3de3b07e7b5ee3c82805647047f2db92ee54dbde1f87",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/goal_DEV_under25_85_jointLink_stability_temporal_20261020_v1/sameword_sigmoid_followup_v1/FULL_WORD_SUPPORT_NORMALIZER_V1.npz",
+    "bytes": 713,
+    "sha256": "6b6518ee26eeabad205fb79dc022bbae7dd46f6940ebf0905d66f21a4cc715ca",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/goal_DEV_under25_85_jointLink_stability_temporal_20261020_v1/sameword_sigmoid_followup_v1/observable_readout_v2.py",
+    "bytes": 11524,
+    "sha256": "2c9149cd8b5809b4d6a3e58222b3ea8052b3ea3b4e39b8b1e115c10f12af6b6a",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/goal_DEV_under25_89_perturbation_midlayer_20261020_v1/v2_import_scope_repair/perturb_extract_micro_v1.py",
+    "bytes": 9093,
+    "sha256": "cc5ce7b4ccf5e6fb9b1f597503afb8185a0b8bde217590369e4c8ebcd8f77853",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/own_fixed_snapshot_average26_10196_20261017_v1/confidence_inputs_all22380.npz",
+    "bytes": 15965809,
+    "sha256": "08f9b8276d9cd5235be698487617846077f7624f80d25ad65b0624d0257c792c",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/own_fixed_snapshot_average26_10196_20261017_v1/production_artifacts/parameter_mean__full_adam__alignment381_seed44/final_checkpoint.pt",
+    "bytes": 27353,
+    "sha256": "90df6e280e4fe39556401634ed167bd1d144a1a6aa0b70a9293903eed42aadfb",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/own_fixed_snapshot_average26_10196_20261017_v1/production_artifacts/parameter_mean__full_adam__alignment381_seed44/sealed_all22380.npz",
+    "bytes": 1111815,
+    "sha256": "8bcd293b3d80586e0b62ef1094fc200b7097c73f7223516414ed8bacb94fbaf3",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/own_fixed_snapshot_average26_10196_20261017_v1/production_artifacts/parameter_mean__full_adam__alignment381_seed45/final_checkpoint.pt",
+    "bytes": 27353,
+    "sha256": "517a4597e99e33e23c7f67211425f184d84a7387fbc995f24d44d163f3f4e1af",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/own_fixed_snapshot_average26_10196_20261017_v1/production_artifacts/parameter_mean__full_adam__alignment381_seed45/sealed_all22380.npz",
+    "bytes": 1111864,
+    "sha256": "fb7e926c328a8970a8c011f90a1d41c6f007266a06843b8e1c9ba5d4c46f17f7",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/posterior45_full_context_20261017_v1/TRAIN_CONTEXT326_NORMALIZATION_V1.json",
+    "bytes": 17160,
+    "sha256": "3d2bfdb4912702c5229465464eeba61de615f89f1da5c111cb021e836e0f6197",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/qwen_audio_runtime_v1/audio_load_reference100_v1.py",
+    "bytes": 14574,
+    "sha256": "5b741e548d3e7c8a6b7b498f161f210d96150e40c9996c8820eec570bc7620a0",
+    "pin_checked": false
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/qwen_audio_runtime_v1/audio_only.py",
+    "bytes": 18953,
+    "sha256": "232d5824ec25353855d9914e17590ab9f38ddd7fd8e4320e7c4ff38199170f9b",
+    "pin_checked": false
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/qwen_audio_runtime_v1/autodl_frozen_export_consumer_v1.py",
+    "bytes": 8194,
+    "sha256": "fe921d32f72d7227f03ce721e8637e628c5b99fc87bad5bb5e886652049b58c3",
+    "pin_checked": false
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/qwen_audio_runtime_v1/autodl_frozen_export_consumer_v2.py",
+    "bytes": 8194,
+    "sha256": "cee29cccd9fbe497c0849112edac6bd5ecd6b46c579e0f328b943a0a0da8687e",
+    "pin_checked": false
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/qwen_audio_runtime_v1/check_frontend64_v1.py",
+    "bytes": 3573,
+    "sha256": "46644cb226ef7452b322991b64cf0e35db713fd68170a74c19a2061b8f11a978",
+    "pin_checked": false
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/qwen_audio_runtime_v1/check_scoring_port_v1.py",
+    "bytes": 4827,
+    "sha256": "5d3b47160eecdc5ca918d6da54fcc842f92f294ae0130f9b158df98afd89c87a",
+    "pin_checked": false
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/qwen_audio_runtime_v1/check_scoring_port_v2.py",
+    "bytes": 5022,
+    "sha256": "1d2af70a00ac9e2c5ba499a7750172659220a178ca93ace7e6de56432bd05aca",
+    "pin_checked": false
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/qwen_audio_runtime_v1/check_scoring_port_v3.py",
+    "bytes": 5997,
+    "sha256": "0ab46b5369faab98fe7fffbd258994cd7204074809ea5444161f1241beb2707c",
+    "pin_checked": false
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/qwen_audio_runtime_v1/check_structure_v1.py",
+    "bytes": 2717,
+    "sha256": "8fcfeede724b7976486f5ad1093954d932b96a9a04f488289bdaf9dc43094d65",
+    "pin_checked": false
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/qwen_audio_runtime_v1/frozen_VALID2117_v1.py",
+    "bytes": 14000,
+    "sha256": "158bca89e2fd5968a58cafdf3913619e2e7d044cb5adf204f7cc636e8c04daf3",
+    "pin_checked": false
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/qwen_audio_runtime_v1/frozen_score64_torch291_v1.py",
+    "bytes": 6901,
+    "sha256": "90afe17411e440935651f1f2d6d14597b731d0ca2a09ab24efc7aa11f15d223a",
+    "pin_checked": false
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/qwen_audio_runtime_v1/frozen_score64_torch291_v2.py",
+    "bytes": 6901,
+    "sha256": "88e660792ca90fdea0ec205989369b6d98e48c6cb175aed88be01088a14844ed",
+    "pin_checked": false
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/qwen_audio_runtime_v1/numeric_audio16_torch27_v1.py",
+    "bytes": 10362,
+    "sha256": "f4819431c9b59e2b911a650a292ea754e836f044167c4619e29ab3dbc4c2c017",
+    "pin_checked": false
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/qwen_audio_runtime_v1/numeric_audio16_torch291_v1.py",
+    "bytes": 10720,
+    "sha256": "66153a11d2924fdd3c4cba4175e90de0d30ea98755e9fd2fac2638afb29d2b15",
+    "pin_checked": false
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/qwen_audio_runtime_v1/numeric_audio16_torch291_v2.py",
+    "bytes": 10736,
+    "sha256": "b2c70df8ee03417f7f4f70843811c3e3371113746b9e99e5c9ed4fdd0a404048",
+    "pin_checked": false
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/qwen_audio_runtime_v1/numeric_audio16_v1.py",
+    "bytes": 10391,
+    "sha256": "827b3e7b7c5d49eafa5769ce227fd9ceb7daed4bc731207922638fe6e5adeaaf",
+    "pin_checked": false
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/qwen_audio_runtime_v1/numeric_audio64_torch291_v1.py",
+    "bytes": 11243,
+    "sha256": "47c9c5b7f17be8605060f2d9f24317af80db048b2e8804a712fca81c5e84835f",
+    "pin_checked": false
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/qwen_audio_runtime_v1/numeric_audio64_torch291_v2.py",
+    "bytes": 11259,
+    "sha256": "396088d9efc32bbbe0ee29f1b24affa5a4f796f944c1d37602411382d3803588",
+    "pin_checked": false
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/qwen_audio_runtime_v1/numeric_fullchain64_v1.py",
+    "bytes": 15953,
+    "sha256": "f5f26441e93a25fd98bf6129156b4b7c29da6ba09a408a57656771559fb2701d",
+    "pin_checked": false
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/qwen_audio_runtime_v1/own_resident_executor_native6GiB_v1.py",
+    "bytes": 7617,
+    "sha256": "a5d0266036e904b9dd956c9601643320e84d116030a352475cc1e6dc33046525",
+    "pin_checked": false
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/qwen_audio_runtime_v1/own_resident_executor_v1.py",
+    "bytes": 5758,
+    "sha256": "86eb734f9640c29d2ce32dd5c9eccc5ddd641e7684e5b95467011c0c6eb4277d",
+    "pin_checked": false
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/qwen_audio_runtime_v1/own_resident_executor_v2.py",
+    "bytes": 6380,
+    "sha256": "26b907ffeecfe16cc3a261b083207909068bb06d595c180a3c37317c65ae72d2",
+    "pin_checked": false
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/qwen_audio_runtime_v1/own_resident_executor_v3.py",
+    "bytes": 7263,
+    "sha256": "9326dcbccc28f53db899693029dec4c2ef4b2662f1046985ce6174b14bed0aa7",
+    "pin_checked": false
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/qwen_audio_runtime_v1/own_resident_executor_v4.py",
+    "bytes": 7469,
+    "sha256": "dc227fbdf3691d9526c602e683eaecf3d7d9a41bb5dbba7d1ea69ca9c4c2d9a3",
+    "pin_checked": false
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/qwen_audio_runtime_v1/real_audio64_worker_v1.py",
+    "bytes": 12843,
+    "sha256": "cd79b431fe0b419d3f17f5480a973ab97c6cfef3df58033c9e71e68fc7e759e6",
+    "pin_checked": false
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/qwen_audio_runtime_v1/real_audio64_worker_v2.py",
+    "bytes": 12903,
+    "sha256": "4a5cb01f6dfd2516644ca6bc3284748a5a2ea1279e3afc6939e52570625aa145",
+    "pin_checked": false
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/qwen_audio_runtime_v1/real_audio64_worker_v3.py",
+    "bytes": 14479,
+    "sha256": "45ff72107304f16d9c2a980b5792e748fcf5affcb296df07ee70d6b81d375d61",
+    "pin_checked": false
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/qwen_audio_runtime_v1/real_audio64_worker_v3_before_public_replay.py",
+    "bytes": 13098,
+    "sha256": "b935aba75c619bc3c29379d6e1f9ba364a7bfa0104ea8d5da3b567f6f43a844a",
+    "pin_checked": false
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/qwen_audio_runtime_v1/real_audio64_worker_v4.py",
+    "bytes": 15046,
+    "sha256": "f3742d25e8797bd7cb01a9ecffc37da7b92c4718f68eb99685f276d2948ce907",
+    "pin_checked": false
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/qwen_audio_runtime_v1/real_audio64_worker_v5.py",
+    "bytes": 15046,
+    "sha256": "5893c5f7662ba3f7e16e39be3f491aebc24e59fb2e97f0d172aceac412d0af76",
+    "pin_checked": false
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/qwen_audio_runtime_v1/real_audio64_worker_v6.py",
+    "bytes": 15941,
+    "sha256": "18bb44929347597fd3c62abe2d68d42e913a7a4a5dd20aaa1875a21e2740a50c",
+    "pin_checked": false
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/qwen_audio_runtime_v1/reference/configuration_qwen3_asr.py",
+    "bytes": 20164,
+    "sha256": "acf6c3f1cb3dc1ea0df621a11f7df6ccca109be73b6bf51508b5052942f5bec1",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/qwen_audio_runtime_v1/reference/modeling_qwen3_asr.py",
+    "bytes": 57850,
+    "sha256": "2fb5d98da1933748f5117ee05ce4e7150c9ead8154fb8e25f7af3968b853adc7",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/qwen_audio_runtime_v1/static2117_independent_v1.py",
+    "bytes": 3405,
+    "sha256": "cf01cc74a3ebd6103c6d60f5a90f9209e968cffe4847a0a7a1d1c7bd514dcd2e",
+    "pin_checked": false
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/qwen_audio_runtime_v1/strict24_native_keeper_v1.py",
+    "bytes": 3920,
+    "sha256": "65e50aeffc04aa8f276711c158e1d2d4bf413343cc547cd7b8b2a8031b341598",
+    "pin_checked": false
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/qwen_audio_runtime_v1/torch291_RAM_keeper_v1.py",
+    "bytes": 4151,
+    "sha256": "85b92271b749793dacf92170550270803d285ff2384350a049e8037a61eb63d4",
+    "pin_checked": false
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/qwen_audio_runtime_v1/torch291_capsule_v1.py",
+    "bytes": 10579,
+    "sha256": "d553e9e7bda1594c6360a0856227814e2cc465e5fa50a3c1324d5daa14a05c1a",
+    "pin_checked": false
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/qwen_audio_runtime_v1/torch291_capsule_v2.py",
+    "bytes": 11255,
+    "sha256": "7804e183108ea861c2f49b4a1aeb031949ddd58b76e90bf4a915bf7bdb08f9a1",
+    "pin_checked": false
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/qwen_audio_runtime_v1/torch291_capsule_v3.py",
+    "bytes": 11643,
+    "sha256": "54f3c050792f1dc40ad629eb6a385d250e2f591157e398dbdc905e4b30273bb1",
+    "pin_checked": false
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/qwen_audio_runtime_v1/torch291_capsule_v4.py",
+    "bytes": 12206,
+    "sha256": "be06561a7dfecb6cf7bf1f997dc0e912cc8f14dbb0542796d383e8612729ce66",
+    "pin_checked": false
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/qwen_audio_runtime_v1/torch291_resident_v1.py",
+    "bytes": 8185,
+    "sha256": "e8d0cc1c6d919d19fd37aa66b74db96ebbaa1be51b391626436f318e293f7fa8",
+    "pin_checked": false
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/qwen_audio_runtime_v1/valid_candidate_v1.py",
+    "bytes": 6959,
+    "sha256": "b1ab10f565583d0da3c7cc9e928aae44106bbf3ae60dc4bb39f470b8f02eec20",
+    "pin_checked": false
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/qwen_audio_runtime_v1/valid_static_gate_v1.py",
+    "bytes": 2905,
+    "sha256": "8912e37892f5aa2b1e4d823fb260f7a53c5f8e4d73b226dbe41eabc59ef21d43",
+    "pin_checked": false
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/qwen_audio_runtime_v1/valid_static_gate_v2.py",
+    "bytes": 5958,
+    "sha256": "abbeddd213328aace27b345bca37b2d3ee40f417c55f8da1a8e01aeb31966c50",
+    "pin_checked": false
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/qwen_audio_runtime_v1/valid_static_gate_v3.py",
+    "bytes": 6679,
+    "sha256": "32977cede4cd126214ed6d86593339b3349497d1b3a04d73e877677b09ae824b",
+    "pin_checked": false
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/qwen_audio_runtime_v1/valid_static_inputs_v1.py",
+    "bytes": 5889,
+    "sha256": "109d202ad73d373e3c6a1201615e6c5c3ad651105fa36f8e991f37950cc30def",
+    "pin_checked": false
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/qwen_audio_runtime_v1/valid_static_inputs_v2.py",
+    "bytes": 6676,
+    "sha256": "48b881d0140e828b11d5b1b7f08af9734c9d84983a20b778a1e7f3917bd651f0",
+    "pin_checked": false
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/qwen_audio_runtime_v1/waveform16_comparison_v1.py",
+    "bytes": 2558,
+    "sha256": "e4d5caa78f9583ac31b3523473d2c75c0746544cf269d0a842c9cb9b44dc3875",
+    "pin_checked": false
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/qwen_audio_runtime_v1/waveform16_reference_v1.py",
+    "bytes": 2232,
+    "sha256": "5232b5255c46db7d0812b65655f7940c1c62f3cdd0b692685ec0ac66136e498d",
+    "pin_checked": false
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/qwen_audio_runtime_v1/whisper_frontend_4_57_6.py",
+    "bytes": 16816,
+    "sha256": "280b188bfe2e825a32e102193dffa3fb7caeb5a93ff37b5098e5c6733c4d3227",
+    "pin_checked": false
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/qwen_free_decode_word_evidence_20261017_v1/TRAIN_NEW9_NORMALIZATION_V1.json",
+    "bytes": 1039,
+    "sha256": "cb511b637388c44ef2fa0f699930510257854dd78d5707017756772148721572",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/qwen_free_decode_word_evidence_20261017_v1/alignment_reference_v1.py",
+    "bytes": 10230,
+    "sha256": "6804c983f7daaf63a3ad16b2d84f162151d08390498df6c0d7c106ed616ef500",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/qwen_free_decode_word_evidence_20261017_v1/features_v1.py",
+    "bytes": 1822,
+    "sha256": "8951981de481859baec3d722ada01fa7ab3f41447977115aa7ec90e8a16f192f",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/qwen_free_decode_word_evidence_20261017_v1/generated_DEV_VALID6176.jsonl",
+    "bytes": 561004,
+    "sha256": "b467a240cc0b0038a2d35878e97f65e5729a830789f358903cfa1141242f85b7",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/qwen_free_decode_word_evidence_20261017_v1/prepare_public_v1.py",
+    "bytes": 6877,
+    "sha256": "e4eb8d8d2b5a0784062556588b4a13a38a64c26f7fe4d5448c10aa8adbe84109",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/qwen_free_decode_word_evidence_20261017_v1/produce_asr_v1.py",
+    "bytes": 4764,
+    "sha256": "148cff390312e4c0efa0a3a892fe9644ebd1e6dfab282438f9ed5a3b690f4d14",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/qwen_free_decode_word_evidence_20261017_v1/public_reference_records.json",
+    "bytes": 3953780,
+    "sha256": "f5fd8f80e4735bc1233695d9a6b9f617592d3e61c5002033072965d7fab16913",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/qwen_hypothesis_prefix_confidence_20261017_v1/confidence_inputs_all22380.npz",
+    "bytes": 15965809,
+    "sha256": "08f9b8276d9cd5235be698487617846077f7624f80d25ad65b0624d0257c792c",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/strict24_native_decoder_evidence_v1/full_posterior_word_residual_goal16_345312_v1/normalization.json",
+    "bytes": 2962,
+    "sha256": "b0d115ca03a142bd62facd93df24466a3acf961d65190588d4ea6e3b23a74bd6",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/strict24_native_decoder_evidence_v1/full_posterior_word_residual_goal16_345312_v1/recovery_v1/produce.py",
+    "bytes": 17950,
+    "sha256": "0808c2378fb8931358aa7f2bdbc3a520df54e73eac6a8483c1f4a8c3c93a5dac",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/under26_cached_ASR_dualphone_basis_screen_20261020_v1_v2_raw_source_hash/basis_worker_v1.py",
+    "bytes": 12127,
+    "sha256": "9a4c7b6a4883a16f53edb0f1bf92fdcb13bae6030458ea332329b0e18d06debf",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/under26_cached_ASR_dualphone_basis_screen_20261020_v1_v2_raw_source_hash/selected_threeway_mean_original4059_two_seed_v1/BASIS_FULL_GRANITE_FEATURES35_SEED44_V1.npz",
+    "bytes": 2517329,
+    "sha256": "8d095f1b67e66c703a845d4db80ea4bceba09e58eed2e1dfbc7693832281b07d",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/under26_cached_ASR_dualphone_basis_screen_20261020_v1_v2_raw_source_hash/selected_threeway_mean_original4059_two_seed_v1/BASIS_FULL_GRANITE_FEATURES35_SEED45_V1.npz",
+    "bytes": 2516215,
+    "sha256": "ec5a9591bd46dc52eaabd74b92b13677f498cf338c480cbf21070dd804aefa64",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/under26_cached_ASR_dualphone_basis_screen_20261020_v1_v2_raw_source_hash/selected_threeway_mean_original4059_two_seed_v1/BASIS_FULL_GRANITE_HEADS_SEED44_V1.pt",
+    "bytes": 3678470,
+    "sha256": "a6c7da2c7c39b930e653b9047fb06883349903570d7b63155a7f72024f67ec24",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/under26_cached_ASR_dualphone_basis_screen_20261020_v1_v2_raw_source_hash/selected_threeway_mean_original4059_two_seed_v1/BASIS_FULL_GRANITE_HEADS_SEED45_V1.pt",
+    "bytes": 3678470,
+    "sha256": "f50479085c930fce64a5f772d4bb555df8d5abe0c5d1d76539626d379c86a512",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/under26_cached_ASR_dualphone_basis_screen_20261020_v1_v2_raw_source_hash/selected_threeway_mean_original4059_two_seed_v1/BASIS_FULL_PARAKEET_FEATURES35_SEED44_V1.npz",
+    "bytes": 2514370,
+    "sha256": "0cfb7cc039ea6d9a614e25eac4369d6b637cda7bb777b686f8183c825e029949",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/under26_cached_ASR_dualphone_basis_screen_20261020_v1_v2_raw_source_hash/selected_threeway_mean_original4059_two_seed_v1/BASIS_FULL_PARAKEET_FEATURES35_SEED45_V1.npz",
+    "bytes": 2503828,
+    "sha256": "24d8bda0a9d88b56c711ada3040be4e01dbf1fbfad986a90924e41f0a74e031a",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/under26_cached_ASR_dualphone_basis_screen_20261020_v1_v2_raw_source_hash/selected_threeway_mean_original4059_two_seed_v1/BASIS_FULL_PARAKEET_HEADS_SEED44_V1.pt",
+    "bytes": 3678470,
+    "sha256": "1f4d91b3d49941d711f94d4a4633f1b5832280b279244781f0796ebe7529da1d",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/under26_cached_ASR_dualphone_basis_screen_20261020_v1_v2_raw_source_hash/selected_threeway_mean_original4059_two_seed_v1/BASIS_FULL_PARAKEET_HEADS_SEED45_V1.pt",
+    "bytes": 3678470,
+    "sha256": "1292e1d79ef2f475423a151b8889d0cb9cc4898d18e6c604b231e32facf499d1",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/under26_cached_ASR_dualphone_basis_screen_20261020_v1_v2_raw_source_hash/selected_threeway_mean_original4059_two_seed_v1/BASIS_FULL_granite35_READOUT_SEED44_V1.npz",
+    "bytes": 1676,
+    "sha256": "b5b0c1183ca573de01b237b09f5387290b7997fc00757f39cc05b7c8e409f3bb",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/under26_cached_ASR_dualphone_basis_screen_20261020_v1_v2_raw_source_hash/selected_threeway_mean_original4059_two_seed_v1/BASIS_FULL_granite35_READOUT_SEED45_V1.npz",
+    "bytes": 1679,
+    "sha256": "77f1e2c0e2f1a186ec7d507f9040fb0e404e37ada0737c55aadac56f3a30ed91",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/under26_cached_ASR_dualphone_basis_screen_20261020_v1_v2_raw_source_hash/selected_threeway_mean_original4059_two_seed_v1/BASIS_FULL_parakeet35_READOUT_SEED44_V1.npz",
+    "bytes": 1683,
+    "sha256": "50726354e24e606a8df640d20237be4da101069097041390ffe470f3ea2490e3",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/under26_cached_ASR_dualphone_basis_screen_20261020_v1_v2_raw_source_hash/selected_threeway_mean_original4059_two_seed_v1/BASIS_FULL_parakeet35_READOUT_SEED45_V1.npz",
+    "bytes": 1683,
+    "sha256": "f4dfd7beda1ea1fae07eb954ae9f6e0ecb7fa68833a9ab3654eae80e202b839b",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/under26_cached_ASR_dualphone_basis_screen_20261020_v1_v2_raw_source_hash/selected_threeway_mean_original4059_two_seed_v1/BASIS_FULL_qwen39_READOUT_SEED44_V1.npz",
+    "bytes": 1816,
+    "sha256": "b69a4aa8361d677291c7e41a01612bd4d79c62d827c34b4c4ad5f77b5305be7b",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/under26_cached_ASR_dualphone_basis_screen_20261020_v1_v2_raw_source_hash/selected_threeway_mean_original4059_two_seed_v1/BASIS_FULL_qwen39_READOUT_SEED45_V1.npz",
+    "bytes": 1814,
+    "sha256": "4618a8ebe7d6c1279002704abed644d27c9a346b98f984e3ab8aea3db65fb81e",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/under26_granite_native_vocabulary48_fastscreen_20261020_v1/selected_original4059_two_qwen_seed_v1/VOCAB_FULL_NATIVE48_ALL20239_FEATURES_V1.npz",
+    "bytes": 5021901,
+    "sha256": "c94f0b22f13432d2fdf01905c24de38a5f6aa022ff046ef95da76a1ec83a9d3c",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/under26_granite_native_vocabulary48_fastscreen_20261020_v1/selected_original4059_two_qwen_seed_v1/VOCAB_FULL_PLAN_V1.json",
+    "bytes": 8893,
+    "sha256": "4206ad1e87890bd09db95ee81a19a33130b1414e1985bfbb50dc1e9a307a8472",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/under26_granite_native_vocabulary48_fastscreen_20261020_v1/selected_original4059_two_qwen_seed_v1/VOCAB_FULL_concat87_READOUT_SEED44_V1.npz",
+    "bytes": 3211,
+    "sha256": "2030f0327df5b3713cac621e14a2f28a91bae26cdab94336fd8c14396e6d08f1",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/under26_granite_native_vocabulary48_fastscreen_20261020_v1/selected_original4059_two_qwen_seed_v1/VOCAB_FULL_concat87_READOUT_SEED45_V1.npz",
+    "bytes": 3211,
+    "sha256": "8be1747b5f41e47d0d9450fc4f38e0dd25a737aa20f81d327df9709cf70e408e",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/under26_granite_native_vocabulary48_fastscreen_20261020_v1/vocab_worker_v1.py",
+    "bytes": 9637,
+    "sha256": "e1b3d678888621a26c22124f0c75ae24418c68a2e8c0a412bffd529eaf16da25",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/under26_human_TDT_aligned_fullposterior_word32_micro_20261020_v1/aligned_posterior_core_v1.py",
+    "bytes": 3745,
+    "sha256": "e322ffb756f22648cf4ece1c16a8fec7df26745b5a331cd7500e036747c632a2",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/under26_human_TDT_aligned_fullposterior_word32_micro_20261020_v1/aligned_tdt_driver_v1.py",
+    "bytes": 736,
+    "sha256": "5e0c85d240b043bc93716f3e507e8d6d5d1f68fe86bb457b557ba5060bb1269e",
+    "pin_checked": false
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/under26_human_TDT_aligned_fullposterior_word32_micro_20261020_v1/aligned_tdt_extract_v1.py",
+    "bytes": 4386,
+    "sha256": "ae262ab7314eeda1c6ce4c00c8319be16a94352a31d96f5210e1a98b93c2f2f3",
+    "pin_checked": false
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/under26_human_TDT_aligned_fullposterior_word32_micro_20261020_v1/aligned_tdt_readout_v1.py",
+    "bytes": 7669,
+    "sha256": "c1486ada44c9b41f0ddbb08f94255785835badb6292996c72e95fd8b8747c7c3",
+    "pin_checked": false
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/under26_human_TDT_aligned_fullposterior_word32_micro_20261020_v1/selected_fresh200_half_original4059_two_score_seed_v1_v2_feature_receipt_filename/ALIGNED_TDT_FULL_ALL20239_LOCAL32_V1.npz",
+    "bytes": 25315979,
+    "sha256": "185ce67ffbc1c57e1a6556471faba5b8b551b4957037d1da71ee7e44a0d7451c",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/under26_human_TDT_aligned_fullposterior_word32_micro_20261020_v1/selected_fresh200_half_original4059_two_score_seed_v1_v2_feature_receipt_filename/ALIGNED_TDT_FULL_EXTRA32_TRAIN_NORM_V1.npz",
+    "bytes": 906,
+    "sha256": "3b8299a6b016127c95ecf2ba71a944a3b71f5391f5b01c0c877ca54fe7b369e4",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/under26_human_TDT_aligned_fullposterior_word32_micro_20261020_v1/selected_fresh200_half_original4059_two_score_seed_v1_v2_feature_receipt_filename/ALIGNED_TDT_FULL_MODEL_SEED44_V1.pt",
+    "bytes": 83878,
+    "sha256": "1feaeb03663cc7c9a590b65e9f67cb8be0cb79dbdcf36551eaafb9ce81c883fc",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/under26_human_TDT_aligned_fullposterior_word32_micro_20261020_v1/selected_fresh200_half_original4059_two_score_seed_v1_v2_feature_receipt_filename/ALIGNED_TDT_FULL_MODEL_SEED45_V1.pt",
+    "bytes": 83878,
+    "sha256": "8098ecdcbe0ed11d2f84ec618626e9119a702c1bbbe5f8de8a32bdaca68b6385",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/under26_multi_ASR_readout_oof_gating_screen_20261020_v1/positive_candidates_original4059_two_seed_v1/GATE_FULL_FEATURE_NORM_SEED44_V1.npz",
+    "bytes": 2374,
+    "sha256": "8458f75c151adf9b31767d21a16bfc418450fd71f2675759913ee3c3ead3af56",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/under26_multi_ASR_readout_oof_gating_screen_20261020_v1/positive_candidates_original4059_two_seed_v1/GATE_FULL_FEATURE_NORM_SEED45_V1.npz",
+    "bytes": 2381,
+    "sha256": "7a28ecc930c928f1617f81a3a4f22d3ae13ffdbabfba50d8b0b8611bc150455c",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/under26_multi_ASR_readout_oof_gating_screen_20261020_v1/positive_candidates_original4059_two_seed_v1/GATE_FULL_residual_MLP_MODEL_SEED44_V1.pt",
+    "bytes": 26534,
+    "sha256": "0b74167000ef04ac4b3d42a2945f9540f24646a06701fa5d0da0f16105a9f63e",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/under26_multi_ASR_readout_oof_gating_screen_20261020_v1/positive_candidates_original4059_two_seed_v1/GATE_FULL_residual_MLP_MODEL_SEED45_V1.pt",
+    "bytes": 26534,
+    "sha256": "33d433f83312cbd031e75919d197d0e337ac3e3a8e544675437d9b8e593b7612",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/under26_native215_robust_and_wordcount_weighted_ridge_fastscreen_20261020_v1/selected_inverse_wordcount_half_original4059_two_Q39_seed_v1/ROBUST_FULL_INVERSE_NWORDS_RIDGE215_SEED44_V1.npz",
+    "bytes": 7103,
+    "sha256": "66682f91a313612419c7ea2b47b94f7c1f2b4ee6397915bd5061c16dfa645561",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/under26_native215_robust_and_wordcount_weighted_ridge_fastscreen_20261020_v1/selected_inverse_wordcount_half_original4059_two_Q39_seed_v1/ROBUST_FULL_INVERSE_NWORDS_RIDGE215_SEED45_V1.npz",
+    "bytes": 7099,
+    "sha256": "771f24a5f156d268bbc89a0869a8d4c132fd2aaaa5b7fce2ac7bf871728b704e",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/under26_native215_sigmoid_link_GLM_count_fastscreen_20261020_v1/selected_fractionBCE_a10_half_original4059_two_Q39_seed_v1/GLM_FULL_FRACTIONBCE_A10_SIGMOID215_SEED44_V1.npz",
+    "bytes": 7073,
+    "sha256": "e026fce2be532fb7b596c79fd73b8aa813ffbdc5c925901ce658b43d6369ef3b",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/under26_native215_sigmoid_link_GLM_count_fastscreen_20261020_v1/selected_fractionBCE_a10_half_original4059_two_Q39_seed_v1/GLM_FULL_FRACTIONBCE_A10_SIGMOID215_SEED45_V1.npz",
+    "bytes": 7066,
+    "sha256": "7cbc9fbae2bf1f87771928ccb72facd45714ee55deeedfcf8bd37ececcd53a19",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/under26_native_BPE_dualhead_lowrank_micro_20261020_v1/ADAPT_DUAL_NATIVE_BPE_HEADS_SEED44_V1.pt",
+    "bytes": 3347622,
+    "sha256": "4c3456658c3b561b9b8e5490866c6381417e0529ba606a77e880b130b3ea300c",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/under26_native_BPE_dualhead_lowrank_micro_20261020_v1/adapt_worker_v1.py",
+    "bytes": 12547,
+    "sha256": "4c71fd21d255963e77874a84243cd3186891be132129ab093aee0aacc3eb3f7a",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/under26_native_BPE_greedy_word_identity_fastscreen_20261020_v1/selected_three_text_original4059_two_scoring_seed_v1/WORD_FULL_LOCAL_NORM_V1.npz",
+    "bytes": 905,
+    "sha256": "29b532fc348885c6bb0188ef2c01ed82af1a31554c9f6c3af48f5b006c9696ed",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/under26_native_BPE_greedy_word_identity_fastscreen_20261020_v1/selected_three_text_original4059_two_scoring_seed_v1/WORD_FULL_MODEL_SEED44_V1.pt",
+    "bytes": 51238,
+    "sha256": "ac79023f1a05f77185e28f269de5c4a9204eca62a98923975b8e9a9b0c34b0c5",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/under26_native_BPE_greedy_word_identity_fastscreen_20261020_v1/selected_three_text_original4059_two_scoring_seed_v1/WORD_FULL_MODEL_SEED45_V1.pt",
+    "bytes": 51238,
+    "sha256": "b2723fadeed529475422a0cd797acaef338134e1c55e53546eeb2129f0e73c06",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/under26_native_BPE_greedy_word_identity_fastscreen_20261020_v1/word_text_worker_v1.py",
+    "bytes": 8908,
+    "sha256": "14b3c058b0170bc9c3b99d9b5f95941ed998cf24eeec8d235f12f93c3c34ca98",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/under26_native_BPE_soft_word_posterior_fastscreen_20261020_v1/soft_worker_v1.py",
+    "bytes": 13215,
+    "sha256": "79032f0424ded50979b60b3535c57aa78db840d5ea243b285cc7d8db5f7cac72",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/under26_native_Qwen_physical_stereo_pilot_20261019_v1/selected_mean78_fullstrict_two_seed_v1_v2_namespace/STEREO_FULL_FEATURES78_SEED44_V1.npz",
+    "bytes": 5367382,
+    "sha256": "9da6458f507d6b7f3b4b840fd49453fa57919f472d9b79e226f9dd028a391546",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/under26_native_Qwen_physical_stereo_pilot_20261019_v1/selected_mean78_fullstrict_two_seed_v1_v2_namespace/STEREO_FULL_FEATURES78_SEED45_V1.npz",
+    "bytes": 5325249,
+    "sha256": "4ba00aad9196c6c82730e7703c50185624a0c18f0c3f7e8a34b715c9a60aadff",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/under26_native_Qwen_physical_stereo_pilot_20261019_v1/selected_mean78_fullstrict_two_seed_v1_v2_namespace/STEREO_FULL_READOUT_SEED44_V1.npz",
+    "bytes": 2627,
+    "sha256": "d9e66661560ff99956961fb64b64a56620ac7737218a39706ebd76daf1642eb0",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/under26_native_Qwen_physical_stereo_pilot_20261019_v1/selected_mean78_fullstrict_two_seed_v1_v2_namespace/STEREO_FULL_READOUT_SEED45_V1.npz",
+    "bytes": 2628,
+    "sha256": "fa2da02aca73130f134232919b6e19ec6103f4acfa8b3df81363b75139830bee",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/under26_native_TDT_encoder_decoder_projection_LoRA_20261020_v1/PROJ_TDT_ADAPTER_STEP2520_V1.pt",
+    "bytes": 287974,
+    "sha256": "1a5fd07cbc75ee7ae44871470efa3d0af6d2da3e5b17af90647952ec2aacc8b4",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/under26_native_TDT_encoder_decoder_projection_LoRA_20261020_v1/projection_core_v1.py",
+    "bytes": 2297,
+    "sha256": "c3f53342d8e0c97613fae4536e780db2a18a36849ea8333c38cb9199a40b6cc5",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/under26_native_TDT_encoder_decoder_projection_LoRA_20261020_v1/projection_data_v1.py",
+    "bytes": 4455,
+    "sha256": "49f6a64b2daf3635e2939ca303b465701f627ff76ea3dc6e5dc58e98a26dc5a0",
+    "pin_checked": false
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/under26_native_TDT_encoder_decoder_projection_LoRA_20261020_v1/projection_driver_v1.py",
+    "bytes": 715,
+    "sha256": "7254721c85cfc66b578a7f067879cc3e4e91e43df1487a198c1e86aa3d8281d9",
+    "pin_checked": false
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/under26_native_TDT_encoder_decoder_projection_LoRA_20261020_v1/projection_score_v1.py",
+    "bytes": 5603,
+    "sha256": "b7e54b223e2af5b72b2484d7495f800feb0431a6104defa510bcd833b541e42a",
+    "pin_checked": false
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/under26_native_TDT_encoder_decoder_projection_LoRA_20261020_v1/projection_train_v1.py",
+    "bytes": 6293,
+    "sha256": "ab2ced3a28981c75e5531c8953e4a971f56b59b05166eb6e59ffbc4c2bdaff0b",
+    "pin_checked": false
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/under26_native_greedy_homophone_word_fastscreen_20261020_v1/homophone_worker_v1.py",
+    "bytes": 12358,
+    "sha256": "1bfd90c6a41272d09e969a866e7f3f0d97ae10d0a41138786cea86586305b6b3",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/under26_native_greedy_homophone_word_fastscreen_20261020_v1/selected_combined168_original4059_two_scoring_seed_v1_v2_gpu_binding/HOMO_FULL_ALL20239_LOCAL81_V1.npz",
+    "bytes": 28794479,
+    "sha256": "29d57cc8da981a6999fac83ace4543654ce6cf804a40d82124d86b434b658c7a",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/under26_native_greedy_homophone_word_fastscreen_20261020_v1/selected_combined168_original4059_two_scoring_seed_v1_v2_gpu_binding/HOMO_FULL_MODEL_SEED44_V1.pt",
+    "bytes": 70886,
+    "sha256": "b6f8a6910aacbadb2a2df891cb4ff13f3159f9f54009ca8a6878830c4ae20810",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/under26_native_greedy_homophone_word_fastscreen_20261020_v1/selected_combined168_original4059_two_scoring_seed_v1_v2_gpu_binding/HOMO_FULL_MODEL_SEED45_V1.pt",
+    "bytes": 70886,
+    "sha256": "de8b6162a426f62cbcadf8d9fc960183bf94ba59ff39fb4b7775af03328cd864",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/under26_native_greedy_homophone_word_fastscreen_20261020_v1/selected_combined168_original4059_two_scoring_seed_v1_v2_gpu_binding/HOMO_FULL_PLAN_V1.json",
+    "bytes": 9966,
+    "sha256": "09b16a36ecc4b6aa4b8e529b1ae0acf4a42ebfdb72e0a295b87bd0d9c1fe2bc4",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/under26_native_greedy_homophone_word_fastscreen_20261020_v1/selected_combined168_original4059_two_scoring_seed_v1_v2_gpu_binding/HOMO_FULL_WORD_NORM_V1.npz",
+    "bytes": 1698,
+    "sha256": "beef23947d3251de6d8138324d521a60dca627ff9f48588ff8e8d4ccf33fd2dc",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/under26_native_greedy_homophone_word_fastscreen_20261020_v1/selected_combined168_original4059_two_scoring_seed_v1_v2_gpu_binding/homo_full_driver_v1.py",
+    "bytes": 754,
+    "sha256": "ce82372c29f2f7a6edd0eaee17fe47dca929e3b7581455d911e44326835192ec",
+    "pin_checked": false
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/under26_native_greedy_homophone_word_fastscreen_20261020_v1/selected_combined168_original4059_two_scoring_seed_v1_v2_gpu_binding/homo_full_worker_v1.py",
+    "bytes": 14891,
+    "sha256": "9a18c2206d16e2418d743393cbe62685d2becc49838e246bd98208879cc37592",
+    "pin_checked": false
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/under26_native_posterior_inside_strong_main_hidden16_micro_20261020_v1/v2_school_public_cache_reconstruction/RECOVERED_PUBLIC_MAIN_INPUTS_ALL22380_V1.npz",
+    "bytes": 24364321,
+    "sha256": "dcb6f28f825051942525af230f922a36333b8cb2ae673cd7f7cb84e6c2fd2448",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/under26_native_word_evidence_sentence_moments_ridge_20261020_v1/selected_both32_alpha100_original4059_two_Q39_seed_v1/WORD_MOMENTS_both32_A100_SEED44_V1.npz",
+    "bytes": 7091,
+    "sha256": "09e8a16f9138d8ac3d839c3ebe9209668db11d5b21df0d8aa55daec51f9c7c5a",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/under26_native_word_evidence_sentence_moments_ridge_20261020_v1/selected_both32_alpha100_original4059_two_Q39_seed_v1/WORD_MOMENTS_both32_A100_SEED45_V1.npz",
+    "bytes": 7098,
+    "sha256": "dd09ed5dbbbb9b4582a0adf0fa89a2d757f67af633926deb695ecb685bb1fb74",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/under26_parakeet_TDT_human10077_severity_routes_20261020_v1/ROUTE_TDT_LORA_STEP1260_V1.pt",
+    "bytes": 2552526,
+    "sha256": "9ccb066ad5f770772f005f17f3aee6829d07f8c55090b3eed9421b1b7b7c456f",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/under26_parakeet_native_TDT_human_dual_LoRA_micro_20261020_v1/HUMAN_TDT_LORA_STEP768_V1.pt",
+    "bytes": 1702054,
+    "sha256": "6a2456ad1a84cd1096eaeb04a7920591a0adf8fc1308c2691363b7ec6175d5ca",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/under26_parakeet_native_TDT_human_dual_LoRA_micro_20261020_v1/human_tdt_driver_v1.py",
+    "bytes": 765,
+    "sha256": "67c250f1a1d4bf555ea5d0f783014d1c30ca6a1a2a7603f7b0468841e9999889",
+    "pin_checked": false
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/under26_parakeet_native_TDT_human_dual_LoRA_micro_20261020_v1/human_tdt_score_v1.py",
+    "bytes": 5881,
+    "sha256": "c18facc77416434cd1bc8263e2cf7914b8b677c9fbc6a2cfb830c9634a4768fd",
+    "pin_checked": false
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/under26_parakeet_native_TDT_human_dual_LoRA_micro_20261020_v1/human_tdt_score_v2.py",
+    "bytes": 5883,
+    "sha256": "671d984febc101aa2feb73c38c600583345eda65fc666a188ab9f66f49178157",
+    "pin_checked": false
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/under26_parakeet_native_TDT_human_dual_LoRA_micro_20261020_v1/human_tdt_train_v1.py",
+    "bytes": 9448,
+    "sha256": "24961dd59f1675dd789d1c8839c053dc047165bbea33e739966bdb90f1b61d76",
+    "pin_checked": false
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/under26_parakeet_native_TDT_human_dual_LoRA_micro_20261020_v1/native_word_evidence_v1.py",
+    "bytes": 791,
+    "sha256": "c7f22bd51a395309e7f402a11dd6ffb9fab3e7272fd2d67ef2704043edcd7898",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/under26_parakeet_native_TDT_human_dual_LoRA_micro_20261020_v1/secondary_human_and_dual_half_original4059_v1/HUMAN_TDT_SECONDARY_GLOBAL50_FEATURES_V1.npz",
+    "bytes": 5841341,
+    "sha256": "e37a266d8a66da3ecb65e27f25bb60082984ca707da7ba78fcdc17b7d1371b16",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/under26_parakeet_native_TDT_human_dual_LoRA_micro_20261020_v1/secondary_human_and_dual_half_original4059_v1/HUMAN_TDT_SECONDARY_human_half_CONTROL_RIDGE_SEED44_V1.npz",
+    "bytes": 4438,
+    "sha256": "e1c95bb7fc927d8e0bc4637083c466cbb5c458849444ab6757a34be8dc61c26b",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/under26_parakeet_native_TDT_human_dual_LoRA_micro_20261020_v1/secondary_human_and_dual_half_original4059_v1/HUMAN_TDT_SECONDARY_human_half_CONTROL_RIDGE_SEED45_V1.npz",
+    "bytes": 4444,
+    "sha256": "59ae41ecf2f6ba82d9b94e86fc57eda0c8db9bdc33360d6c1edb135fc1a0b3a8",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/under26_parakeet_native_TDT_human_dual_LoRA_micro_20261020_v1/secondary_human_and_dual_half_original4059_v1/HUMAN_TDT_SECONDARY_human_half_NEW_RIDGE_SEED44_V1.npz",
+    "bytes": 4404,
+    "sha256": "1a5dcaba697166916452adf51111f2b8bc8b943345f8e6439f568990e3b67b2d",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/under26_parakeet_native_TDT_human_dual_LoRA_micro_20261020_v1/secondary_human_and_dual_half_original4059_v1/HUMAN_TDT_SECONDARY_human_half_NEW_RIDGE_SEED45_V1.npz",
+    "bytes": 4402,
+    "sha256": "0739107ca22ab0caf4c6bdb39d0d282a6da6b361dc376bf119b515de452b490f",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/under26_parakeet_native_TDT_human_dual_LoRA_micro_20261020_v1/selected_response_parser_v1.py",
+    "bytes": 1039,
+    "sha256": "c9aa28006de578119620d69bc4d210f2c2ab4e6a4324baef5766029d444f340a",
+    "pin_checked": false
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/under26_parakeet_native_TDT_human_dual_LoRA_micro_20261020_v1/tdt_loss_core_v1.py",
+    "bytes": 3191,
+    "sha256": "fad71016ef97af89dd2d91b11213aaaf07b809182eea18ee908fffbff6893864",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/under26_parakeet_native_TDT_human_dual_LoRA_micro_20261020_v1/tdt_qualification_v1.py",
+    "bytes": 2236,
+    "sha256": "2f556bc7bccf0c6a52487a961e57bdebd33a796229bc95d40ee8353271ce1761",
+    "pin_checked": false
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/under26_parakeet_native_TDT_word_evidence_20261020_v1/TDT_PLAN_V1.json",
+    "bytes": 6991,
+    "sha256": "fecec28bd4183406347e9413a5d59129fa3bb3522411c4cbc907b4df833e174b",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/under26_parakeet_native_TDT_word_evidence_20261020_v1/native_tdt_core_v1.py",
+    "bytes": 6914,
+    "sha256": "02cddfdc729d9b3fac6cf884b0cf82f5524240d3f769628d69bb542978825097",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/under26_parakeet_native_TDT_word_evidence_20261020_v1/tdt_driver_v1.py",
+    "bytes": 677,
+    "sha256": "dc02be18d5319d532c4a4ee90ee4a01b0b3322cc6461be6512d3090e26c2da15",
+    "pin_checked": false
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/under26_parakeet_native_TDT_word_evidence_20261020_v1/tdt_worker_v1.py",
+    "bytes": 6372,
+    "sha256": "a7fa7c835d15495d13af22edb73e030deced90212e529db7af08cd49c76dae68",
+    "pin_checked": false
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/under26_parakeet_native_TDT_word_evidence_20261020_v1/teacher_prefix_acoustic_contrast_pilot_v1/teacher_driver_v1.py",
+    "bytes": 644,
+    "sha256": "eec74a33a81f3294747bd496dbf7e8825d9f45a085773ce2d265dad978ff2384",
+    "pin_checked": false
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/under26_parakeet_native_TDT_word_evidence_20261020_v1/teacher_prefix_acoustic_contrast_pilot_v1/teacher_support_core_v1.py",
+    "bytes": 2779,
+    "sha256": "06e3acb3c830e733f47e94c492a5d091deec5d233b35bf18d0f41865117f981e",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/under26_parakeet_native_TDT_word_evidence_20261020_v1/teacher_prefix_acoustic_contrast_pilot_v1/teacher_worker_v1.py",
+    "bytes": 8770,
+    "sha256": "73afb27b221af5583b6ba1c18d3b76881e273f2bfb50412d7890bd32c5c62be9",
+    "pin_checked": false
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/under26_projection_adapted_TDT_aligned_word32_micro_20261020_v1/PROJ_ALIGNED_TDT_PLAN_V1.json",
+    "bytes": 6755,
+    "sha256": "9486035c220e54ffa8bd9c251ef906f4170599d0f95e2cf2fa7876bcbdeb2905",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/under26_projection_adapted_TDT_aligned_word32_micro_20261020_v1/selected_fresh_and_hidden_original4059_two_score_seed_v1/PROJ_ALIGNED_TDT_FULL_ALL20239_LOCAL32_V1.npz",
+    "bytes": 25297479,
+    "sha256": "11103c796f5c04e9540f58428e76424a0a3e8850537e21cff4076a926cfe4652",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/under26_strong_main_warm_native64_fullhead_objectives_micro_20261020_v1/selected_native_MSE_paramhalf_original4059_two_seed_v1/WARM_FULL_NATIVE179_MSE_PARAMHALF_SEED44_V1.pt",
+    "bytes": 54228,
+    "sha256": "0738ba7e3cdfd1f4fbb3761886b91a3d3fc75d6dee857783191830710ce950a6",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/under26_strong_main_warm_native64_fullhead_objectives_micro_20261020_v1/selected_native_MSE_paramhalf_original4059_two_seed_v1/WARM_FULL_NATIVE179_MSE_PARAMHALF_SEED45_V1.pt",
+    "bytes": 54228,
+    "sha256": "a9712adcd3ce548e3105793c135f9bfdec74bd292af026ae25cdc52221a320b1",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/under26_strong_main_warm_native64_fullhead_objectives_micro_20261020_v1/selected_native_MSE_paramhalf_original4059_two_seed_v1/WARM_FULL_NATIVE64_FIT_NORM_V1.npz",
+    "bytes": 240601,
+    "sha256": "55a918af5e1220d487389b47f638917b3f270fac33a82f0847ef4a6f9075ba73",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/under26_strong_parent_aligned_TDT_residual_fastscreen_20261020_v1/secondary_word114_and_ridge151_half_original4059_two_score_seed_v1/STRONG_RESIDUAL_WORD_NORMS_V1.npz",
+    "bytes": 292681,
+    "sha256": "b2daad4af0ab672cdff4053bf9cbe5e67ce321d716740a0b62fd2f040a6774e9",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/under26_strong_parent_aligned_TDT_residual_fastscreen_20261020_v1/secondary_word114_and_ridge151_half_original4059_two_score_seed_v1/STRONG_RESIDUAL_word114_SEED44_V1.pt",
+    "bytes": 49894,
+    "sha256": "e81389d6b0cded53bd4a56ebf94e28dca80b16e66487c3d7eee5eabefc335b30",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/under26_strong_parent_aligned_TDT_residual_fastscreen_20261020_v1/secondary_word114_and_ridge151_half_original4059_two_score_seed_v1/STRONG_RESIDUAL_word114_SEED45_V1.pt",
+    "bytes": 49894,
+    "sha256": "cb67afd9310f74f40bc72f19d31a10c9c2c20ebcd2e7c84721d02b912d5356d1",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/under26_wavlm_dualphone_frozen_20261019_v1_public_audio_v3/head_screen_v1/wavlm_head_worker_v1.py",
+    "bytes": 10261,
+    "sha256": "aab5ac4508fcc09d5d205d4a3437a56e0b40e7a36dd5818753aa0f8bfb72927f",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/under26_word_direct_readout_larger_TRAINheld_20261020_v1/direct_driver_v1.py",
+    "bytes": 692,
+    "sha256": "4182087b446a3e55978c6e1dc07a58394ab24191f6ffc8a30e32d0b820c405fe",
+    "pin_checked": false
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/under26_word_direct_readout_larger_TRAINheld_20261020_v1/direct_worker_v1.py",
+    "bytes": 7210,
+    "sha256": "054c9df21489b1da3e46a4a6a39ff5f415dbbe35129fba163db153b414aed499",
+    "pin_checked": false
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/under26_word_direct_readout_larger_TRAINheld_20261020_v1/selected_direct32_blend50_original4059_two_score_seed_v1/DIRECT_FULL_MODEL_SEED44_V1.pt",
+    "bytes": 71270,
+    "sha256": "c49cebd1f75305a81d1c38106074620d252102a2f8dbde04a1f9ded16682dd05",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/under26_word_direct_readout_larger_TRAINheld_20261020_v1/selected_direct32_blend50_original4059_two_score_seed_v1/DIRECT_FULL_MODEL_SEED45_V1.pt",
+    "bytes": 71270,
+    "sha256": "23175200864bb81c424540b29015f6d91dc6855d36e01118031306cf3135e9e2",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/under26_word_set_context_warm_fastscreen_20261020_v1/selected_continue_original4059_two_seed_v1/CONTINUE_FULL_MODEL_SEED44_V1.pt",
+    "bytes": 71654,
+    "sha256": "3e676dda9c9d51a923f4046bd92fe0f29c7782190d6f5bd585b0a2a6ee99db31",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/under26_word_set_context_warm_fastscreen_20261020_v1/selected_continue_original4059_two_seed_v1/CONTINUE_FULL_MODEL_SEED45_V1.pt",
+    "bytes": 71654,
+    "sha256": "a4707661ba28d50ac4e8866a8045249d167cbc4fbddf65a524265b7f459c5974",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_qwen_internalization_autoresearch_20261015/validation_ancestor_boundary_audit_20261019_v1/STRICT_TRAIN_HISTORICAL_ROLES_V1.npz",
+    "bytes": 653711,
+    "sha256": "d442a214820dde1bb8a273503a5ba081707f9ad679628b007885b1bf1a90eaaf",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_split_listener_adapter_probe_v1/lora.py",
+    "bytes": 1438,
+    "sha256": "1fb24d06712ef29358870dae7f077c40db41ca29c923b8d707a527898161e8e6",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/clip2_lmy/CLIP2_lmy/my_experiments/d6e_zhao_capability_internalization_v1/official_VALID_DEV25_78405_export_20261022_v1/VALID_BASE920_V1.npz",
+    "bytes": 19319904,
+    "sha256": "bef1d102a9b9821cb992a662fc18295517f7081b014507139dbcafa1e9baf76c",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/03_my_improvements/d6e_word_v1/listener_pilot.py",
+    "bytes": 22364,
+    "sha256": "d443610da4e427de987bfdb42159236c863b525fab8f6cce5306e2dc4a8aa968",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_ENCODERS/Granite/protocol.json",
+    "bytes": 737,
+    "sha256": "44ff45dd59c9236c7fe837e3d1e90f82473f835067a7be8e1efa5b0c450d18a5",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_ENCODERS/Granite/selection.json",
+    "bytes": 385572,
+    "sha256": "f8f3ab87808eac213838f52f0c8b0037830590992f5b1da2f45047944b045651",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_ENCODERS/Granite/tasks/Granite_part_0/features.f16",
+    "bytes": 255068160,
+    "sha256": "73edfabd6e9f683ef94c1c9c827a9b4822c97abaa2bd5a3d02ec8411b626435d",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_ENCODERS/Granite/tasks/Granite_part_0/index.json",
+    "bytes": 112395,
+    "sha256": "a7da98d0b16869e104c1b03e8e373f197b117532c5886bc17e112c74a63c1c06",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_ENCODERS/Granite/test_frozen_worker.py",
+    "bytes": 4697,
+    "sha256": "0761f7b1b5bdbc1660c156df244f7b77bcea3076ac11ed9866537d4f31962565",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_ENCODERS/Granite/worker.py",
+    "bytes": 5234,
+    "sha256": "3690129d7bb980950b47c4d5014c1c7f8a820d85755e2dc52389265efda13501",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_ENCODERS/Parakeet/protocol.json",
+    "bytes": 762,
+    "sha256": "fd454ce629847a2c71c72ac8745d559fa24b54ca116a61d70b53d37d5bfd212b",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_ENCODERS/Parakeet/selection.json",
+    "bytes": 385572,
+    "sha256": "f8f3ab87808eac213838f52f0c8b0037830590992f5b1da2f45047944b045651",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_ENCODERS/Parakeet/tasks/Parakeet_part_0/features.f16",
+    "bytes": 258465792,
+    "sha256": "63d29d53e6c8c0f1a93b58ba0d71ec31c10ea6d2ece9a203af9d0ae831393d66",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_ENCODERS/Parakeet/tasks/Parakeet_part_0/index.json",
+    "bytes": 112406,
+    "sha256": "23cbd0c3d10806fa6eafb1cebad0e40b06ba26246d33991b9ff998b2e0ba7734",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_ENCODERS/Parakeet/test_frozen_worker.py",
+    "bytes": 4697,
+    "sha256": "0761f7b1b5bdbc1660c156df244f7b77bcea3076ac11ed9866537d4f31962565",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_ENCODERS/Parakeet/worker.py",
+    "bytes": 5234,
+    "sha256": "3690129d7bb980950b47c4d5014c1c7f8a820d85755e2dc52389265efda13501",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_FINAL_READOUT/eval_inputs/EVAL_GRANITE35_seed44.npz",
+    "bytes": 272573,
+    "sha256": "22761c064a87980e25a9d6f2610e2827b519946dec6d94b8376a4562f8236eca",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_FINAL_READOUT/eval_inputs/EVAL_GRANITE35_seed45.npz",
+    "bytes": 272276,
+    "sha256": "1217b0d52a6c9b85dfe97a7289b28ac33731428e5005b2bf3ab11e6e7f8f08f4",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_FINAL_READOUT/eval_inputs/EVAL_MVDR_FEATURES.npz",
+    "bytes": 3599986,
+    "sha256": "db1818b3c7b27168d94062358831d07c0cd1432c687e2b01e7e9eb287eb3f575",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_FINAL_READOUT/eval_inputs/EVAL_NATIVE48_WORD81.npz",
+    "bytes": 3666437,
+    "sha256": "1e1087d8b08014211bdda33688dd654f57abda1441804395dda3f2acde0ced45",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_FINAL_READOUT/eval_inputs/EVAL_PARAKEET35_seed44.npz",
+    "bytes": 272880,
+    "sha256": "4f7ec575aaf6103d0ce01ccba762595f62127a44fe38aa4f8c8ffc174d7b160b",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_FINAL_READOUT/eval_inputs/EVAL_PARAKEET35_seed45.npz",
+    "bytes": 271862,
+    "sha256": "16559efd59d6bd3a9313dd91136c02793e934c99e4f71b2d9a75fc2198e2b2bc",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_FINAL_READOUT/eval_inputs/EVAL_PREFIX_BAND280.npz",
+    "bytes": 1741827,
+    "sha256": "a1288bffaa57973002b0a9903eb2db76ead9c07571c80dde9b1e4c523518536d",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_FINAL_READOUT/eval_inputs/EVAL_QWEN_STEREO78_seed44.npz",
+    "bytes": 876360,
+    "sha256": "e522b38daafd4ccd93ab423b95078cddfe8ef059c62ff549d6454025e1b44992",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_FINAL_READOUT/eval_inputs/EVAL_QWEN_STEREO78_seed45.npz",
+    "bytes": 868149,
+    "sha256": "e8fb128df29c9b30965b7ba5ccdc3dac56216c3035dd1e8f32f9a41d8ab5f6e5",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_FINAL_READOUT/eval_inputs/EVAL_TDT_FEATURES.npz",
+    "bytes": 5808401,
+    "sha256": "1def2afd9e4092e5bcb70606c211fc8ab9c7a1f0418bcdaed726fc6776d0b9e0",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_FINAL_READOUT/original_fixed_predict.py",
+    "bytes": 17510,
+    "sha256": "06c06f00e881d73ed9aa9b2582d2691893dca092e92d1a1ebc990e3cb1213865",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_FINAL_READOUT/original_manifest.json",
+    "bytes": 307716,
+    "sha256": "bbf54933016bc876bd23876b577d45d9581072b3b19f8211109527b622063eee",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_FREE_ASR/protocol.json",
+    "bytes": 2015,
+    "sha256": "24297c8e5f855b2cd4bf33acd9a2688dc7077b492c2a6bb94a4a3a584f0332a8",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_FREE_ASR/selection.json",
+    "bytes": 1224139,
+    "sha256": "8ac7f41c90120fc00493218e55e17a91f95f3c9ccd50a29118c84ded1f40a1d4",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_FREE_ASR/tasks/free_0/EVAL_FREE_ASR9_AVAILABILITY.npz",
+    "bytes": 156100,
+    "sha256": "274e1d10a24e50b7509aca4642d972324c25e069663bfd4e54cb0abd93df44c8",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_FREE_ASR/worker.py",
+    "bytes": 5778,
+    "sha256": "9493e7685af987a4ae337591a81e4171cd128a8b041aa34a9a1a7670e92462d4",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_FREE_ASR/wrapper.py",
+    "bytes": 4697,
+    "sha256": "0761f7b1b5bdbc1660c156df244f7b77bcea3076ac11ed9866537d4f31962565",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_LISTENER/protocol.json",
+    "bytes": 1569,
+    "sha256": "87a15d04cb59ff466156adfb32d021aa1ff9e886669c1fa3c6b6ddce08d82280",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_LISTENER/selection.json",
+    "bytes": 1107618,
+    "sha256": "cc39b67700d44e20fe149526a65014268c8bc73e3add084dd8615bf83f3c0f2b",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_LISTENER/worker.py",
+    "bytes": 4721,
+    "sha256": "c34b69e160c2772721f450ad221dfca3d8cc3b52ef7e8daff047092f79ddd679",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_LISTENER_MERGED/complete.json",
+    "bytes": 11257,
+    "sha256": "6921c782eeea232939d49171fb3b68a5b4ac6876c03ad8a4dda4ee886388411c",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_LISTENER_TORCH26/protocol.json",
+    "bytes": 1595,
+    "sha256": "dcb63e451de374a1336d9d3453924988a3da57d29a8a9b33a709bd319cf4cdbe",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_LISTENER_TORCH26/selection.json",
+    "bytes": 1107618,
+    "sha256": "cc39b67700d44e20fe149526a65014268c8bc73e3add084dd8615bf83f3c0f2b",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_LISTENER_TORCH26/worker.py",
+    "bytes": 4954,
+    "sha256": "baf96d9230abe3273b1f3761343a2ed469975f1f4d59ebe6e980c46437d98eb9",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_LISTENER_TORCH26/wrapper.py",
+    "bytes": 4697,
+    "sha256": "0761f7b1b5bdbc1660c156df244f7b77bcea3076ac11ed9866537d4f31962565",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_LISTENER_TORCH26_PART1/protocol.json",
+    "bytes": 1687,
+    "sha256": "f37076a8fef13634dd2dfa5a80b14336a07a0fdc10e6b36ee04e1e5a32d34fcc",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_LISTENER_TORCH26_PART1/selection.json",
+    "bytes": 443910,
+    "sha256": "a8863cb2dd0829d070f435897fad847b2361ec1a6b186623cbbc1c55b0741e79",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_LISTENER_TORCH26_PART1/worker.py",
+    "bytes": 5040,
+    "sha256": "337c1a81ace1bcbc01c6d585395c41884d6483b4ddd2469bd9879431d992d6fe",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_LISTENER_TORCH26_PART1/wrapper.py",
+    "bytes": 4697,
+    "sha256": "0761f7b1b5bdbc1660c156df244f7b77bcea3076ac11ed9866537d4f31962565",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_LM4/core.py",
+    "bytes": 1354,
+    "sha256": "d76b7a442f5044d40f5f2d1cdbdb5498149bccfe8c74def240216fd485d67c5e",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_LM4/protocol.json",
+    "bytes": 553,
+    "sha256": "aca1fa223c56b30bdfc8b98f0829b801abf1062c5113a97706ff9ef2feaf6f1e",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_LM4/selection.json",
+    "bytes": 1558194,
+    "sha256": "8ba40064c16a991300863fc1522ce4194c5c22bc423f461446de483fc6feaced",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_LM4/tasks/lm4_0/EVAL_REFERENCE_LM4.npz",
+    "bytes": 66387,
+    "sha256": "ac68218c4714c1b8e577b696eec32e9ea09400fd661095e67cff54ce18becfbb",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_LM4/valid_manifest.json",
+    "bytes": 68903,
+    "sha256": "f1faaad85bf90d76369c3a747dc06da11caeebd611b718cafc262b20e7d38743",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_LM4/valid_reference.npy",
+    "bytes": 34000,
+    "sha256": "8b69bf9a3d95aa28b9aa2cb2025f4d0da01b5e2f6bbd0460fe12b70a9fe04ab9",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_LM4/worker.py",
+    "bytes": 5226,
+    "sha256": "f32f34eec977f30b2a3ff30972d5835b1b60601876050cbc8cdb3ec3cb801242",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_LM4/wrapper.py",
+    "bytes": 4697,
+    "sha256": "0761f7b1b5bdbc1660c156df244f7b77bcea3076ac11ed9866537d4f31962565",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_MVDR/protocol.json",
+    "bytes": 7208,
+    "sha256": "7b29db5b5ce0ffdc1e485e8b62eaba2ce9ebaa678ef8d4cbb67be68be92939a2",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_MVDR/selection.json",
+    "bytes": 1085707,
+    "sha256": "20e46005c622e0b43138fb64f164b5beabe1c4f1eedf81e55084548467579c65",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_MVDR/worker.py",
+    "bytes": 8379,
+    "sha256": "8dad9627c0384c0ca6efb1ab80a9710fdf15f4635e21bac11c9895221bdef7a8",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_NATIVE/protocol.json",
+    "bytes": 8115,
+    "sha256": "b82a04723821bf724fe92ce6936980b402545dcadfa3e9cca032126c1731b67d",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_NATIVE/selection.json",
+    "bytes": 479457,
+    "sha256": "2b75d5570f9bb702d2cc2a66d3e5c6cf55f9426f230ad98e2cb3ec2b34c0e64d",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_NATIVE/tasks/native_0/EVAL_NATIVE48_WORD81.npz",
+    "bytes": 3666437,
+    "sha256": "1e1087d8b08014211bdda33688dd654f57abda1441804395dda3f2acde0ced45",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_NATIVE/test_frozen_worker.py",
+    "bytes": 4697,
+    "sha256": "0761f7b1b5bdbc1660c156df244f7b77bcea3076ac11ed9866537d4f31962565",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_NATIVE/worker.py",
+    "bytes": 8903,
+    "sha256": "d735c3c7b6ac99da14234f14c1b39b7f3a79c6e2f288c2bdd5d0235b41d1a2cd",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_PARENT_MAIN/CONTROL_PARENT_MAIN.npz",
+    "bytes": 5495,
+    "sha256": "df32ae1ad93b72cb554e437dcbf5c58266a8c43648f0a72f0e21d9de4c7105e1",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_PARENT_MAIN/EVAL_WITH_CONTROLS_PARENT_MAIN.json",
+    "bytes": 21441,
+    "sha256": "cea95539caa443b467746a9480e8dfedf846feb0a3fadff341d3d45add9410d8",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_PARENT_MAIN/EVAL_WITH_CONTROLS_PARENT_MAIN.npz",
+    "bytes": 3260231,
+    "sha256": "a881d279939278e42949c3f11d2ac117c83d8b48fb4d2a1020a71a8c3b752915",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_PARENT_MAIN/EVAL_WITH_CONTROLS_STATIC.json",
+    "bytes": 2358,
+    "sha256": "12eafc3cdc11db6d1e03e3ed90bc611969aa499af29f241e0e5a29dd2cfe0a92",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_PREFIX_BAND/protocol.json",
+    "bytes": 3974,
+    "sha256": "f64add78f20d9641d76548922f87daeb1ae2419f96b11b1f849f450cd2c2a3c5",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_PREFIX_BAND/selection.json",
+    "bytes": 899472,
+    "sha256": "dd2b4aa7a5552638c7394150cf3f081bcee00cdcf08053d50f5a2472f3f1ef35",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_PREFIX_BAND/test_frozen_worker.py",
+    "bytes": 4697,
+    "sha256": "0761f7b1b5bdbc1660c156df244f7b77bcea3076ac11ed9866537d4f31962565",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_PREFIX_BAND/worker.py",
+    "bytes": 6477,
+    "sha256": "d58c5c2edd070e166493fbec50f0f7a95e06c57b48c8839e7a6d332ba313a733",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_QWEN/protocol.json",
+    "bytes": 3038,
+    "sha256": "b84851746f52f85870284ad74fd827dfc587bd64b02a68b0e460779f0fdada82",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_QWEN/selection.json",
+    "bytes": 544574,
+    "sha256": "9a9d747071fd78e8bd1b711603635b32f435e38552761e7517e2ed26c303bee7",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_QWEN/tasks/Qwen_part_0/EVAL_QWEN_STEREO78_seed44.npz",
+    "bytes": 876360,
+    "sha256": "e522b38daafd4ccd93ab423b95078cddfe8ef059c62ff549d6454025e1b44992",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_QWEN/test_frozen_worker.py",
+    "bytes": 4231,
+    "sha256": "3043df4b5adc4b4ecc3bca37ba4941cbaf099b7e07ffa97a07177d71efbc582a",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_QWEN/worker.py",
+    "bytes": 9649,
+    "sha256": "bc5807df456bf5831836197ba05796869356258dd93f5c5e8b2ff34aef7f3836",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_QWEN17/protocol.json",
+    "bytes": 1901,
+    "sha256": "ea67dc3c70fb884faab2e7ed7f0b13b69bc13baaec62f6a3581aa7a8fcdbcc39",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_QWEN17/selection.json",
+    "bytes": 1107618,
+    "sha256": "cc39b67700d44e20fe149526a65014268c8bc73e3add084dd8615bf83f3c0f2b",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_QWEN17/worker.py",
+    "bytes": 7072,
+    "sha256": "98973cce25b5c609a8d132cd5e2e84efc42f6675a5a49284d1c54a4070785ef0",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_QWEN17_DIAGNOSTIC/protocol.json",
+    "bytes": 1901,
+    "sha256": "ea67dc3c70fb884faab2e7ed7f0b13b69bc13baaec62f6a3581aa7a8fcdbcc39",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_QWEN17_DIAGNOSTIC/selection.json",
+    "bytes": 1107618,
+    "sha256": "cc39b67700d44e20fe149526a65014268c8bc73e3add084dd8615bf83f3c0f2b",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_QWEN17_DIAGNOSTIC/worker.py",
+    "bytes": 7455,
+    "sha256": "7313c8e62017f1b8795b0c2034fe7117874ccad3671549e662e12e7670fddd5d",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_QWEN17_DIAGNOSTIC/wrapper.py",
+    "bytes": 4697,
+    "sha256": "0761f7b1b5bdbc1660c156df244f7b77bcea3076ac11ed9866537d4f31962565",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_QWEN17_FIXED4090/protocol.json",
+    "bytes": 2029,
+    "sha256": "1a46416904f750aa4dae84240cc71d711aa8fa294b136bbdde28eb5c5f86b46a",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_QWEN17_FIXED4090/selection.json",
+    "bytes": 1107618,
+    "sha256": "cc39b67700d44e20fe149526a65014268c8bc73e3add084dd8615bf83f3c0f2b",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_QWEN17_FIXED4090/tasks/native_0/EVAL_QWEN17_RAW45.npz",
+    "bytes": 3167039,
+    "sha256": "eb722b36b87214ce7c3f9cda706a9c19fd47cc935e0fc712c95405fc0e0e6de1",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_QWEN17_FIXED4090/tasks/native_0/complete.json",
+    "bytes": 709,
+    "sha256": "8f1fe4f410653a912d41759086d14a43100486c36c1cbb4a44d053ccc0e9646c",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_QWEN17_FIXED4090/worker.py",
+    "bytes": 7434,
+    "sha256": "7d5a06522fa83b851d415e6a973c26e6e77bd1b16995af6bc62c715a2103ad26",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_QWEN17_FIXED4090/wrapper.py",
+    "bytes": 4697,
+    "sha256": "0761f7b1b5bdbc1660c156df244f7b77bcea3076ac11ed9866537d4f31962565",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_SIDE_RAW/tasks/raw_0/EVAL_LMY_PUBLIC_SIDE_RAW.npz",
+    "bytes": 356903,
+    "sha256": "a86cc0c1cfa99448ad1c643cccd0151979bcce2d46926321869005dd6d0d0c16",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_TDT/protocol.json",
+    "bytes": 13103,
+    "sha256": "b80ba00b1d34c5f49d24f65708f00b9d8297075fa9862c5beab33774358969cd",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_TDT/selection.json",
+    "bytes": 479457,
+    "sha256": "2b75d5570f9bb702d2cc2a66d3e5c6cf55f9426f230ad98e2cb3ec2b34c0e64d",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_TDT/worker.py",
+    "bytes": 6035,
+    "sha256": "fd88f42baf5346f0ea564de3072a6bb8fe54c469e3d3cf4c94c8dec4ad74e7ea",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_TEXT/protocol.json",
+    "bytes": 814,
+    "sha256": "51d1df9e5c01a3967df668eea9bc8f043b0ea18012ff5b1bc632ff66abbc992e",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_TEXT/stage.py",
+    "bytes": 2108,
+    "sha256": "94fa2ec7374a6faf9160187174634d8162d8511bcc7e9cd3494114dbd2fae929",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_TEXT/tasks/text_0/EVAL_ROBERTA_TEXT.npz",
+    "bytes": 63775140,
+    "sha256": "e6330606f1063361864de7d1cf8cb1dd7d1ffeccbaa970b774f8cebf6d71f24d",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_TEXT/worker.py",
+    "bytes": 5390,
+    "sha256": "40559aab57ba68a3a34ceafc6d15a665279c1cd28ae04f6a078f8a9cec9e3ee7",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_TEXT/wrapper.py",
+    "bytes": 4697,
+    "sha256": "0761f7b1b5bdbc1660c156df244f7b77bcea3076ac11ed9866537d4f31962565",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_WORD261_TORCH26/cmudict.dict",
+    "bytes": 3618488,
+    "sha256": "81917843c7f44ce2b094ac63873c2c7a4cf802040792c455ba3ca406891c3d22",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_WORD261_TORCH26/controls/15816b64c1e78664a75a360a.npy",
+    "bytes": 7680128,
+    "sha256": "3ca50552fd2abde5503682b008562e4f97d6f6054fe68b87801f2cc154f21750",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_WORD261_TORCH26/controls/4c1305298289cc31081a508c.npy",
+    "bytes": 7680128,
+    "sha256": "5f6aa3a46e64226941b6421a4111685405086b6747b7bc68c66ab77cba3e6f39",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_WORD261_TORCH26/protocol.json",
+    "bytes": 3943,
+    "sha256": "db3df49f933173ab4b812a6919b0690a7960c46acad8dc341931d2549604793a",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_WORD261_TORCH26/selection.json",
+    "bytes": 1558194,
+    "sha256": "8ba40064c16a991300863fc1522ce4194c5c22bc423f461446de483fc6feaced",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_WORD261_TORCH26/sources/fast_path.py",
+    "bytes": 1846,
+    "sha256": "6f70f2151c85f89b3e5e69abb8ac95b79eb51dfe8b745be73cf6e7684ba6f32c",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_WORD261_TORCH26/sources/grounding.py",
+    "bytes": 6000,
+    "sha256": "e7f3080d217b4c4462ad2372972b52b4134ff34e6d2db5ffef8d1e771ac09586",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_WORD261_TORCH26/sources/labels.py",
+    "bytes": 4945,
+    "sha256": "8df86298628615021a769b01fceb700507f4a159baacff12512848174042ab0f",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_WORD261_TORCH26/sources/probe_inputs.py",
+    "bytes": 11227,
+    "sha256": "59ad9a41749346098480bce1ede4a42d13cb9481d085ab288e81bc89fe904e46",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_WORD261_TORCH26/sources/stream_inputs.py",
+    "bytes": 17244,
+    "sha256": "2faf766ef15f1726a3c65fcef0d7a1ec9da4caee66ad337488c37614f966a78c",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_WORD261_TORCH26/sources/transfer_core.py",
+    "bytes": 9157,
+    "sha256": "f897aa0e6b454ad17631b2b0a2019d2ea65125f0ea5ee0cf772bc0b770c92709",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_WORD261_TORCH26/sources/word_features.py",
+    "bytes": 12692,
+    "sha256": "fd0e43455cfe26b9d0747cea1900dd4df3bbad10682f1651918421f62759ef16",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_WORD261_TORCH26/true_pair_epoch3.pt",
+    "bytes": 1171326,
+    "sha256": "cd33290ddb3d68acac0557fc67da333a939f1b81fcd46c041752f8c6ec08b3e8",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_WORD261_TORCH26/valid_word_reference.npz",
+    "bytes": 119275,
+    "sha256": "3b88863210504afe011070042a3c1d078eef539a9e855fa2d4b5cde6b474418c",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_WORD261_TORCH26/worker.py",
+    "bytes": 8218,
+    "sha256": "1f0ad923bdf6ffce61a36ef58e1cc1403a90e6b0e00a18b9edb3aef86cd61e85",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/LMY_WORD261_TORCH26/wrapper.py",
+    "bytes": 4697,
+    "sha256": "0761f7b1b5bdbc1660c156df244f7b77bcea3076ac11ed9866537d4f31962565",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/QWEN17_BACKEND_DIAG/protocol.json",
+    "bytes": 2056,
+    "sha256": "06762cd8d9fac749595f6ace072b4175d0f0c7ff7a728f0e85cf882911c07fc8",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/QWEN17_BACKEND_DIAG/selection.json",
+    "bytes": 916,
+    "sha256": "50e86980c259c2b0bfa0b74a5dca447b3af67e6814f896165dbfc21af0bbbb43",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/QWEN17_BACKEND_DIAG/worker.py",
+    "bytes": 7449,
+    "sha256": "746b52ce02d0931dd3ece5b9d2520318e642c929029fb1cf6cbae5e86d5240a2",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/QWEN17_BACKEND_DIAG/wrapper.py",
+    "bytes": 4697,
+    "sha256": "0761f7b1b5bdbc1660c156df244f7b77bcea3076ac11ed9866537d4f31962565",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/VALID2117_REPLAY/ORIGINAL_VALID_RAW13.npz",
+    "bytes": 266035,
+    "sha256": "0a84dc8d7c0883da9e350e48bae7c17842dd894998bade8548a3bb8cd348d489",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/VALID2117_REPLAY/VALID_PARENT_MAIN.npz",
+    "bytes": 3150367,
+    "sha256": "4edad0ecb8d8284f67f1757150336bfcac8a1a65ea070580e4fbab67ef119ed8",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/VALID2117_REPLAY/parent_complete.json",
+    "bytes": 8277,
+    "sha256": "cd7bb7061456538d99d17d4d6bb1793ffbaf783407a9577717b604d19758a00f",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/VALID2117_REPLAY/protocol.json",
+    "bytes": 2111,
+    "sha256": "88f2c2e35536e2783fb888c131dfcb7375dd4bb01c0096a61d510205e860b9a2",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/VALID2117_REPLAY/public_static.npz",
+    "bytes": 46821313,
+    "sha256": "6ab015bb58b0e814ec64874cb71cdda12a5a21a6017b86882d60afd36784c3a3",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/VALID2117_REPLAY/seed44_sealed_Qwen_RMS_human_encoder_strict24_VALID2117.npz",
+    "bytes": 135499,
+    "sha256": "f9c139ba336ad76daa532ceecd54ec5e5d1725315e245239bf3c3c3b935ad337",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/VALID2117_REPLAY/seed45_sealed_Qwen_RMS_human_encoder_strict24_VALID2117.npz",
+    "bytes": 135470,
+    "sha256": "6b4e8f5ee2094b1c083f4ed05e9b948b3f6e384a7a62fd46ec2f133291bb203e",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/VALID2117_REPLAY/selection.json",
+    "bytes": 738715,
+    "sha256": "9a7b3ce39ff3aa27f1e26e2890e1ad33e8fe861acc69792d78a8f5c0b36085c7",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/VALID2117_REPLAY/tasks/valid_native/VALID_QWEN17_RAW45.npz",
+    "bytes": 3071791,
+    "sha256": "480ec818a7868fa34842cb30e4068f3da6acff6eec5cc89b45c7f3d185bf6bbf",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/VALID2117_REPLAY/tasks/valid_native/complete.json",
+    "bytes": 420086,
+    "sha256": "11ff6613016518fc9a7bcf7b2b9efe58201dac2bff57c492f9368d85296f2408",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/VALID2117_REPLAY/worker.py",
+    "bytes": 7291,
+    "sha256": "3b641db8f76bb786ee84fbfff7480d88cbed6843cc053cb957cb63354c6e75af",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/VALID2117_REPLAY/wrapper.py",
+    "bytes": 4697,
+    "sha256": "0761f7b1b5bdbc1660c156df244f7b77bcea3076ac11ed9866537d4f31962565",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/Y2_BLIND/VALID_expected.json",
+    "bytes": 2605,
+    "sha256": "3d27e145028d60519251c2170886d60936e784a2b38f6a3154974417648625a5",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/Y2_BLIND/original_worker.py",
+    "bytes": 1863,
+    "sha256": "af00dbc3bb961e7b54dc6045565dce7f6da0e9c4c5d0a91985af1db4e70eccfe",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/Y2_BLIND/protocol.json",
+    "bytes": 666,
+    "sha256": "7b89f14f97842c69ce69d162b14102177b25db0959740492cb8550aa35df658c",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/Y2_BLIND/selection.json",
+    "bytes": 18284600,
+    "sha256": "77b157c01fd7cdb0448f727342aaca9c32f5104160d16d99e97dbc5f05a5f719",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/Y2_BLIND/test_frozen_worker.py",
+    "bytes": 4697,
+    "sha256": "0761f7b1b5bdbc1660c156df244f7b77bcea3076ac11ed9866537d4f31962565",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/Y2_BLIND/v10_Y2_blind_math_20261022.py",
+    "bytes": 2760,
+    "sha256": "a2be72eac54bfd5fc95caeeddb712e4c5f87ccc25d8909632261552658d3b3c8",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/Y2_BLIND/worker.py",
+    "bytes": 2317,
+    "sha256": "f93adb78e7e63173d8effb7510558d8fc2d0fdc624de4cb40a661153e6affb9b",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/Y2_TF/VALID_expected.json",
+    "bytes": 1954,
+    "sha256": "f99fbd6ca8dd84b85d4fdbf9ab321fa037befa5213d2e205dd9ae6e76308cc49",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/Y2_TF/original_worker.py",
+    "bytes": 4487,
+    "sha256": "52de40031a58db636fc395837a7448362c430f19b1c75392878fd7a48d32484d",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/Y2_TF/protocol.json",
+    "bytes": 771,
+    "sha256": "19a02dbb0ce83f83e6610ddb50e10e66be91a8e4f7ab8e9feabeebf77f351e87",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/Y2_TF/selection.json",
+    "bytes": 329817,
+    "sha256": "d588acfeefec7e6635fc77faa79b6cc81ed67799f2a29e54f3e08e936cd834c6",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/Y2_TF/test_frozen_worker.py",
+    "bytes": 4697,
+    "sha256": "0761f7b1b5bdbc1660c156df244f7b77bcea3076ac11ed9866537d4f31962565",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/Y2_TF/worker.py",
+    "bytes": 2923,
+    "sha256": "a028da80adcafb5a2d881717d0acb911a9457ec99aafae3d91c452eff974dde1",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/Y4/VALID_expected.json",
+    "bytes": 5462,
+    "sha256": "de946cc851b67b3832b8c260c3bbe67e92f70017755fa548d9c720d066e8cb6c",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/Y4/original_D1_pitch_worker.py",
+    "bytes": 2239,
+    "sha256": "b42cf0395f5cc2687444e536d80f232008b2ccbd9a7e76a994b2c9ad3e09090e",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/Y4/original_D1_worker.py",
+    "bytes": 2514,
+    "sha256": "a1faad76d1095d4dce9b967cb4d823944f899bc9353e705949ac87ae1cd78875",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/Y4/original_y4_worker.py",
+    "bytes": 4445,
+    "sha256": "8256459c859adb3290a84981c766ace57e2a29af242891992137ff4c2603281a",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/Y4/protocol.json",
+    "bytes": 653,
+    "sha256": "27fe578c9b945a8694b6d6b623135be7d8e494680c38c1a6aea9b446aa64de60",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/Y4/rmvpe_vendor.py",
+    "bytes": 23540,
+    "sha256": "9b4c6c97613254ae1c23f236f2260b528692900a6fde87c6966fe0ddc3433963",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/Y4/selection.json",
+    "bytes": 1527049,
+    "sha256": "b48af2e2f41fcc3f9563db314f2a1b863601b6c78be29692ee9aa7076e21269e",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/Y4/test_frozen_worker.py",
+    "bytes": 4697,
+    "sha256": "0761f7b1b5bdbc1660c156df244f7b77bcea3076ac11ed9866537d4f31962565",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/Y4/worker.py",
+    "bytes": 5451,
+    "sha256": "fbedd0c654037754e24e0ca4e3a3b376fd1f57883711d3ce0ade2a92b561e025",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/Z9/EVAL_row_links.json",
+    "bytes": 448747,
+    "sha256": "82471471f1681c1d062f5ce02884b0de811e46858fc26e567edd192784c896c5",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/Z9/VALID_expected.json",
+    "bytes": 1084,
+    "sha256": "ef64774b73767f84923589846d5227e3b32402aa19ecaf09bfa921dcf9183c4e",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/Z9/original_worker.py",
+    "bytes": 4895,
+    "sha256": "f6a31e99673cfdc7e10ebc505d443898b13a00280d593c71450b01216e2b745a",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/Z9/protocol.json",
+    "bytes": 462,
+    "sha256": "f07efca21e7e0aca4381fed519f9671188b93f40e55b3ada003ed0eac791617e",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/Z9/scene_selection.json",
+    "bytes": 195266,
+    "sha256": "50ce8ed5fd1bc62e1af46ee77ff2aaebfe6caa3866751a7d1ab654e91a545e64",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/Z9/test_frozen_worker.py",
+    "bytes": 4697,
+    "sha256": "0761f7b1b5bdbc1660c156df244f7b77bcea3076ac11ed9866537d4f31962565",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/Z9/worker.py",
+    "bytes": 2786,
+    "sha256": "7179223a901eb3ec30bc1ca40093765fc7a0da593fe3f63576ad754e7ea76d19",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/merge_lmy_listener.py",
+    "bytes": 5482,
+    "sha256": "a590e73f6d4a576e2decd0beda5d02a9c3473dd0bc06e4c4de195bd30ce3f0fa",
+    "pin_checked": false
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/native_EVAL/Granite/protocol.json",
+    "bytes": 431,
+    "sha256": "562f2f4de61c67e07ec0ded96e462f6beaf7c41d8f3b0223d18acc813681f3b3",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/native_EVAL/Granite/selection.json",
+    "bytes": 268221,
+    "sha256": "05f41ed35e9874bb141931d608c432d502dbf04296e1c0489886661513eeff76",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/native_EVAL/Granite/test_frozen_worker.py",
+    "bytes": 4231,
+    "sha256": "3043df4b5adc4b4ecc3bca37ba4941cbaf099b7e07ffa97a07177d71efbc582a",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/native_EVAL/Granite/v10_ER_temporal_math_20261022.py",
+    "bytes": 4841,
+    "sha256": "9401c1051b05f0f381b7ed242cbbde9168bc1aaec9d9c6069fb9a0f97eb24aeb",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/native_EVAL/Granite/worker.py",
+    "bytes": 10604,
+    "sha256": "c741f509b30625e6543e178aeb7be44c72d0324f31f872885a569df2966f90d6",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/native_qualification/Granite/protocol.json",
+    "bytes": 406,
+    "sha256": "6ea080e7cbd8c1944de714c750086cb62e6452f312c005d41fcba700ddaf45e4",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/native_qualification/Granite/selection.json",
+    "bytes": 244,
+    "sha256": "a7eff69ffeec9f43914bc3f4cf344a401cef2ceb2bfaebffe64c3519906241e9",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/native_qualification/Granite/test_frozen_worker.py",
+    "bytes": 4184,
+    "sha256": "13c040379fbb12bde808989795b6b902cb399b849a93e2317880b5a037203b47",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/native_qualification/Granite/v10_ER_temporal_math_20261022.py",
+    "bytes": 4841,
+    "sha256": "9401c1051b05f0f381b7ed242cbbde9168bc1aaec9d9c6069fb9a0f97eb24aeb",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/native_qualification/Granite/worker.py",
+    "bytes": 10604,
+    "sha256": "c741f509b30625e6543e178aeb7be44c72d0324f31f872885a569df2966f90d6",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/native_qualification/Parakeet/protocol.json",
+    "bytes": 390,
+    "sha256": "fbc59d77a6caff88a8ca23803b6e17ec3959d9bede550256a49b7aa164bd6494",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/native_qualification/Parakeet/selection.json",
+    "bytes": 244,
+    "sha256": "a7eff69ffeec9f43914bc3f4cf344a401cef2ceb2bfaebffe64c3519906241e9",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/native_qualification/Parakeet/test_frozen_worker.py",
+    "bytes": 4184,
+    "sha256": "13c040379fbb12bde808989795b6b902cb399b849a93e2317880b5a037203b47",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/native_qualification/Parakeet/v10_ER_temporal_math_20261022.py",
+    "bytes": 4841,
+    "sha256": "9401c1051b05f0f381b7ed242cbbde9168bc1aaec9d9c6069fb9a0f97eb24aeb",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_final_TEST2189_20261028/native_qualification/Parakeet/worker.py",
+    "bytes": 10604,
+    "sha256": "c741f509b30625e6543e178aeb7be44c72d0324f31f872885a569df2966f90d6",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_latest_LMY_TRAIN_fixed_20261027/TRAIN_fixed_prediction.npz",
+    "bytes": 78108,
+    "sha256": "036963d756f33fe202b6b468b79129c88f4d908a24559b8699f2247a75fd2386",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/clip2_latest_LMY_TRAIN_fixed_20261027/VALID_bound_prediction.npz",
+    "bytes": 54600,
+    "sha256": "83203dbe172d11c67e66f9ec54d1280971679fd0b4ec2224ba7be00b0f7571a8",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/v10_EVAL_AB_20261020_0200/fresh/medium.jsonl",
+    "bytes": 3976530,
+    "sha256": "391fb2c8562ade87e43276243a20d02e91f0cf11e5cddd7c98629a8b83d91cd4",
+    "pin_checked": false
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/v10_EVAL_AB_20261020_0200/fresh/v2.jsonl",
+    "bytes": 3898945,
+    "sha256": "0c83e03803de14667eedf53906e9a132dfda3780c626afee3da1d14779a55f0e",
+    "pin_checked": true
+  },
+  {
+    "file": "home/lisiyi/zhaojiahao_1/runs/v10_EVAL_AB_20261020_0200/fresh/v3.jsonl",
+    "bytes": 3549817,
+    "sha256": "252435b78ff72e8c0b886925b968f53c98879650968150cfd6b69a6dc1222023",
+    "pin_checked": true
+  }
+]

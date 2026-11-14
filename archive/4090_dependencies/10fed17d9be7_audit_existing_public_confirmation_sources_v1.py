@@ -1,0 +1,17 @@
+
+from common_v1 import *
+FULL=R.parent/'full_support_CTC_word_expectation_micro_v1/full_strict16180_original4059_v1';MAIN=R.parent/'full_native_path_word_mean_Brier_micro_v1';LAT=R.parent/'latent_response_joint_word_count_micro_v1'
+manifest=read(FULL/'FULL_PUBLIC_WORD6_FEATURES_SEALED_BEFORE_WORD_FITS_V1.json');fp=FULL/'ALL20239_PUBLIC_WORD6_SEALED_BEFORE_WORD_FITS_V1.npz';assert sha(fp)==manifest['feature_sha']
+raw=nz(fp,keys=['signals','fullsupport']);assert raw['signals'].tolist()==ss and raw['fullsupport'].shape==(20239,12,6)
+warm=nz(MAIN/'MICRO5120_NATIVE_MEAN_PUBLIC_FEATURES_BEFORE_NEW_COUNT_TARGETS_V1.npz',keys=['signals','warm_word']);assert warm['signals'].tolist()==mids
+jj=np.array([idx[s]for s in mids]);gap=float(abs(raw['fullsupport'][jj]-warm['warm_word']).max());assert gap<1e-12
+roles=nz(R/'PROSPECTIVE_TRAIN_GROUP_CONFIRMATION_ROLES_BEFORE_PRIMARY_SCORES_V1.npz');fresh=roles['signals'].tolist();newjj=np.array([idx[s]for s in fresh]);assert np.isfinite(raw['fullsupport'][newjj]).all()
+lf=LAT/'LATENT_MICRO_PUBLIC_INPUTS_AND_FIT_ONLY_NORMALIZERS_V1.npz';ls=read(LAT/'LATENT_INPUT_PREPARATION_COMPLETE_V1.json');assert sha(lf)==ls['public_inputs_sha']
+small=nz(lf,keys=['signals','x','legal','support_median','support_mean','support_std']);assert small['signals'].tolist()==mids
+C=read(G/'PATHS_V1.json');sfile=pathlib.Path(C['PREV'])/'PUBLIC_RAW_SUPPORT_AND_BASES_V1.npz';sup=nz(sfile,keys=['signals','support','legal']);assert sup['signals'].tolist()==ss
+ap=ROOT/'native_word_temporal_current_baseline_full_v1/ALL20239_PUBLIC_WORD_FRAME_ALIGNMENT_V1.npz';aps=read(ap.parent/'PUBLIC_ALIGNMENT_SEAL_BEFORE_TARGETS_V1.json');assert sha(ap)==aps['feature_sha'];al=nz(ap,keys=['signals','meta','legal']);assert al['signals'].tolist()==ss
+v=sup['support'][jj];support=np.clip((np.where(np.isfinite(v),v,small['support_median'])-small['support_mean'])/small['support_std'],-4,4)
+x=np.concatenate([support,al['meta'][jj]],-1).astype(np.float32)
+legal=small['legal'];xgap=float(abs(x[legal]-small['x'][legal]).max());assert xgap<1e-7
+report=dict(timestamp=time.time(),status='existingpubliccache_compatibility_checked_no_new_predictions_or_scores',new_confirmation_rows=len(fresh),raw_fullsupport_cache=dict(path=str(fp),sha=manifest['feature_sha'],current5120_warmword6_maxgap=gap,all_new_confirmation_rows_finite=True),word51_public_reconstruction=dict(source_support=str(sfile),source_support_sha=sha(sfile),public_meta=str(ap),public_meta_sha=aps['feature_sha'],FIT4096_norm_source=str(lf),FIT4096_norm_source_sha=ls['public_inputs_sha'],current5120_legalword_x51_maxgap=xgap),critical_reuse_limits=['Reuse fullsupportRAW6 only; doNOT usefull16180Word57norms or fullWord57weights for4096FIT confirmation','Reconstructnewx51withoriginalsupport_median/mean/std from4096FIT','Newwordprior mustuseexistingthree4096foldCountmodels THENlabel-free shifttoexistingfull4096Countmean to matchcurrentheldanchorpolicy, not full16180Countmodels','FrozenwarmWord57 source is MAIN/NATIVE_MEAN_WORD57_warm_SEED44_FINAL6_V1.pt; legacyASRankestry remains notwholepipelineOOF'],no_targets_or_humanresponses_read=True,no_ASR_forwards=True,no_new_models_or_scores=True,only_prepare_actual_confirmation_if_primary_promising=True)
+put('PROSPECTIVE_CONFIRMATION_EXISTING_PUBLIC_CACHE_COMPATIBILITY_V1.json',report);note(stage='public_confirmation_cache_source_replay',raw6gap=gap,x51gap=xgap,rows=len(fresh))
